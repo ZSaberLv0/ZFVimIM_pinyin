@@ -836,6 +836,7 @@ mokuai 12
 moni 5
 moqi 5
 moren 32
+morenzhi 1
 moshi 23
 mou 1
 mouge 6
@@ -1087,7 +1088,7 @@ shiti 2
 shiwei 7
 shixian 23
 shixiao 5
-shiyong 73
+shiyong 74
 shou 6 1 1 1
 shouci 13
 shoudao 21
