@@ -183,7 +183,7 @@ chongtu 2
 chongxin 10
 chu 5 1 1 1
 chuan 7 1
-chuandi 4
+chuandi 5
 chuangguan 2
 chuangjian 10
 chuangkou 3
@@ -398,7 +398,7 @@ fuza 1
 fuze 2
 fuzhi 5
 ga 4
-gai 40 1
+gai 41 1
 gaibian 1
 gaidong 1
 gaiwei 5
@@ -943,7 +943,7 @@ qianyi 1
 qianzhui 1
 qianzou 1
 qidong 28
-qie 9
+qie 10
 qiege 2
 qiehuan 24
 qilai 4
@@ -1069,7 +1069,7 @@ shengyu 5
 shenhe 1
 shenti 7
 shezhi 34
-shi 165 37 2 2 1
+shi 166 37 2 2 1
 shibai 24
 shichang 8
 shifou 68
@@ -1368,7 +1368,7 @@ xunhuan 11
 xuni 9
 xunzhao 1
 xuqiu 9
-xuyao 133
+xuyao 134
 ya 2
 yan 4
 yanchang 14
@@ -1562,11 +1562,11 @@ zheteng 6
 zhexie 3
 zheyang 8
 zhezhong 5
-zhi 56 30 2 1 1 1
+zhi 57 31 2 1 1 1
 zhibo 19
 zhichi 63
 zhidao 3 1
-zhiding 41 1
+zhiding 42 1
 zhidu 1
 zhidui 2
 zhifu 14 9
@@ -1630,7 +1630,7 @@ zi 29 3 2 2
 zidai 1
 zidingyi 1
 zidong 55
-ziduan 25
+ziduan 26
 zifu 1
 zifuchuan 11
 ziji 10
