@@ -126,7 +126,7 @@ caineng 1
 caiyong 10
 caizhi 9
 can 1
-canjian 32
+canjian 33
 cankao 3
 canshu 43
 canyu 1
