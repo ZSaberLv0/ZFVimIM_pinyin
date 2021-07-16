@@ -158,7 +158,7 @@ changtai 3
 chanpin 6
 chansheng 1
 chaoguo 3
-chaoshi 19 1
+chaoshi 20 1
 chaxun 26
 chayi 1
 chazhao 10
@@ -1075,7 +1075,7 @@ shifou 68
 shih 8
 shihou 3
 shiji 8
-shijian 60 36
+shijian 61 37
 shijianchuo 3
 shijiao 1
 shike 4
