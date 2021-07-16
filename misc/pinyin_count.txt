@@ -128,7 +128,7 @@ caizhi 9
 can 1
 canjian 32
 cankao 3
-canshu 42
+canshu 43
 canyu 1
 canzhao 4
 cao 1
@@ -962,7 +962,7 @@ qinru 1
 qiong 1
 qiqing 1
 qishi 1
-qita 42
+qita 43
 qitao 1
 qiu 11
 qiwang 5
