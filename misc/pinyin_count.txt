@@ -49,7 +49,7 @@ bu 39
 bubian 3
 buchuan 2
 budao 1
-bufen 8
+bufen 9
 buguan 1
 buhan 2
 buhui 4
@@ -244,7 +244,7 @@ geng 1
 gengda 1
 gengduo 1
 genggai 8 6
-gengxin 28
+gengxin 29
 genju 11
 gequ 2
 geshi 25
@@ -383,8 +383,8 @@ keyi 4
 keyong 9
 kong 39
 kongge 2
-kongzhi 33
-ku 5
+kongzhi 34
+ku 6
 kuan 1
 kuangao 1
 kuangjia 2
@@ -541,7 +541,7 @@ shangchuan 3
 shangjia 7
 shangshu 2
 shangxian 2 2
-she 6
+she 7
 sheji 1
 sheng 4
 shengcheng 1
@@ -601,7 +601,7 @@ ti 2
 tianchong 1
 tianjia 7
 tiaojian 1
-tiaoshi 10
+tiaoshi 11
 tiaozheng 15
 tiaozhuan 16
 tice 7
@@ -632,7 +632,7 @@ tuihui 2
 tuijian 6
 tuili 1
 tupian 8
-wai 14
+wai 15
 waiwang 3
 wan 2 1
 wancheng 2
@@ -684,7 +684,7 @@ xiaozu 1
 xiayishou 1
 xiazai 1
 xiesi 4
-xieyi 25
+xieyi 27
 xijie 3
 xin 8
 xinban 2
@@ -758,7 +758,7 @@ yong 10 8
 yonghu 6
 yongyu 10
 you 28 20 10
-youhua 12
+youhua 13
 youshangjiao 4
 youxi 1
 youxian 2 2
@@ -805,7 +805,7 @@ zhengzai 2
 zhezhong 1
 zhi 36 3 1
 zhichang 1
-zhichi 90
+zhichi 91
 zhidao 1
 zhiding 41
 zhihou 6
