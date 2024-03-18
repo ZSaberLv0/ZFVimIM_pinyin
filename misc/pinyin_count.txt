@@ -583,6 +583,7 @@ shuo 1
 shuoming 2
 shuping 12
 shuxi 1
+shuxing 1
 shuyu 1
 shuzi 5
 shuzu 5
@@ -603,7 +604,7 @@ tianchong 1
 tianjia 7
 tiaojian 1
 tiaoshi 11
-tiaozheng 15
+tiaozheng 16
 tiaozhuan 16
 tice 7
 tidai 2
