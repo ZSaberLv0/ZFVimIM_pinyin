@@ -62,7 +62,7 @@ buxuyao 3
 buyao 3
 buyiding 1
 buyong 1
-buzai 7
+buzai 8
 buzhichi 4
 buzuo 2
 ca 1
@@ -312,7 +312,7 @@ jiakuai 1
 jiami 1
 jiance 2
 jiang 24 6
-jianrong 6
+jianrong 7
 jianting 1
 jianyi 8
 jiaodi 1
@@ -463,7 +463,7 @@ ni 1
 nihao 2
 o 4
 paicha 1
-paidui 9
+paidui 10
 paixu 4
 panduan 3
 pei 4 1
@@ -680,6 +680,7 @@ xianyou 1
 xianzhi 1
 xiao 1
 xiaoguo 3
+xiaohui 1
 xiaoyu 1
 xiaozu 1
 xiayishou 1
@@ -811,7 +812,7 @@ zhidao 1
 zhiding 41
 zhihou 6
 zhijian 1
-zhijie 22
+zhijie 23
 zhikong 2
 zhilian 1
 zhiling 2
