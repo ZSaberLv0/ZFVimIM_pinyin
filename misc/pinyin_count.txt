@@ -154,7 +154,7 @@ diangeping 1
 dianji 18
 dianshiping 13
 dianyin 29
-diaoyong 12
+diaoyong 13
 dibu 4
 dier 2
 digui 1
@@ -236,7 +236,7 @@ gang 1 1
 gao 2
 gaoliang 1
 gaoyu 1
-ge 12 13 5
+ge 14 14 5
 gedan 6
 gege 1
 gei 1
@@ -357,6 +357,7 @@ jiqing 2
 jiu 2
 jiuban 4
 jiushi 1
+jiuxing 1
 jiyu 3
 jueding 5
 jun 3
@@ -757,7 +758,7 @@ yixialujing 1
 yixie 4
 yizhi 5 4
 yo 4
-yong 10 8
+yong 11 9
 yonghu 6
 yongyu 10
 you 28 20 10
@@ -832,6 +833,7 @@ zhu 2 1
 zhuan 5
 zhuangtai 35
 zhuanhuan 4
+zhuce 1
 zhudong 3
 zhufu 1
 zhuren 1 1
