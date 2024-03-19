@@ -244,7 +244,7 @@ geng 1
 gengda 1
 gengduo 1
 genggai 8 6
-gengxin 30
+gengxin 31
 genju 11
 gequ 2
 geshi 25
@@ -385,7 +385,7 @@ keyong 9
 kong 39
 kongge 2
 kongzhi 34
-ku 6
+ku 7
 kuan 1
 kuangao 1
 kuangjia 2
