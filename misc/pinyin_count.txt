@@ -289,7 +289,7 @@ houxu 6
 hua 2
 huadong 2
 huamian 1
-huancun 1
+huancun 2
 huang 2
 huanjing 7
 huanmu 6
@@ -510,7 +510,7 @@ qu 7
 quanbu 5
 quanju 22
 qubie 1
-quchu 3
+quchu 4
 qudiao 2
 queren 1
 queshi 1
