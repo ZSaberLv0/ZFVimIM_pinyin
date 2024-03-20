@@ -201,7 +201,7 @@ fang 4
 fangbian 1
 fangshi 22
 fangwen 1
-fanhui 25
+fanhui 26
 fanwei 2
 faqi 38
 fasong 1
@@ -552,7 +552,7 @@ shengji 1
 shengri 3
 shengyin 1
 shezhi 21
-shi 88 8 7
+shi 89 8 7
 shibai 5
 shibie 4
 shichang 7
@@ -593,8 +593,9 @@ sm 3
 song 1
 sudu 2
 suiji 4
+suo 1
 suofang 1
-suoyou 24
+suoyou 25
 sushe 1
 sushesudu 1
 ta 1
@@ -772,7 +773,7 @@ youxianji 2
 youxiao 1
 youyiyi 2
 youzhi 1
-yu 19 1
+yu 20 1
 yuan 6
 yuanma 1
 yuanshi 1
