@@ -200,7 +200,7 @@ biaole 表了
 biaomian 表面
 biaoming 表明 标名
 biaoqian 标签
-biaoqing 表情
+biaoqing 表情 标清
 biaoqingbao 表情包
 biaoshang 标上
 biaoshi 表示 标识 标示

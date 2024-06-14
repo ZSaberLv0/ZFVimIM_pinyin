@@ -32,7 +32,8 @@ bianhua 9
 bianma 1
 bianyi 2
 biaoji 1
-biaoqian 7
+biaoqian 8
+biaoqing 1 1
 biaoshi 16 1
 biaoti 4
 biaozhun 2
@@ -132,7 +133,7 @@ cunchu 5
 cunqu 1
 cunzai 10
 cuowu 2
-d 263
+d 266
 da 3
 dabao 1
 dai 1
@@ -154,7 +155,7 @@ daxiao 1
 dayin 1
 de 2
 dedao 2
-deng 20 2
+deng 21 2
 dengbi 1
 dengdai 1
 dengguang 24
@@ -224,7 +225,7 @@ faqi 38
 fasong 2
 fei 69
 fenbie 1
-feng 2 1
+feng 4 1
 fenge 7
 fengge 1
 fenlei 4
@@ -400,7 +401,7 @@ kaifang 1
 kaiguan 2
 kaiji 1
 kaiqi 6
-kaishi 111
+kaishi 112
 kandao 1
 kankan 1
 kaolv 1
@@ -474,7 +475,7 @@ mo 1
 mohu 1
 mokuai 3
 moni 4
-moren 83
+moren 84
 morenzhi 2
 moshi 21
 mouge 3
@@ -531,7 +532,7 @@ qie 2
 qiege 2
 qiehuan 16
 qijian 6
-qing 2 1
+qing 2 2
 qingba 16
 qingchu 2
 qingkan 1
@@ -580,7 +581,7 @@ sha 1
 shagashangbao 1
 shan 1
 shanchu 4
-shang 10
+shang 12
 shangbao 7
 shangchuan 3
 shangjia 8
@@ -607,7 +608,7 @@ shijian 23 15
 shijianchuo 1
 shili 4
 shipei 7
-shipin 65
+shipin 66
 shiwei 6
 shixian 14
 shiyi 2
@@ -680,7 +681,7 @@ tongzhi 9
 touchuan 2
 touming 1
 touxiang 1
-tu 23
+tu 24
 tuichu 40
 tuihui 2
 tuijian 7
@@ -842,7 +843,7 @@ yujing 1
 yulan 2
 yuleping 1
 yuliu 1
-yun 2
+yun 4
 yunduan 1
 yunxing 10
 yunxu 2
@@ -871,7 +872,7 @@ zhengzai 2
 zhezhong 1
 zhi 48 3 1
 zhichang 1
-zhichi 130
+zhichi 131
 zhidao 1
 zhiding 50
 zhihou 6
@@ -912,7 +913,7 @@ zifuchuan 6
 ziliao 1
 zixing 1
 ziyan 1
-ziyuan 11
+ziyuan 14
 ziziyuan 1
 zong 2
 zongshi 1
@@ -930,4 +931,5 @@ zuo 10 2
 zuobiaoxi 2
 zuoshangjiao 3
 zuowei 1
+zuoxiajiao 1
 zuoyou 2
