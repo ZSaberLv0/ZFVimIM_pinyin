@@ -196,7 +196,7 @@ dui 3
 duihua 1
 duiqi 2
 duixiang 18
-duiying 20
+duiying 22
 duiyu 14
 dun 1
 duo 2
@@ -908,7 +908,7 @@ zhuyi 18
 zi 2
 zidingyi 1
 zidong 48
-ziduan 50
+ziduan 52
 zifuchuan 6
 ziliao 1
 zixing 1
