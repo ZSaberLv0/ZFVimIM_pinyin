@@ -155,7 +155,7 @@ daxiao 1
 dayin 1
 de 2
 dedao 2
-deng 21 2
+deng 22 2
 dengbi 1
 dengdai 1
 dengguang 24
@@ -196,7 +196,7 @@ dui 3
 duihua 1
 duiqi 2
 duixiang 18
-duiying 24
+duiying 25
 duiyu 14
 dun 1
 duo 2
@@ -475,7 +475,7 @@ mo 1
 mohu 1
 mokuai 3
 moni 4
-moren 84
+moren 85
 morenzhi 2
 moshi 21
 mouge 3
@@ -908,7 +908,7 @@ zhuyi 18
 zi 2
 zidingyi 1
 zidong 48
-ziduan 52
+ziduan 53
 zifuchuan 6
 ziliao 1
 zixing 1
