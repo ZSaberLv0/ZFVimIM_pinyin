@@ -196,7 +196,7 @@ dui 3
 duihua 1
 duiqi 2
 duixiang 18
-duiying 22
+duiying 24
 duiyu 14
 dun 1
 duo 2
