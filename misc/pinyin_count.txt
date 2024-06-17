@@ -79,7 +79,7 @@ caineng 1
 caiyong 1
 caiyou 1
 caizhi 1
-canjian 37
+canjian 38
 cankao 4
 canshu 15
 caozuo 2
@@ -190,7 +190,7 @@ dongzuo 21
 dou 13
 douhao 7
 douyou 1
-du 1
+du 2 1
 duan 4
 dui 3
 duihua 1
@@ -401,7 +401,7 @@ kaifang 1
 kaiguan 2
 kaiji 1
 kaiqi 6
-kaishi 113
+kaishi 114
 kandao 1
 kankan 1
 kaolv 1
@@ -539,6 +539,7 @@ qingkan 1
 qingkong 10
 qingkuang 6
 qingqiu 1
+qingxi 1
 qita 15 1
 qiu 1
 qiwang 2
@@ -872,7 +873,7 @@ zhengzai 2
 zhezhong 1
 zhi 48 3 1
 zhichang 1
-zhichi 132
+zhichi 133
 zhidao 1
 zhiding 50
 zhihou 6
