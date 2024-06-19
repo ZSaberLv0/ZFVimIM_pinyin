@@ -1338,6 +1338,7 @@ fashou 发收
 fasong 发送
 faxian 发现
 faxin 发信
+faxing 发行
 faxue 法学
 faya 发芽
 fayan 发言
