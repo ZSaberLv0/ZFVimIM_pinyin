@@ -46,7 +46,7 @@ bixu 10
 biyao 1
 bo 2
 bofang 54
-bofangqi 3
+bofangqi 5
 bokong 8
 bowan 4
 bu 49
@@ -156,7 +156,7 @@ daxiao 3
 dayin 1
 de 2
 dedao 2
-deng 26 2
+deng 27 2
 dengbi 1
 dengdai 1
 dengguang 24
@@ -274,7 +274,7 @@ gequ 4
 geshi 29
 geshu 7
 gongju 3
-gongneng 5
+gongneng 6
 gou 1
 guan 5
 guanbi 2
@@ -317,7 +317,7 @@ houxu 6
 hua 2
 huadong 2
 huamian 2
-huancun 2
+huancun 3
 huang 2
 huanjing 14
 huanmu 13
@@ -453,6 +453,7 @@ linshi 3
 liru 25
 liucheng 9
 liuxing 1
+lixian 1
 long 1
 lujing 5
 lunwen 1
@@ -466,7 +467,7 @@ meifa 1
 meige 11 3
 meiti 4
 meiyou 16
-mi 13
+mi 14
 mianban 5
 miao 13
 ming 23 2 1
@@ -501,6 +502,7 @@ neiwang 2
 neizhi 12
 neng 7
 nenggou 10
+nengli 1
 ng 1
 ni 1
 nide 2
@@ -598,7 +600,7 @@ sheji 1
 sheng 4
 shengcheng 2
 shengji 1
-shengri 5
+shengri 6
 shengxiao 2
 shengyin 1
 shezhi 27
@@ -616,7 +618,7 @@ shijian 23 15
 shijianchuo 1
 shili 4
 shipei 7
-shipin 66
+shipin 67
 shiwei 6
 shixian 14
 shiyi 2
@@ -670,7 +672,7 @@ tiaozhuan 16
 tice 9
 tidai 2
 tigong 1
-tihuan 12
+tihuan 13
 tingliu 1
 tingzhi 3
 tishi 9
@@ -859,6 +861,7 @@ yun 5
 yunduan 1
 yunxing 10
 yunxu 2
+yunying 1
 yuyin 6
 zai 12 5
 zaibo 21
@@ -885,7 +888,7 @@ zhengzai 2
 zhezhong 1
 zhi 48 3 1
 zhichang 1
-zhichi 139
+zhichi 140
 zhidao 2
 zhiding 51
 zhihou 6
