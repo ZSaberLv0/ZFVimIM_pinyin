@@ -164,7 +164,7 @@ dengguang 24
 dengkong 12
 denglu 1
 dezhi 1
-di 1
+di 2
 dian 3
 diange 25
 diangeping 6
@@ -296,7 +296,7 @@ guo 5
 guoduan 1
 guolv 4
 h 1
-hai 4
+hai 5
 hang 3
 hangye 2
 hanyi 1
@@ -591,7 +591,7 @@ rukou 10
 ruo 53
 san 1
 saoma 1
-sha 1
+sha 2
 shagashangbao 1
 shan 1
 shanchu 4
@@ -664,6 +664,7 @@ suoyou 27
 sushe 1
 sushesudu 1
 ta 1
+tan 1
 tanchu 2
 teding 1
 teshu 9
