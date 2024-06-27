@@ -87,7 +87,7 @@ canshu 15
 caozuo 2
 ceng 2 2
 cengjing 3
-ceshi 16
+ceshi 17
 cha 1 1
 chajian 2
 chakan 4
@@ -195,7 +195,7 @@ dou 15
 douhao 7
 douyou 1
 du 5 1
-duan 4
+duan 5
 dui 3
 duihua 1
 duiqi 2
@@ -221,7 +221,7 @@ fan 1
 fang 4
 fangbian 1
 fangfa 2
-fangshi 28
+fangshi 29
 fangwen 1
 fanhui 31
 fanwei 2
@@ -429,6 +429,7 @@ kongbai 1
 kongge 2
 kongzhi 39
 ku 15
+kuaijie 1
 kuan 1
 kuangao 1
 kuangjia 2
@@ -924,6 +925,7 @@ zhuce 1
 zhudong 3
 zhufu 1
 zhuge 1
+zhunbei 1
 zhuren 1 1
 zhushou 2
 zhuyao 11
