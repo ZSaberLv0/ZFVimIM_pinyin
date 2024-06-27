@@ -81,7 +81,7 @@ caineng 1
 caiyong 1
 caiyou 1
 caizhi 1
-canjian 38
+canjian 39
 cankao 4
 canshu 15
 caozuo 3
@@ -187,7 +187,7 @@ diyici 1
 diyige 1
 dizhi 4
 dong 3 1
-donggan 10
+donggan 11
 donghua 2
 dongtai 2
 dongzuo 21
@@ -273,7 +273,7 @@ genggai 10 7
 gengxin 44
 genju 12
 gequ 4
-geshi 29
+geshi 30
 geshu 7
 gongju 3
 gongneng 6
@@ -390,7 +390,7 @@ jinru 13
 jinxing 16
 jinyong 9
 jinyou 1
-jiqing 5
+jiqing 6
 jishangjia 1
 jishi 1 1 1
 jiu 2
@@ -521,7 +521,7 @@ panduan 8
 pei 5 1
 peihe 3
 peiliao 1
-peizhi 181
+peizhi 182
 peizhixiang 1
 pin 1
 pinfan 1
@@ -535,7 +535,7 @@ pipei 14
 putong 1
 qi 1
 qian 7
-qiang 4
+qiang 5
 qiangzhi 4
 qianming 1
 qianyi 4
@@ -721,11 +721,13 @@ weiyi 1
 weiyu 3
 weizhi 18 5
 weizhun 1
+wen 1
 wenan 1
 wenben 8
 wendang 8
-wenjian 44
+wenjian 45
 wenti 25
+wenwenjian 1
 wenzi 7
 wo 5
 wode 1
@@ -737,7 +739,7 @@ wuxu 1
 wuyong 2
 xi 1
 xia 24
-xiafang 2
+xiafang 3
 xian 2
 xiang 4 2 2
 xiangduiyu 2
@@ -895,7 +897,7 @@ zhengge 3
 zhengque 1
 zhengzai 2
 zhezhong 1
-zhi 48 3 1
+zhi 49 3 1
 zhichang 1
 zhichi 143
 zhidao 2
@@ -934,7 +936,7 @@ zhuyi 18
 zi 3
 zidingyi 1
 zidong 49
-ziduan 61
+ziduan 62
 zifuchuan 6
 ziliao 1
 zixing 1
