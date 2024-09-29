@@ -259,7 +259,7 @@ faqi 39
 fasong 3
 faxin 1
 faxing 1
-fei 86
+fei 88
 fenbie 1
 feng 5 1
 fenge 7
@@ -602,7 +602,7 @@ qiangzhi 4
 qianming 1
 qianyi 5
 qidong 33
-qie 6 1
+qie 8 1
 qiege 7
 qiehuan 19
 qijian 8
@@ -681,7 +681,7 @@ shengxiao 3
 shengyin 2
 shewei 1
 shezhi 29
-shi 135 11 11
+shi 137 11 11
 shibai 7
 shibie 4
 shichang 12
@@ -974,7 +974,7 @@ yunying 4
 yuxian 3
 yuyin 6
 zai 21 6
-zaibo 26
+zaibo 28
 zaici 2
 zaijia 1
 zaixian 1
