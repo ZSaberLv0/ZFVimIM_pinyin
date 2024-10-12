@@ -60,7 +60,7 @@ budao 1
 bufen 11
 buguan 1
 buhan 8
-buhui 6
+buhui 7
 bujian 1
 buju 3
 buke 2 1
@@ -151,7 +151,7 @@ cunchu 5
 cunqu 1
 cunzai 16
 cuowu 4
-d 345
+d 346
 da 5
 dabao 3
 dai 2
@@ -173,7 +173,7 @@ daxiao 3
 dayin 1
 de 2
 dedao 2
-deng 35 2
+deng 36 2
 dengbi 1
 dengdai 2
 dengguang 34
@@ -241,7 +241,7 @@ er 1
 erji 10
 ershi 3
 erwei 1
-erweima 40
+erweima 41
 ewai 5
 fa 20
 fabu 5
@@ -329,7 +329,8 @@ guanxin 1
 guanzhu 1
 guding 15
 guge 2
-guize 7
+gui 1
+guize 8
 guo 5
 guocheng 2
 guoduan 1
@@ -749,7 +750,7 @@ teshu 36
 ti 2
 tian 1
 tianchong 1
-tianjia 21
+tianjia 23
 tiaojian 2
 tiaojie 1
 tiaoshi 17
@@ -763,10 +764,10 @@ tingliu 1
 tingzhi 3
 tishi 10
 tiyan 5
-tong 7
+tong 8
 tongbu 5
 tongchang 2
-tongguo 52
+tongguo 53
 tongji 1 1
 tonglu 2
 tongshi 4
@@ -1036,12 +1037,12 @@ zhuren 1 1
 zhushou 2
 zhuyao 12
 zhuye 3
-zhuyi 24
+zhuyi 25
 zi 3
 zice 1
 zidingyi 13
-zidong 65
-ziduan 72
+zidong 66
+ziduan 73
 zifuchuan 6
 ziliao 1
 zixing 1
