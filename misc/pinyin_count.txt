@@ -88,7 +88,7 @@ caizhi 1
 can 2
 canjian 44
 cankao 4
-canshu 18
+canshu 19
 caozuo 3
 ce 1
 ceng 2 2
@@ -173,7 +173,7 @@ daxiao 3
 dayin 1
 de 2
 dedao 2
-deng 34 2
+deng 35 2
 dengbi 1
 dengdai 2
 dengguang 34
@@ -749,7 +749,7 @@ teshu 36
 ti 2
 tian 1
 tianchong 1
-tianjia 20
+tianjia 21
 tiaojian 2
 tiaojie 1
 tiaoshi 17
