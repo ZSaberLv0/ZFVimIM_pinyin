@@ -48,7 +48,7 @@ biran 3
 bitian 78
 bixu 12
 biyao 1
-bo 9
+bo 10
 bofang 85
 bofangqi 9
 bokong 9
@@ -286,7 +286,7 @@ fuzai 2
 fuzhi 7
 fuzhu 1
 ga 4
-gai 46 1
+gai 47 1
 gaiban 1
 gaibian 2
 gaidong 2
@@ -425,7 +425,7 @@ jilu 4
 jin 76
 jincheng 18
 jindang 2
-jindu 5
+jindu 6
 jing 1
 jingyin 1
 jingying 1
@@ -901,7 +901,7 @@ yeke 2
 yemian 28
 yewu 10
 yeyou 1
-yi 20 8
+yi 21 8
 yibian 1
 yibu 1
 yichang 9
@@ -1047,7 +1047,7 @@ zifuchuan 6
 ziliao 1
 zixing 1
 ziyan 1
-ziyuan 21
+ziyuan 22
 ziziyuan 1
 zong 4
 zongshi 1
