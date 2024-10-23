@@ -112,7 +112,7 @@ chao 1
 chaoguo 4
 chaoshi 2 2
 charu 16
-chaxun 33
+chaxun 34
 chayi 2
 chazhao 1
 cheng 1
@@ -215,7 +215,7 @@ donghua 2
 dongtai 2
 dongzuo 21
 dou 18
-douhao 8
+douhao 9
 doushi 1
 douyou 1
 du 5 1
@@ -232,7 +232,7 @@ duli 1
 dun 2
 duo 3
 duoci 3
-duoge 5
+duoge 6
 duojiu 1
 duoshao 2
 duqu 5
@@ -262,7 +262,7 @@ faxing 1
 fei 90
 fenbie 1
 feng 5 1
-fenge 8
+fenge 9
 fengge 1
 fenlei 4
 fenping 1
@@ -484,7 +484,7 @@ kuan 1
 kuangao 1
 kuangjia 2
 kuozhan 1
-ky 33
+ky 34
 kyi 1
 l 6
 la 1
@@ -509,7 +509,7 @@ lijie 1
 like 1
 lin 4
 linshi 3
-liru 34
+liru 35
 liu 1 1
 liucheng 10
 liulanqi 1
@@ -535,7 +535,7 @@ mi 15
 mianban 5
 mianfei 1
 miao 14
-ming 26 2 1
+ming 28 2 1
 mingcheng 1
 mingling 15
 mingque 5
@@ -637,7 +637,7 @@ quebao 1
 queren 1
 queshi 1
 qufen 3
-qufeng 105
+qufeng 108
 qumu 1
 quxiao 10
 quyu 2
@@ -889,7 +889,7 @@ yanjiu 2
 yanse 2
 yanshi 2
 yanzheng 1
-yao 10
+yao 11
 yaokong 6
 yaoqiu 1
 yaoyou 1
@@ -1000,7 +1000,7 @@ zhengge 4
 zhengque 1
 zhengzai 2
 zhezhong 1
-zhi 58 5 2
+zhi 60 5 2
 zhichang 1
 zhichi 193
 zhidao 4
