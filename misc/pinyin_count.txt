@@ -49,7 +49,7 @@ bitian 78
 bixu 12
 biyao 1
 bo 10
-bofang 85
+bofang 86
 bofangqi 9
 bokong 9
 bowan 4
@@ -304,7 +304,7 @@ geng 2
 gengda 1
 gengduo 1
 genggai 10 7
-gengxin 49
+gengxin 50
 genju 13
 gequ 34
 geshi 35
@@ -682,7 +682,7 @@ shengxiao 3
 shengyin 2
 shewei 1
 shezhi 29
-shi 137 11 11
+shi 138 11 11
 shibai 7
 shibie 4
 shichang 12
@@ -749,7 +749,7 @@ tengxun 1
 teshu 36
 ti 2
 tian 1
-tianchong 1
+tianchong 2
 tianjia 23
 tiaojian 2
 tiaojie 1
@@ -943,7 +943,7 @@ yo 4
 yong 14 11
 yonghu 13
 yongyu 16
-you 42 29 11
+you 42 29 12
 youguan 1
 youhua 34
 youshangjiao 4
@@ -1041,7 +1041,7 @@ zhuyi 25
 zi 3
 zice 1
 zidingyi 13
-zidong 66
+zidong 67
 ziduan 73
 zifuchuan 6
 ziliao 1
