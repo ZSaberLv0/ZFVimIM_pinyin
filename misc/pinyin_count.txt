@@ -42,6 +42,7 @@ biaoti 4
 biaozhun 3
 bihua 2
 bili 2
+bimian 1
 bing 20
 bingqie 7
 biran 3
@@ -122,7 +123,7 @@ chi 1
 chicun 1
 chixu 2
 chong 1
-chongfu 1
+chongfu 2
 chonggou 2
 chongqi 1
 chongshi 1
@@ -151,7 +152,7 @@ cunchu 5
 cunqu 1
 cunzai 16
 cuowu 4
-d 349
+d 351
 da 5
 dabao 3
 dai 2
@@ -327,10 +328,10 @@ guanli 2
 guanlian 10
 guanxin 1
 guanzhu 1
-guding 15
+guding 17
 guge 2
 gui 1
-guize 8
+guize 9
 guo 5
 guocheng 2
 guoduan 1
@@ -754,7 +755,7 @@ teshu 36
 ti 2
 tian 1
 tianchong 2
-tianjia 23
+tianjia 24
 tiaojian 2
 tiaojie 1
 tiaoshi 17
@@ -914,7 +915,7 @@ yidian 17
 yiding 2
 yidong 1
 yiduan 2
-yige 18
+yige 20
 yiji 1 1
 yijian 10
 yijing 1
@@ -1004,7 +1005,7 @@ zhengge 4
 zhengque 1
 zhengzai 2
 zhezhong 1
-zhi 60 5 2
+zhi 61 5 2
 zhichang 1
 zhichi 193
 zhidao 4
