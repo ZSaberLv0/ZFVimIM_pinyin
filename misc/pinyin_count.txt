@@ -326,7 +326,7 @@ guangbo 1
 guangdian 1
 guanjia 1
 guanjian 3
-guanli 2
+guanli 3
 guanlian 10
 guanxin 1
 guanzhu 1
@@ -609,7 +609,7 @@ qiangzhi 4
 qianming 1
 qianyi 5
 qidong 33
-qie 8 1
+qie 9 2
 qiege 7
 qiehuan 19
 qijian 8
@@ -648,7 +648,7 @@ qumu 1
 quxiao 10
 quyu 3
 ranhou 2
-re 1
+re 2
 ren 9 5
 reng 3
 renhe 3
@@ -1058,7 +1058,7 @@ zifuchuan 6
 ziliao 1
 zixing 1
 ziyan 1
-ziyuan 23
+ziyuan 24
 ziziyuan 1
 zong 4
 zongshi 1
