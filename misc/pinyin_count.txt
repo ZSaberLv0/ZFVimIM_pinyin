@@ -136,7 +136,7 @@ chuanru 1
 chuantong 1
 chufa 11
 chufaqi 1
-chufei 2
+chufei 3
 chuli 16
 chushi 1
 chushihua 1
@@ -191,7 +191,7 @@ dianshiping 20
 dianxin 1
 dianyin 31
 diao 1
-diaoyong 16
+diaoyong 17
 dibu 4
 die 1
 diedai 1
@@ -258,7 +258,7 @@ fangshi 34
 fangwen 2
 fanhui 37
 fanwei 4
-faqi 39
+faqi 40
 fasong 3
 faxin 1
 faxing 1
@@ -359,7 +359,7 @@ hengping 5
 heshi 1
 hexin 2
 hou 51
-houduan 28
+houduan 29
 houtai 29
 houxu 8
 hua 4
@@ -414,7 +414,7 @@ jie 2 2
 jiedian 11
 jiegou 1
 jiejue 2
-jiekou 25
+jiekou 26
 jiemian 5
 jiequ 1
 jieri 1
@@ -689,8 +689,8 @@ shengxiao 3
 shengyin 2
 shewei 1
 shezhi 29
-shi 138 11 11
-shibai 7
+shi 139 11 11
+shibai 8
 shibie 5
 shichang 12
 shichanggahou 1
