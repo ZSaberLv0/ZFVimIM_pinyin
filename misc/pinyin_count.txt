@@ -175,7 +175,7 @@ daxiao 3
 dayin 1
 de 2
 dedao 2
-deng 36 2
+deng 37 2
 dengbi 1
 dengdai 2
 dengguang 34
@@ -607,7 +607,7 @@ qia 1
 qian 9
 qiang 5
 qiangzhi 4
-qianming 2
+qianming 3
 qianyi 5
 qidong 33
 qie 9 2
