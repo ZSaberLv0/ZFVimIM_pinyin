@@ -206,7 +206,7 @@ dianshiping 20
 dianxin 1
 dianyin 32
 diao 1
-diaoyong 20
+diaoyong 21
 dibu 4
 die 1
 diedai 1
@@ -337,7 +337,7 @@ gongneng 6
 gou 1
 gua 1
 guan 7
-guanbi 10
+guanbi 11
 guanfang 2
 guang 3
 guangbo 1
@@ -398,7 +398,7 @@ huidiao 9
 huifu 17 9
 huigui 2
 huigun 1
-huihua 11
+huihua 12
 hujiao 16
 hulue 3
 huo 58
@@ -496,7 +496,7 @@ kandao 2
 kankan 1
 kaolv 1
 kapian 2
-ke 22
+ke 23
 kefu 4 2
 keji 1
 kejian 15
@@ -698,7 +698,7 @@ ruanjian 1
 ruguo 3
 ruhe 2
 rukou 10
-ruo 91
+ruo 92
 san 6
 saoma 1
 se 4
@@ -936,7 +936,7 @@ xuanzhuan 1
 xunhuan 12
 xuni 1
 xuqiu 3
-xuyao 30
+xuyao 31
 yanchi 1
 yanjiu 2
 yanse 2
