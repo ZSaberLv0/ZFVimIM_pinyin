@@ -43,7 +43,7 @@ biaoqian 11
 biaoqing 1 1
 biaoshi 20 1
 biaoti 4
-biaozhi 2
+biaozhi 3
 biaozhun 4
 bihua 2
 bijiao 1
@@ -165,7 +165,7 @@ cunqu 1
 cunzai 16
 cuowu 4
 cuowuma 1
-d 411
+d 412
 da 10
 dabao 3
 daduan 1
@@ -688,7 +688,7 @@ ren 11 6
 reng 3
 renhe 3
 renti 1
-renwu 6
+renwu 7
 renyi 1
 rizhi 16
 rong 2 1
@@ -857,7 +857,7 @@ weichi 8
 weikong 21
 weile 1
 weixin 1
-weiyi 4
+weiyi 5
 weiyu 3
 weizhi 24 6
 weizhun 1
