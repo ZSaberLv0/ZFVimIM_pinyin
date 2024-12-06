@@ -644,7 +644,7 @@ qiang 6
 qiangzhi 4
 qianming 4
 qianyi 5
-qidong 33
+qidong 34
 qie 11 3
 qiege 7
 qiehuan 22
@@ -912,7 +912,7 @@ xiayishou 8
 xiazai 5
 xielou 2
 xiesi 4
-xieyi 43
+xieyi 44
 xijie 4
 xin 18
 xinban 9
@@ -1077,7 +1077,7 @@ zhiling 10
 zhineng 4 3
 zhiqian 27
 zhishao 1
-zhixing 31
+zhixing 32
 zhixu 1
 zhiyao 2
 zhiye 1
@@ -1105,7 +1105,7 @@ zhuyi 25
 zi 3
 zice 1
 zidingyi 13
-zidong 75
+zidong 76
 ziduan 78
 zifuchuan 8
 ziliao 1
