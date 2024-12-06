@@ -178,7 +178,7 @@ dakai 6
 dan 28 1
 dandu 2
 dang 5 4
-dangqian 66
+dangqian 67
 danwei 10
 dao 62
 daojishi 12
@@ -1089,7 +1089,7 @@ zhongzhuan 1
 zhouqi 3
 zhu 3 1
 zhuan 7
-zhuangtai 69
+zhuangtai 70
 zhuanhuan 4
 zhuce 1
 zhudong 7
