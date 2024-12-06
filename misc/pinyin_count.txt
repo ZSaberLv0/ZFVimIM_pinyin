@@ -337,7 +337,7 @@ gongneng 6
 gou 1
 gua 1
 guan 7
-guanbi 9
+guanbi 10
 guanfang 2
 guang 3
 guangbo 1
