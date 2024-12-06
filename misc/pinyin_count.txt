@@ -74,7 +74,7 @@ buju 3
 buke 2 1
 bukeyong 4
 bushi 1
-butian 2
+butian 3
 butong 8
 buxuyao 3
 buyao 3
@@ -403,7 +403,7 @@ huigun 1
 huihua 12
 hujiao 16
 hulue 3
-huo 58
+huo 59
 huodong 1
 huoqu 23
 huoshan 1
@@ -507,7 +507,7 @@ keng 1
 kexuan 5
 keyi 4
 keyong 11
-kong 53
+kong 54
 kongbai 1
 kongge 2
 kongjian 4
@@ -1107,7 +1107,7 @@ zice 1
 zidingyi 13
 zidong 75
 ziduan 78
-zifuchuan 7
+zifuchuan 8
 ziliao 1
 zixing 1
 ziyan 1
