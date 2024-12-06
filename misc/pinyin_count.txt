@@ -188,7 +188,7 @@ daoru 2
 daozhi 1
 dapei 1
 daxiao 3
-dayin 1
+dayin 2
 de 2
 dedao 2
 deng 37 2
@@ -953,7 +953,7 @@ yehui 4
 yeji 1
 yejie 1
 yeke 2
-yemian 28
+yemian 29
 yewu 11
 yeyou 1
 yi 24 11
