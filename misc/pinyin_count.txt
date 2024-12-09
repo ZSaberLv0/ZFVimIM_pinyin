@@ -154,7 +154,7 @@ chushi 1
 chushihua 1
 chuxian 6
 chuyu 2
-ci 4 3 1
+ci 4 4 1
 cichu 2
 cici 2
 cishi 4
@@ -265,7 +265,7 @@ erwei 1
 erweima 44
 erxuanyi 1
 ewai 6
-fa 20
+fa 21
 fabu 5
 fagei 3
 fan 1
@@ -331,7 +331,7 @@ gengxin 52
 genju 15
 gequ 45
 geshi 49
-geshu 12
+geshu 13
 gexing 3
 gezhong 2
 gongju 3
@@ -446,7 +446,7 @@ jiequ 1
 jieri 1
 jieshao 28
 jiesheng 1
-jieshu 13
+jieshu 14
 jietu 1
 jiexi 1
 jieyue 1
@@ -565,7 +565,7 @@ man 8 3
 manzu 2
 me 1
 mei 11
-meici 5
+meici 6
 meifa 1
 meige 15 4
 meiti 4
@@ -712,7 +712,7 @@ shanchu 13
 shang 15
 shangbao 7
 shangchuan 3
-shangjia 17
+shangjia 19
 shangshu 5
 shangxian 3 2
 shangyici 1
@@ -728,7 +728,7 @@ shengxiao 3
 shengyin 2
 shewei 1
 shezhi 34
-shi 158 16 12
+shi 160 16 12
 shibai 13
 shibie 8
 shichang 12
@@ -820,7 +820,7 @@ tingzhi 3
 tishi 13
 tiyan 5
 tong 8
-tongbu 6
+tongbu 7
 tongchang 2
 tongguo 53
 tongji 2 1
@@ -830,7 +830,7 @@ tongxun 2
 tongyi 1 1
 tongyige 1
 tongyong 3
-tongzhi 9
+tongzhi 11
 tou 1
 touchuan 2
 touming 1
@@ -906,6 +906,7 @@ xianzhuang 1
 xiao 6
 xiaoguo 4
 xiaohui 1
+xiaoshi 2 2
 xiaowang 2
 xiaoyu 2
 xiaozu 1
@@ -960,10 +961,11 @@ yemian 29
 yewu 11
 yeyou 1
 yi 24 11
+yiban 2
 yibian 1
 yibu 1
-yichang 11
-yici 5
+yichang 13
+yici 6
 yidian 20
 yiding 2
 yidong 1
@@ -1004,7 +1006,7 @@ yo 4
 yong 14 11
 yonghu 14
 yongyu 17
-you 46 32 12
+you 47 33 12
 youce 2
 youguan 2
 youhua 35
@@ -1114,7 +1116,7 @@ zifuchuan 8
 ziliao 1
 zixing 1
 ziyan 1
-ziyuan 26
+ziyuan 28
 ziziyuan 1
 zong 4
 zongshi 1
