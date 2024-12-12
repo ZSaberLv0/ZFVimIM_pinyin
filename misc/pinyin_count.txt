@@ -108,7 +108,7 @@ cha 3 1
 chabo 3
 chachaxun 1
 chajian 2
-chakan 5
+chakan 6
 chang 8 3
 changjia 4
 changjian 1
@@ -711,7 +711,7 @@ shagashangbao 1
 shan 2
 shanchu 13
 shang 15
-shangbao 9
+shangbao 10
 shangchuan 3
 shangjia 19
 shangshu 5
@@ -965,7 +965,7 @@ yi 24 11
 yiban 2
 yibian 1
 yibu 1
-yichang 14
+yichang 15
 yici 6
 yidian 20
 yiding 2
@@ -1117,7 +1117,7 @@ zifuchuan 8
 ziliao 1
 zixing 1
 ziyan 1
-ziyuan 29
+ziyuan 30
 ziziyuan 1
 zong 4
 zongshi 1
