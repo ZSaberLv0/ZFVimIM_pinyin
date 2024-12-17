@@ -83,7 +83,7 @@ buying 3
 buyizhi 2
 buyong 1
 buzai 13
-buzhichi 12
+buzhichi 13
 buzhou 1
 buzu 1
 buzuo 2
@@ -270,13 +270,13 @@ fa 21
 fabu 5
 fagei 3
 fan 1
-fang 5
+fang 5 1
 fangan 1
 fangbian 1
 fangfa 2
 fangshi 34
 fangwen 2
-fanhui 42
+fanhui 43
 fanwei 6
 faqi 40
 fasong 4
@@ -330,8 +330,8 @@ gengduo 1
 genggai 10 7
 gengxin 54
 genju 15
-gequ 45
-geshi 49
+gequ 46
+geshi 50
 geshu 13
 gexing 3
 gezhong 2
@@ -534,7 +534,7 @@ laizi 1
 lan 2
 lei 1
 leisi 5
-leixing 13
+leixing 14
 leng 1
 li 1 1
 lian 9 1
@@ -552,7 +552,7 @@ like 1
 lin 4
 ling 1
 linshi 4
-liru 40
+liru 44
 liu 2 1
 liucheng 11
 liulanqi 1
@@ -565,7 +565,7 @@ luoji 70
 luyin 1
 lv 2
 ma 4
-maikefeng 4
+maikefeng 5
 man 8 3
 manzu 2
 me 1
@@ -688,7 +688,7 @@ qufen 3
 qufeng 111
 qumu 1
 quxiao 16
-quyu 6
+quyu 7
 ranhou 2
 re 2
 ren 11 6
@@ -733,7 +733,7 @@ shengxiao 5
 shengyin 2
 shewei 1
 shezhi 34
-shi 161 17 12
+shi 162 17 12
 shibai 14
 shibie 8
 shichang 12
@@ -904,7 +904,7 @@ xiangtong 11
 xiangxi 3
 xiangying 3
 xianshang 1
-xianshi 38
+xianshi 39
 xianxia 7
 xianyou 1
 xianzhi 1
@@ -991,7 +991,7 @@ yingshe 7
 yingxiang 12
 yingxiao 1
 yingyong 1
-yinliang 14
+yinliang 16
 yinpin 6
 yinqi 2
 yinwei 1
@@ -1129,6 +1129,7 @@ zong 4
 zongshi 1
 zuhe 2
 zui 2
+zuida 2
 zuidi 1
 zuiduo 2
 zuihou 2
