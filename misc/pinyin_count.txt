@@ -245,11 +245,11 @@ duanma 6
 duanxin 1
 duanzan 2
 dui 4
-duihua 3
+duihua 5
 duiqi 2
 duixiang 20
 duiying 33
-duiyu 24
+duiyu 25
 duli 1
 dun 2 1
 duo 3
@@ -554,9 +554,10 @@ lin 4
 ling 1
 linshi 4
 liru 46
-liu 2 1
+liu 3 1
 liucheng 11
 liulanqi 1
+liushi 2 2
 liuxing 1
 lixian 1
 long 1
