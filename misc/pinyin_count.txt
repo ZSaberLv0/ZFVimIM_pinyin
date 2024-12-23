@@ -618,7 +618,7 @@ neng 9
 nenggou 10
 nengli 1
 ng 3
-ni 2
+ni 3
 nide 2
 nihao 2
 o 8
