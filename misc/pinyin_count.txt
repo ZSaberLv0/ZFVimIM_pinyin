@@ -578,7 +578,7 @@ meige 16 5
 meiti 4
 meiyou 23
 meizhong 1
-mi 16
+mi 18
 mianban 5
 mianfei 1
 miao 14
@@ -693,7 +693,7 @@ quxiao 16
 quyu 7
 ranhou 2
 re 2
-ren 12 7
+ren 13 9
 reng 3
 renhe 3
 renti 1
@@ -735,7 +735,7 @@ shengxiao 5
 shengyin 2
 shewei 1
 shezhi 34
-shi 163 17 12
+shi 164 18 13
 shibai 14
 shibie 8
 shichang 12
@@ -768,7 +768,7 @@ shouji 14 12
 shoujiduan 9
 shouxian 1
 shouye 20
-shu 4 1
+shu 6 1
 shuaxin 2
 shuchu 3
 shui 1
@@ -883,7 +883,7 @@ wenwenjian 1
 wenzi 7
 wo 5
 wode 1
-woshi 1
+woshi 2
 wu 12 4 1
 wufa 11
 wujin 1
@@ -1118,7 +1118,7 @@ zhushou 2
 zhuyao 13
 zhuye 3
 zhuyi 29
-zi 4
+zi 4 2
 zice 1
 zidingyi 13
 zidong 78
