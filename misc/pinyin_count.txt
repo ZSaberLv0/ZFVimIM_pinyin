@@ -693,7 +693,7 @@ quxiao 16
 quyu 7
 ranhou 2
 re 2
-ren 11 6
+ren 12 7
 reng 3
 renhe 3
 renti 1
@@ -784,7 +784,7 @@ shuru 1
 shuxi 1
 shuxing 3
 shuyu 1
-shuzi 6
+shuzi 8
 shuzu 12
 si 5
 sm 3
