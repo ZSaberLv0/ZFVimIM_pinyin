@@ -881,7 +881,7 @@ wenjian 61
 wenti 31
 wenwenjian 1
 wenzi 7
-wo 5
+wo 6
 wode 1
 woshi 2
 wu 12 4 1
