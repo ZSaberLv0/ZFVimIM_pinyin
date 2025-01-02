@@ -369,7 +369,7 @@ haihai 1
 hang 3
 hangye 2
 hanyi 1
-hao 3 1
+hao 4 2
 haomiao 10
 haoshi 3
 haowan 1
@@ -883,7 +883,7 @@ wenwenjian 1
 wenzi 7
 wo 6
 wode 1
-woshi 2
+woshi 3
 wu 12 4 1
 wufa 11
 wujin 1
