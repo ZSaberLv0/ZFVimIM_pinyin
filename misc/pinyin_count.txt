@@ -620,7 +620,7 @@ nengli 1
 ng 3
 ni 4
 nide 2
-nihao 2
+nihao 3
 o 8
 paicha 5
 paidui 29
@@ -883,6 +883,7 @@ wenwenjian 1
 wenzi 7
 wo 5
 wode 1
+woshi 1
 wu 12 4 1
 wufa 11
 wujin 1
