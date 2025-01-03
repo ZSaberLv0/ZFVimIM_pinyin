@@ -737,7 +737,7 @@ shewei 1
 shezhi 34
 shi 164 18 13
 shibai 14
-shibie 8
+shibie 9
 shichang 12
 shichanggahou 1
 shidang 1
@@ -1051,7 +1051,7 @@ yunxing 12
 yunxu 2
 yunying 4
 yuxian 3
-yuyin 8
+yuyin 9
 zai 23 6
 zaibo 30
 zaici 2
