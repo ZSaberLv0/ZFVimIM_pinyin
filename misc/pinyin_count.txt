@@ -127,7 +127,7 @@ chaxun 40
 chayi 3
 chazhao 1
 cheng 1
-chenggong 10
+chenggong 11
 chengwei 1
 chi 1
 chicun 1
@@ -545,7 +545,7 @@ liandong 30
 liang 2
 liangdu 3
 liangge 1
-lianjie 7 4
+lianjie 7 5
 liantiao 1
 liantong 1
 liebiao 81
@@ -769,6 +769,7 @@ shoudao 4
 shoudong 4
 shouji 14 12
 shoujiduan 10
+shouquan 1
 shouxian 1
 shouye 20
 shu 6 1
