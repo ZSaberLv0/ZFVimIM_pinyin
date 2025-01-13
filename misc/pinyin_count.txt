@@ -411,7 +411,7 @@ hujiao 16
 hulue 3
 huo 61
 huodong 1
-huoqu 23
+huoqu 24
 huoshan 1
 huozhe 3
 huqi 4
