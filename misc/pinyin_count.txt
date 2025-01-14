@@ -167,7 +167,7 @@ cunzai 18
 cuowu 4
 cuowuma 1
 d 429
-da 10
+da 11
 dabao 3
 daduan 1
 dagang 1
@@ -210,7 +210,7 @@ dianshiping 20
 dianxin 1
 dianyin 32
 diao 1
-diaoyong 22
+diaoyong 23
 dibu 4
 die 1
 diedai 1
@@ -599,7 +599,7 @@ morenzhi 2
 moshi 26
 mouge 3
 mowei 5
-moxing 18
+moxing 19
 moyun 8
 mu 3
 mudi 1
@@ -811,7 +811,7 @@ tan 1
 tanchu 2
 tankuang 1
 teding 1
-tengxun 4
+tengxun 5
 teshu 36
 ti 2
 tian 1 1
@@ -1002,6 +1002,7 @@ yingyong 1
 yinliang 18
 yinpin 6
 yinqi 2
+yinqing 1
 yinwei 1
 yinxiao 47
 yinyong 1
@@ -1100,6 +1101,7 @@ zhiling 10
 zhineng 4 3
 zhiqian 27
 zhishao 1
+zhishi 1
 zhixing 32
 zhixu 1
 zhiyao 3
