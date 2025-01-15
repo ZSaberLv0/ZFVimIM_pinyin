@@ -428,7 +428,7 @@ jiangyao 1
 jianrong 8
 jianti 1
 jianting 2
-jianyi 20
+jianyi 21
 jiaocha 1
 jiaodi 1
 jiaoduo 2
@@ -500,7 +500,7 @@ kaifa 1
 kaifang 1
 kaiguan 3
 kaiji 1
-kaiqi 18
+kaiqi 20
 kaishi 178
 kandao 2
 kankan 1
@@ -702,7 +702,7 @@ renhe 3
 renti 1
 renwu 9
 renyi 1
-rizhi 21
+rizhi 22
 rong 2 1
 ronghe 2
 rouhe 7
@@ -738,7 +738,7 @@ shengxiao 5
 shengyin 2
 shewei 1
 shezhi 34
-shi 165 18 13
+shi 166 18 13
 shibai 14
 shibie 12
 shichang 13
@@ -748,7 +748,7 @@ shidu 1
 shiduan 3
 shifan 1
 shifang 1
-shifou 74
+shifou 75
 shiji 9 9
 shijian 31 18
 shijianchuo 1
@@ -819,7 +819,7 @@ tianchong 3
 tianjia 27
 tiaojian 2
 tiaojie 1
-tiaoshi 21
+tiaoshi 22
 tiaozheng 22
 tiaozhuan 32
 tice 10
