@@ -501,7 +501,7 @@ kaifang 1
 kaiguan 3
 kaiji 1
 kaiqi 20
-kaishi 179
+kaishi 182
 kandao 2
 kankan 1
 kaolv 1
@@ -1088,7 +1088,7 @@ zhengzai 10
 zhezhong 1
 zhi 73 5 2
 zhichang 1
-zhichi 214
+zhichi 217
 zhidao 5
 zhiding 87
 zhihou 7
