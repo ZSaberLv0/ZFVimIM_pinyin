@@ -180,7 +180,7 @@ dajia 2
 dakai 6
 daliang 3
 dan 30 1
-danci 1 1
+danci 2 2
 dandu 2
 dang 5 4
 dangqian 69
@@ -319,7 +319,7 @@ ga 4
 gai 51 2
 gaiban 1
 gaibian 4
-gaidong 2
+gaidong 3
 gaiwei 4
 gakeyong 1
 gan 1
@@ -640,7 +640,7 @@ o 8
 paicha 5
 paidui 29
 paixu 4
-panduan 8
+panduan 9
 pang 1
 pei 5 1
 peihe 5
@@ -796,7 +796,7 @@ shuliang 8
 shunxu 7
 shuo 7
 shuohua 2
-shuoming 6
+shuoming 7
 shuping 16
 shuru 1
 shuxi 1
@@ -830,7 +830,7 @@ teshu 36
 ti 2
 tian 1 1
 tianchong 3
-tianjia 29
+tianjia 31
 tiaojian 2
 tiaojie 1
 tiaoshi 22
@@ -1012,7 +1012,7 @@ ying 2 1
 yingjian 2
 yingpan 1
 yingshe 8
-yingwen 3
+yingwen 4
 yingxiang 12
 yingxiao 1
 yingyong 1
@@ -1105,7 +1105,7 @@ zhengzai 10
 zhezhong 1
 zhi 73 5 2
 zhichang 1
-zhichi 219
+zhichi 221
 zhidao 5
 zhiding 87
 zhihou 9
