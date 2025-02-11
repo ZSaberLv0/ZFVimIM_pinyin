@@ -263,7 +263,7 @@ duojiu 1
 duoshao 2
 duqu 5
 e 4
-er 1 1
+er 1 2
 erji 10
 ershi 3
 erwei 1
@@ -566,10 +566,10 @@ liji 11
 lijie 1
 like 1
 lin 4
-ling 1
+ling 2
 linshi 4
 liru 46
-liu 3 1
+liu 3 1 1
 liucheng 11
 liulanqi 1
 liushi 2 3
@@ -726,7 +726,7 @@ ruguo 3
 ruhe 2
 rukou 10
 ruo 98
-san 7
+san 8
 saoma 1
 se 4
 sha 2
@@ -804,7 +804,7 @@ shuxing 3
 shuyu 1
 shuzi 10
 shuzu 12
-si 5
+si 6
 sm 5
 song 2
 su 2
@@ -904,7 +904,7 @@ wenzi 7
 wo 6
 wode 1
 woshi 3
-wu 12 4 1
+wu 12 5 1
 wufa 11
 wujin 1
 wulun 5
@@ -989,7 +989,7 @@ yeke 2
 yemian 29
 yewu 11
 yeyou 1
-yi 24 11 1
+yi 24 11 2
 yiban 2
 yibian 3
 yibu 1
