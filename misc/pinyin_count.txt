@@ -372,7 +372,7 @@ guoduan 1
 guolv 6
 guzhang 3
 h 4
-ha 2
+ha 3
 hai 13
 haihai 1
 han 1
