@@ -796,7 +796,7 @@ shoujiduan 10
 shouquan 2
 shouxian 1
 shouye 20
-shu 8 1
+shu 9 1
 shuaxin 2
 shuchu 4
 shui 1
@@ -912,7 +912,7 @@ wendang 13
 wenjian 63
 wenti 32
 wenwenjian 1
-wenzi 12
+wenzi 13
 wo 6
 wode 1
 woshi 3
