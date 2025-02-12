@@ -272,7 +272,7 @@ ershi 3
 erwei 1
 erweima 44
 erxuanyi 1
-ewai 6
+ewai 7
 fa 21
 fabu 8
 fagei 4
@@ -946,7 +946,7 @@ xianzhi 1
 xianzhuang 2
 xiao 6 1
 xiaoguo 4
-xiaohao 1
+xiaohao 2
 xiaohua 1
 xiaohui 1
 xiaoshi 2 2
