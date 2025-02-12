@@ -127,7 +127,7 @@ chao 1
 chaoguo 4
 chaoshi 2 3
 charu 16
-chaxun 40
+chaxun 41
 chayi 3
 chazhao 1
 cheng 1
@@ -442,6 +442,7 @@ jianghui 1
 jiangyao 1
 jianjie 1
 jianrong 8
+jiansuo 1
 jianti 1
 jianting 2
 jianyi 24
@@ -796,7 +797,7 @@ shoujiduan 10
 shouquan 2
 shouxian 1
 shouye 20
-shu 9 1
+shu 10 1
 shuaxin 2
 shuchu 4
 shui 1
@@ -890,7 +891,7 @@ wanbei 1
 wancheng 4
 wang 16
 wangguan 2
-wangluo 4
+wangluo 5
 wanquan 3
 wanshan 1
 wanzheng 1
@@ -908,11 +909,11 @@ weizhun 1
 wen 1
 wenan 1
 wenben 12
-wendang 13
+wendang 15
 wenjian 63
 wenti 32
 wenwenjian 1
-wenzi 13
+wenzi 14
 wo 6
 wode 1
 woshi 3
