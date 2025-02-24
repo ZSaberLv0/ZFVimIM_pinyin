@@ -11,7 +11,7 @@ banbenhao 6
 banchang 1
 bangding 1
 bangdingma 3
-bangwo 3
+bangwo 4
 bangzhu 1
 bao 7 1
 baochi 4
@@ -173,7 +173,7 @@ cunqu 1
 cunzai 19
 cuowu 4
 cuowuma 1
-d 453
+d 454
 da 12
 dabao 3
 daduan 1
@@ -210,7 +210,7 @@ dengkong 13
 denglu 1
 dezhi 1
 di 4
-dian 14
+dian 15
 diange 26
 diangeping 14
 dianji 23
@@ -332,7 +332,7 @@ gang 1 1
 gao 2
 gaoliang 1
 gaoyu 2
-ge 20 18 5
+ge 20 19 5
 gedan 34
 gege 3
 gei 3
@@ -552,7 +552,7 @@ kuan 1
 kuangao 2
 kuangjia 2
 kuozhan 1
-ky 45
+ky 46
 kyi 1
 l 7
 la 1
@@ -594,7 +594,7 @@ lunwen 1
 luoji 70
 luyin 4
 lv 2
-ma 4 2 1
+ma 5 2 1
 maikefeng 6
 man 8 3
 manzu 2
@@ -649,7 +649,7 @@ nengli 1
 ng 3
 ni 9
 nide 2
-nihao 16
+nihao 17
 o 8
 paicha 5
 paidui 29
@@ -792,7 +792,7 @@ shixu 1
 shiyi 2
 shiyong 84
 shizhong 2
-shou 6
+shou 7
 shouci 3
 shoudao 4
 shoudong 5
