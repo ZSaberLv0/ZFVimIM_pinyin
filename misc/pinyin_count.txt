@@ -160,7 +160,7 @@ chushi 1
 chushihua 1
 chuxian 11
 chuyu 2
-ci 9 4 1
+ci 10 4 1
 cichu 2
 cici 2
 cishi 4
@@ -423,7 +423,7 @@ huidiao 11
 huifu 19 10
 huigui 2
 huigun 1
-huihua 12
+huihua 13
 hujiao 16
 hulue 4
 huo 63
@@ -580,6 +580,7 @@ lin 4
 ling 2
 linshi 4
 liru 47
+lishi 1 1
 liu 7 1 1
 liucheng 11
 liulanqi 1
@@ -691,7 +692,7 @@ qingba 16
 qingchu 2
 qingdan 1
 qingkan 2
-qingkong 12
+qingkong 13
 qingkuang 12
 qingli 1
 qingqiu 2
@@ -765,7 +766,7 @@ shengri 7
 shengxiao 5
 shengyin 2
 shewei 1
-shezhi 34
+shezhi 35
 shi 168 18 13
 shibai 14
 shibie 13
@@ -859,7 +860,7 @@ tijiao 1
 tingliu 1
 tingzhi 3
 tiqu 1
-tishi 18
+tishi 19
 tiyan 5
 tong 8
 tongbu 12
