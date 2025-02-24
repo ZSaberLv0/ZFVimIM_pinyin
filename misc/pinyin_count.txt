@@ -35,7 +35,7 @@ benzhou 2
 bi 1
 bian 2
 biangeng 2
-bianhua 15
+bianhua 16
 bianma 1
 bianyi 3
 bianyu 1
@@ -55,7 +55,7 @@ bing 27
 bingbu 1
 bingqie 8
 biran 5
-bitian 104
+bitian 106
 bixu 16
 biyao 1
 bo 13
@@ -173,7 +173,7 @@ cunqu 1
 cunzai 19
 cuowu 4
 cuowuma 1
-d 448
+d 449
 da 12
 dabao 3
 daduan 1
@@ -249,12 +249,12 @@ douhao 9
 doushi 2
 douyou 1
 du 5 1
-duan 6
+duan 7
 duanma 6
 duanxin 1
 duanzan 2
 dui 4
-duihua 5
+duihua 6
 duiqi 2
 duixiang 20
 duiying 34
@@ -291,7 +291,7 @@ faqi 40
 fasong 6
 faxin 1
 faxing 1
-fei 121
+fei 122
 fenbie 1
 feng 5 1
 fenge 9
@@ -460,7 +460,7 @@ jiazai 20
 jiben 2
 jichu 2
 jiding 3
-jidinghe 53
+jidinghe 55
 jiduan 1
 jie 2 2
 jiedian 11
@@ -796,8 +796,8 @@ shou 5
 shouci 3
 shoudao 4
 shoudong 5
-shouji 14 12
-shoujiduan 10
+shouji 15 12
+shoujiduan 11
 shouquan 2
 shouxian 1
 shouye 20
@@ -813,7 +813,7 @@ shuo 7
 shuohua 2
 shuoming 8
 shuping 16
-shuru 4
+shuru 5
 shuxi 1
 shuxing 3
 shuyu 1
@@ -873,7 +873,7 @@ tongxun 2
 tongyi 1 1
 tongyige 1
 tongyong 3
-tongzhi 11
+tongzhi 12
 tou 1
 touchuan 2
 touming 1
@@ -912,12 +912,12 @@ weizhi 24 6
 weizhun 1
 wen 1
 wenan 1
-wenben 14
+wenben 15
 wendang 16
 wenjian 63
 wenti 32
 wenwenjian 1
-wenzi 14
+wenzi 15
 wo 6
 wode 1
 woshi 3
