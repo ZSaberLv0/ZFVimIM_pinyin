@@ -684,7 +684,7 @@ qianyi 5
 qidong 34
 qie 11 3
 qiege 7
-qiehuan 23
+qiehuan 24
 qijian 10
 qing 2 2
 qingba 16
@@ -1038,7 +1038,7 @@ yingyong 1
 yinliang 18
 yinpin 6
 yinqi 2
-yinqing 1
+yinqing 2
 yinwei 1
 yinxiao 47
 yinyong 1
