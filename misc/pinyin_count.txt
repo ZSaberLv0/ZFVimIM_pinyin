@@ -173,7 +173,7 @@ cunqu 1
 cunzai 19
 cuowu 6
 cuowuma 1
-d 460
+d 462
 da 12
 dabao 3
 daduan 1
@@ -292,6 +292,7 @@ fasong 6
 faxin 1
 faxing 1
 fei 122
+feichang 1
 fenbie 1
 feng 5 1
 fenge 9
@@ -329,10 +330,11 @@ gaiwei 4
 gakeyong 1
 gan 1
 gang 1 1
+ganxie 1
 gao 2
 gaoliang 1
 gaoyu 2
-ge 20 19 5
+ge 20 20 5
 gedan 34
 gege 3
 gei 3
@@ -387,7 +389,8 @@ han 1 1
 hang 3
 hangye 2
 hanyi 1
-hao 4 2
+hao 5 2
+haode 1
 haomiao 10
 haoshi 3
 haowan 1
@@ -596,7 +599,7 @@ lunwen 1
 luoji 70
 luyin 4
 lv 2
-ma 5 2 1
+ma 6 2 1
 maikefeng 6
 man 8 3
 manzu 2
@@ -824,7 +827,7 @@ shuyu 1
 shuzi 10
 shuzu 12
 si 6
-sm 8
+sm 10
 song 2
 sousuo 1
 su 2
@@ -861,6 +864,7 @@ tidai 2
 tigong 3
 tihuan 18
 tijiao 1
+ting 1
 tingliu 1
 tingzhi 3
 tiqu 1
@@ -1065,7 +1069,7 @@ yong 16 12
 yongfa 1
 yonghu 14
 yongyu 18
-you 53 38 12
+you 54 39 12
 youce 2
 youguan 2
 youhua 36
@@ -1196,7 +1200,7 @@ zuida 4
 zuidi 1
 zuiduo 2
 zuihou 2
-zuijin 1
+zuijin 2
 zuixin 5
 zuizao 1
 zuizhong 7
