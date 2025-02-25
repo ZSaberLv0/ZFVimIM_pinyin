@@ -244,7 +244,7 @@ donggan 13
 donghua 2
 dongtai 2
 dongzuo 47
-dou 22
+dou 23
 douhao 9
 doushi 2
 douyou 1
@@ -312,7 +312,7 @@ fugai 12
 fuhe 3
 fumian 1
 fuping 1
-fuwu 25
+fuwu 26
 fuwuduan 1
 fuwuqi 3
 fuza 1
@@ -634,6 +634,7 @@ muqian 9
 n 3
 na 1
 nage 2
+ne 1
 nei 13
 neibu 8
 neicun 6
@@ -820,7 +821,7 @@ shuyu 1
 shuzi 10
 shuzu 12
 si 6
-sm 6
+sm 7
 song 2
 sousuo 1
 su 2
@@ -854,7 +855,7 @@ tiaozheng 22
 tiaozhuan 32
 tice 10
 tidai 2
-tigong 1
+tigong 2
 tihuan 18
 tijiao 1
 tingliu 1
@@ -1059,7 +1060,7 @@ yong 15 11
 yongfa 1
 yonghu 14
 yongyu 18
-you 52 37 12
+you 53 38 12
 youce 2
 youguan 2
 youhua 36
