@@ -93,7 +93,7 @@ buzuo 2
 ca 1
 cai 5
 caihui 4
-caineng 1
+caineng 2
 caiyong 1
 caiyou 1
 caizhi 1
@@ -191,7 +191,7 @@ dang 5 4
 dangqian 70
 danshi 1
 danwei 10
-dao 73
+dao 74
 daojishi 12
 daoqi 5
 daoru 2
@@ -530,7 +530,7 @@ kankan 1
 kaolv 1
 kapian 2
 ke 29
-kefu 4 2
+kefu 5 2
 kehu 1
 kehuduan 2
 keji 1
@@ -573,6 +573,7 @@ liangge 1
 lianjie 8 6
 liantiao 1
 liantong 1
+lianxi 1
 liebiao 82
 liji 11
 lijie 1
@@ -635,7 +636,7 @@ muqian 9
 n 3
 na 1
 nage 2
-ne 2
+ne 3
 nei 13
 neibu 8
 neicun 6
@@ -740,7 +741,7 @@ rouhe 7
 ru 7
 ruanjian 1
 ruguo 3
-ruhe 2
+ruhe 3
 rukou 10
 ruo 98
 san 8
