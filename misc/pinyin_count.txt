@@ -10,7 +10,7 @@ banben 32
 banbenhao 6
 banchang 1
 bangding 1
-bangdingma 3
+bangdingma 4
 bangwo 4
 bangzhu 1
 bao 7 1
@@ -171,7 +171,7 @@ cun 2
 cunchu 5
 cunqu 1
 cunzai 19
-cuowu 4
+cuowu 5
 cuowuma 1
 d 458
 da 12
