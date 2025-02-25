@@ -1,4 +1,4 @@
-a 6
+a 7
 ai 1
 an 7
 anniu 60
