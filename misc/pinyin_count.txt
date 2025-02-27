@@ -146,7 +146,7 @@ chongshi 1
 chongxin 10
 chu 5 1
 chuan 1
-chuandi 1
+chuandi 2
 chuangjian 2
 chuangkou 4
 chuangxin 2
@@ -777,7 +777,7 @@ shengxiao 5
 shengyin 2
 shewei 1
 shezhi 35
-shi 168 18 13
+shi 169 18 13
 shibai 14
 shibie 13
 shichang 13
