@@ -180,7 +180,7 @@ daduan 1
 dagang 1
 dai 7
 daikuan 1
-daima 11
+daima 12
 dajia 2
 dakai 6
 daliang 3
@@ -218,7 +218,7 @@ dianshiping 20
 dianxin 1
 dianyin 32
 diao 2
-diaoyong 26
+diaoyong 27
 dibu 4
 die 1
 diedai 1
@@ -286,7 +286,7 @@ fangfa 4
 fangshi 43
 fangwen 3
 fanhui 44
-fanshe 3
+fanshe 4
 fanwei 6
 faqi 40
 fasong 6
