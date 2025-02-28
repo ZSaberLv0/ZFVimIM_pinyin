@@ -218,7 +218,7 @@ dianshiping 20
 dianxin 1
 dianyin 32
 diao 2
-diaoyong 24
+diaoyong 25
 dibu 4
 die 1
 diedai 1
@@ -282,10 +282,11 @@ fan 1
 fang 5 1
 fangan 1
 fangbian 2
-fangfa 2
+fangfa 3
 fangshi 43
 fangwen 3
 fanhui 44
+fanshe 1
 fanwei 6
 faqi 40
 fasong 6
