@@ -188,7 +188,7 @@ dan 30 1
 danci 2 2
 dandu 2
 dang 5 4
-dangqian 70
+dangqian 71
 danshi 1
 danwei 10
 dao 74
@@ -198,7 +198,7 @@ daoru 2
 daozhi 1
 dapei 1
 daxiao 3
-dayin 2
+dayin 3
 de 3
 dedao 2
 deng 38 2
@@ -789,7 +789,7 @@ shifan 1
 shifang 1
 shifou 75
 shiji 9 9
-shijian 32 18
+shijian 33 18
 shijianchuo 1
 shili 5
 shipei 12
