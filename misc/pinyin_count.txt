@@ -669,7 +669,7 @@ ng 3
 ni 19
 nide 2
 nihao 20
-nishi 1
+nishi 2
 o 8
 paicha 5
 paidui 29
@@ -1047,7 +1047,7 @@ yiding 2
 yidong 1
 yiduan 2
 yifen 2
-yige 35
+yige 36
 yiji 1 1
 yijian 10
 yijing 1
@@ -1170,7 +1170,7 @@ zhijie 31
 zhikong 3
 zhilian 1
 zhiling 10
-zhineng 4 5
+zhineng 6 4
 zhiqian 30
 zhishao 1
 zhishi 1

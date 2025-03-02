@@ -6198,7 +6198,7 @@ zhiling 指令
 zhilv 之旅
 zhiming 之命
 zhinan 指南
-zhineng 只能 智能
+zhineng 智能 只能
 zhinian 之年
 zhiping 志平
 zhiqian 之前
