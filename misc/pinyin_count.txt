@@ -222,7 +222,7 @@ dianshiping 20
 dianxin 1
 dianyin 32
 diao 2
-diaoyong 27
+diaoyong 28
 dibu 4
 die 1
 diedai 1
