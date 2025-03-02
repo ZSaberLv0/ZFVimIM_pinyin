@@ -132,7 +132,7 @@ chao 1
 chaoguo 4
 chaoshi 2 3
 charu 16
-chaxun 43
+chaxun 45
 chayi 3
 chazhao 1
 cheng 1
@@ -177,7 +177,7 @@ cunqu 1
 cunzai 19
 cuowu 6
 cuowuma 1
-d 476
+d 477
 da 12
 dabao 3
 daduan 1
@@ -586,7 +586,7 @@ liangge 1
 lianjie 9 6
 liantiao 1
 liantong 1
-lianwang 2
+lianwang 4
 lianxi 1
 liebiao 82
 liji 11
@@ -868,7 +868,7 @@ ti 3
 tian 1 1
 tianchong 3
 tianjia 31
-tianqi 10
+tianqi 12
 tiaojian 2
 tiaojie 1
 tiaoshi 22
@@ -956,7 +956,7 @@ xi 6 1
 xia 32
 xiaci 2
 xiafang 5
-xiamen 12
+xiamen 14
 xian 5
 xiang 5 2 2
 xiangduiyu 2
