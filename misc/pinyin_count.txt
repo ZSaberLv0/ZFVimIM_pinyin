@@ -93,7 +93,7 @@ buzhichi 13
 buzhou 1
 buzu 1
 buzuo 2
-ca 1
+ca 2
 cai 5
 caihui 4
 caineng 2
@@ -568,7 +568,7 @@ kuangjia 2
 kuozhan 1
 ky 48
 kyi 1
-l 8
+l 9
 la 1
 lai 3
 laizi 1
@@ -604,6 +604,7 @@ liuliang 1
 liushi 2 3
 liuxing 1
 lixian 1
+lo 1
 long 1
 lue 1
 lujing 8
