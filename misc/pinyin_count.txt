@@ -132,7 +132,7 @@ chao 1
 chaoguo 4
 chaoshi 2 3
 charu 16
-chaxun 41
+chaxun 42
 chayi 3
 chazhao 1
 cheng 1
@@ -177,7 +177,7 @@ cunqu 1
 cunzai 19
 cuowu 6
 cuowuma 1
-d 475
+d 476
 da 12
 dabao 3
 daduan 1
@@ -631,7 +631,7 @@ ming 39 2 1
 mingcheng 1
 mingling 18
 mingque 5
-mingtian 2
+mingtian 3
 mingxian 1
 mingzi 4
 mo 1
@@ -868,7 +868,7 @@ ti 3
 tian 1 1
 tianchong 3
 tianjia 31
-tianqi 8
+tianqi 9
 tiaojian 2
 tiaojie 1
 tiaoshi 22
@@ -956,7 +956,7 @@ xi 6 1
 xia 32
 xiaci 2
 xiafang 5
-xiamen 9
+xiamen 11
 xian 5
 xiang 5 2 2
 xiangduiyu 2
