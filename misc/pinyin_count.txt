@@ -184,7 +184,7 @@ daduan 1
 dagang 1
 dai 7
 daikuan 1
-daima 20
+daima 21
 dajia 2
 dakai 6
 daliang 3
@@ -291,7 +291,7 @@ fangfa 5
 fangshi 43
 fangwen 3
 fanhui 44
-fanshe 6
+fanshe 7
 fanwei 6
 faqi 40
 fasong 6
@@ -803,7 +803,7 @@ shifou 79
 shiji 9 9
 shijian 33 18
 shijianchuo 1
-shili 8
+shili 9
 shipei 12
 shipin 93
 shitu 1
