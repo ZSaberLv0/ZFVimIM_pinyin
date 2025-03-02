@@ -134,7 +134,7 @@ chaoshi 2 3
 charu 16
 chaxun 50
 chayi 3
-chazhao 1
+chazhao 2
 cheng 1
 chenggong 12
 chengwei 1
@@ -1207,7 +1207,7 @@ zice 1
 zidingyi 15
 zidong 78
 ziduan 80
-zifuchuan 15
+zifuchuan 16
 ziji 9 1
 ziliao 1
 zimu 2 2
