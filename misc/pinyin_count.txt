@@ -132,7 +132,7 @@ chao 1
 chaoguo 4
 chaoshi 2 3
 charu 16
-chaxun 48
+chaxun 49
 chayi 3
 chazhao 1
 cheng 1
@@ -868,7 +868,7 @@ ti 3
 tian 1 1
 tianchong 3
 tianjia 31
-tianqi 15
+tianqi 16
 tiaojian 2
 tiaojie 1
 tiaoshi 22
@@ -956,7 +956,7 @@ xi 6 1
 xia 32
 xiaci 2
 xiafang 5
-xiamen 17
+xiamen 18
 xian 5
 xiang 5 2 2
 xiangduiyu 2
