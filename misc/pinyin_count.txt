@@ -701,6 +701,7 @@ qian 12
 qiang 7
 qiangzhi 4
 qianhou 1
+qianjing 1
 qianming 4
 qianyi 5
 qidong 35
