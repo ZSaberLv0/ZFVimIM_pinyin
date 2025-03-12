@@ -771,7 +771,7 @@ rouhe 7
 ru 7
 ruanjian 1
 ruguo 4
-ruhe 18
+ruhe 19
 rukou 10
 ruo 98
 san 8
