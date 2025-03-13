@@ -170,7 +170,7 @@ cichu 2
 cici 2
 cishi 4
 cishu 1
-cong 19
+cong 22
 cu 1
 cun 2
 cunchu 5
@@ -178,7 +178,7 @@ cunqu 1
 cunzai 19
 cuowu 8
 cuowuma 1
-d 508
+d 509
 da 12
 dabao 3
 daduan 1
@@ -396,6 +396,7 @@ h 5
 ha 3
 hai 13
 haihai 1
+haishi 1
 han 1 1
 hang 7
 hangye 2
@@ -548,7 +549,7 @@ kaifang 1
 kaiguan 3
 kaiji 1
 kaiqi 21
-kaishi 182
+kaishi 184
 kandao 2
 kankan 1
 kaolv 1
@@ -801,7 +802,7 @@ shengxiao 5
 shengyin 2
 shewei 1
 shezhi 40
-shi 177 21 19
+shi 178 21 20
 shibai 14
 shibie 14
 shichang 13
@@ -865,7 +866,7 @@ suo 1
 suoding 6
 suofang 2
 suoshu 3
-suoyin 2
+suoyin 3
 suoyou 32
 sushe 1
 sushesudu 1
@@ -1200,7 +1201,7 @@ zhiyao 3
 zhiye 1
 zhiyou 11
 zhizhiding 1
-zhong 73
+zhong 74
 zhonggad 1
 zhongtu 1
 zhongwen 1
