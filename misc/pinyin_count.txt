@@ -1,10 +1,11 @@
 baocun 1
-baocuo 1
+baocuo 2
 bing 2
 buxuyao 1
 buyao 2
 chuli 1
 d 7
+daima 1
 deng 1
 dengguang 1
 dian 1
@@ -15,6 +16,7 @@ gua 1
 hang 1
 he 1
 huo 1
+jiejue 1
 jiequ 3
 jinxing 1
 leixing 3
@@ -30,7 +32,7 @@ pingjun 4
 pipei 1
 qiangzhi 1
 quyu 3
-ruhe 5
+ruhe 6
 shengcheng 1
 shi 1
 shipin 3
@@ -42,6 +44,7 @@ wei 2
 wenjian 1
 xian 1
 yanse 4
+yixia 1
 yizhen 1
 zai 1
 zhen 3
