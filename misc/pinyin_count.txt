@@ -17,7 +17,7 @@ he 1
 huo 1
 jiequ 3
 jinxing 1
-leixing 2
+leixing 3
 linshi 1
 mingling 1
 mohu 1
@@ -28,6 +28,7 @@ pi 1
 pie 1
 pingjun 4
 pipei 1
+qiangzhi 1
 quyu 3
 ruhe 5
 shengcheng 1
@@ -37,7 +38,7 @@ shiyong 3
 shuaxin 1
 shuchu 3
 tupian 1
-wei 1
+wei 2
 wenjian 1
 xian 1
 yanse 4
@@ -49,3 +50,4 @@ zhi 5
 zhiding 5
 zhijie 2
 zhineng 1 1
+zhuanhuan 1
