@@ -6,6 +6,7 @@ buquan 2
 buxuyao 1
 buyao 3
 canshu 1
+chakan 1
 cheng 1
 chong 3
 chuli 3
@@ -57,7 +58,10 @@ shiyong 4
 shuaxin 1
 shuchu 5
 shuru 1
+su 1
 tupian 1
+wang 2
+wangsu 2
 wei 2
 wenjian 2
 wenjianjia 2
