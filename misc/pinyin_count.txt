@@ -4,8 +4,8 @@ bing 2
 buxuyao 1
 buyao 2
 cheng 1
-chong 1
-chuli 1
+chong 2
+chuli 2
 d 7
 daima 2
 deng 1
@@ -26,12 +26,12 @@ jinxing 1
 leixing 3
 linshi 1
 mingling 1
-mingming 1
+mingming 2
 mohu 1
 ng 1
 o 1
 peizhi 1
-pi 1
+pi 2
 pie 1
 pingjun 4
 pipei 1
@@ -47,6 +47,7 @@ shuchu 3
 tupian 1
 wei 2
 wenjian 2
+wenjianjia 1
 xian 1
 yanse 4
 yixia 2
