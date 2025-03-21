@@ -10,7 +10,7 @@ chakan 1
 cheng 1
 chong 3
 chuli 3
-d 8
+d 9
 daima 2
 deng 1
 dengguang 1
@@ -38,6 +38,7 @@ lujing 1
 mingling 3
 mingming 3
 mohu 1
+n 1
 neirong 3
 ng 1
 o 1
