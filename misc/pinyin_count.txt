@@ -1,12 +1,14 @@
 baocun 1
 baocuo 4
+bei 2
 biaoshi 1
 bing 2
 bu 1
 budao 1
-buquan 2
+buquan 3
 buxuyao 1
 buyao 3
+caijian 1
 canshu 2
 chakan 1
 chaxun 1
@@ -47,6 +49,7 @@ jinxing 2
 jisuan 1
 juedui 1
 kong 1
+kuang 1
 l 1
 leixing 3
 linshi 1
@@ -85,11 +88,12 @@ shuru 1
 sm 2
 su 1
 suoxu 1
+tanchu 1
 tupian 1
 wang 2
 wangsu 2
 wanzheng 1
-wei 2
+wei 3
 weikong 1
 wenben 4
 wenjian 2
