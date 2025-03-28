@@ -87,6 +87,7 @@ shiyong 4
 shuaxin 1
 shuchu 5
 shuru 1
+shuzhi 1
 sm 3
 su 1
 suoxu 1
@@ -95,7 +96,7 @@ tupian 1
 wang 2
 wangsu 2
 wanzheng 1
-wei 4
+wei 5
 weikong 1
 wenben 4
 wenjian 2
@@ -121,7 +122,7 @@ zhijie 3
 zhineng 1 1
 zhong 5
 zhuangtai 1
-zhuanhuan 2
+zhuanhuan 3
 zifuchuan 2
 zui 1
 zuijin 1
