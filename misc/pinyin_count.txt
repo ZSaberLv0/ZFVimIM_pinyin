@@ -95,7 +95,7 @@ tupian 1
 wang 2
 wangsu 2
 wanzheng 1
-wei 3
+wei 4
 weikong 1
 wenben 4
 wenjian 2
@@ -121,8 +121,8 @@ zhijie 3
 zhineng 1 1
 zhong 5
 zhuangtai 1
-zhuanhuan 1
-zifuchuan 1
+zhuanhuan 2
+zifuchuan 2
 zui 1
 zuijin 1
 zuo 1 1
