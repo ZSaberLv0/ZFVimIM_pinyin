@@ -1,11 +1,11 @@
 baocun 1
 baocuo 4
-bei 2
+bei 3
 biaoshi 1
 bing 2
 bu 1
 budao 1
-buquan 3
+buquan 4
 buxuyao 1
 buyao 3
 caijian 1
@@ -41,6 +41,7 @@ huanhangfu 1
 huizhi 3
 huo 2
 jiang 1
+jieduan 1 1
 jiejue 2
 jiequ 3
 jiesuan 1
@@ -49,7 +50,7 @@ jinxing 2
 jisuan 1
 juedui 1
 kong 1
-kuang 1
+kuang 2
 l 1
 leixing 3
 linshi 1
