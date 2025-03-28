@@ -17,7 +17,7 @@ chicun 1
 chong 3
 chuli 3
 cunzai 1
-d 14
+d 17
 dai 2
 daima 3
 dangqian 1
@@ -72,6 +72,7 @@ pie 1
 pingjun 4
 pipei 1
 qiangzhi 1
+qianmian 1
 qing 1
 qubie 1
 quyu 3
@@ -79,14 +80,14 @@ renhe 1
 renwu 1
 ruhe 13
 shengcheng 1
-shi 3
+shi 4
 shili 3
 shipin 3
 shiyong 4
 shuaxin 1
 shuchu 5
 shuru 1
-sm 2
+sm 3
 su 1
 suoxu 1
 tanchu 1
@@ -107,6 +108,7 @@ yici 1
 yisi 1
 yixia 4
 yizhen 1
+yong 1 1
 yonghu 1
 yunxing 1
 zai 3
@@ -117,8 +119,10 @@ zhi 5
 zhiding 6
 zhijie 3
 zhineng 1 1
-zhong 4
+zhong 5
 zhuangtai 1
 zhuanhuan 1
 zifuchuan 1
+zui 1
 zuijin 1
+zuo 1 1
