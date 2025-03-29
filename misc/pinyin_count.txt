@@ -10,6 +10,7 @@ buxuyao 1
 buyao 3
 caijian 1
 canshu 2
+ceshi 1
 chakan 1
 chaxun 1
 cheng 1
