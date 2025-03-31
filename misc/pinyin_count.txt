@@ -44,6 +44,7 @@ huo 2
 jiang 1
 jieduan 1 1
 jiejue 2
+jiekou 1
 jiequ 3
 jiesuan 1
 jin 2
@@ -54,7 +55,7 @@ kong 1
 kuandu 1
 kuang 2
 l 1
-leixing 3
+leixing 4
 linshi 1
 lujing 2
 meiyou 1
@@ -76,7 +77,7 @@ pipei 1
 qiangzhi 1
 qianmian 1
 qing 1
-qubie 1
+qubie 2
 quyu 3
 renhe 1
 renwu 1
