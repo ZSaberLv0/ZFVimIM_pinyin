@@ -5,7 +5,7 @@ bianhua 1
 biaoshi 1
 bing 2
 bitian 2
-bu 3
+bu 4
 budao 1
 buquan 4
 buxuyao 1
@@ -25,7 +25,7 @@ cuowu 1
 d 22
 dai 2
 daima 3
-dangqian 1
+dangqian 2
 deng 1
 dengguang 1
 dian 1
@@ -40,6 +40,7 @@ fei 1
 fenxi 1
 fenzhi 1
 fuhao 1
+gaibian 1
 gengxin 1
 gua 1
 hang 6
@@ -102,6 +103,7 @@ shipin 3
 shiyong 4
 shuaxin 1
 shuchu 5
+shunxu 1
 shuru 1
 shuzhi 1
 sm 4
@@ -131,6 +133,7 @@ yanse 4
 ye 1
 yehui 1
 yici 1
+yidian 1
 yisi 1
 yixia 5
 yizhen 1
