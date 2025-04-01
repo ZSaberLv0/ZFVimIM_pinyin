@@ -7,6 +7,7 @@ bing 2
 bitian 2
 bu 4
 budao 1
+buneng 1
 buquan 4
 buxuyao 1
 buyao 3
@@ -29,6 +30,7 @@ dangqian 2
 deng 1
 dengguang 1
 dian 1
+diaoyong 1
 dingyi 1
 duo 3
 ewai 2
@@ -40,6 +42,7 @@ fei 1
 fenxi 1
 fenzhi 1
 fuhao 1
+gai 1
 gaibian 1
 gengxin 1
 gua 1
@@ -49,6 +52,8 @@ huanhangfu 1
 huizhi 3
 huo 2
 jiang 2
+jiange 1
+jianyi 1
 jieduan 1 1
 jiejue 2
 jiekou 1
@@ -66,6 +71,7 @@ leixing 4
 linshi 1
 lujing 2
 meiyou 1
+miao 1
 mingling 3
 mingming 3
 mohu 1
@@ -80,6 +86,7 @@ paicha 1
 peizhi 1
 pi 3
 pie 1
+pinfan 1
 pingjun 4
 pipei 1
 qiangzhi 1
@@ -98,6 +105,7 @@ shanchu 3
 shengcheng 1
 shenme 1
 shi 6
+shijian 1
 shili 3
 shipin 3
 shiyong 4
@@ -127,6 +135,7 @@ xian 1
 xiancheng 1
 xiangdang 1
 xianshi 1
+xieyi 1
 xin 3
 xingwei 1
 yanse 4
@@ -134,6 +143,7 @@ ye 1
 yehui 1
 yici 1
 yidian 1
+yishang 1
 yisi 1
 yixia 5
 yizhen 1
@@ -151,9 +161,11 @@ zhiding 8
 zhijie 3
 zhineng 1 1
 zhiqian 4
+zhishao 2
 zhong 5
 zhuangtai 1
 zhuanhuan 3
+zhuyi 1
 zifuchuan 2
 zui 1
 zuijin 1
