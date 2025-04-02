@@ -33,6 +33,7 @@ dian 1
 diaoyong 1
 dingyi 1
 duo 3
+duqu 1
 ewai 2
 fangan 1
 fanhui 1
@@ -106,11 +107,12 @@ shengcheng 1
 shenme 1
 shi 6
 shijian 1
-shili 3
+shili 4
 shipin 3
 shiyong 4
 shuaxin 1
 shuchu 5
+shuju 1
 shunxu 1
 shuru 1
 shuzhi 1
