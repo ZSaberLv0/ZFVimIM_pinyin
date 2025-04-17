@@ -16,7 +16,7 @@ biaoqian 4
 biaoshi 1
 biaozhi 1
 bijiao 1
-bing 3
+bing 4
 bitian 5
 bofang 3
 bu 16
@@ -55,6 +55,7 @@ cuowu 6
 d 47
 dai 8
 daima 3
+dakai 1
 dan 1
 dangqian 3
 danmu 2
@@ -172,6 +173,7 @@ liebiao 2
 linshi 1
 liru 4
 liucheng 2
+liulanqi 1
 lujing 2
 luoji 4
 meige 1
@@ -251,7 +253,7 @@ shijian 1
 shili 17
 shipin 3
 shiwei 1
-shiyong 4
+shiyong 5
 shoujiduan 3
 shuaxin 1
 shuchu 5
@@ -325,7 +327,7 @@ yici 2
 yidian 1
 yiding 1
 yidong 1
-yige 2
+yige 3
 yincang 1
 yinci 2
 yiqi 1
@@ -339,6 +341,7 @@ yong 2 1
 yonghu 4
 yongyu 5
 you 5 5
+youxi 1
 youxianji 1
 youyu 3
 yu 4 1
@@ -348,7 +351,7 @@ yuanxing 1
 yun 1
 yunxing 1
 yunxu 1
-zai 4
+zai 5
 ze 2
 zhao 1
 zhen 3
@@ -364,7 +367,7 @@ zhineng 2 2
 zhiqian 5
 zhishao 2
 zhiyou 1
-zhong 11
+zhong 12
 zhuangtai 4
 zhuanhuan 4
 zhunbei 1
