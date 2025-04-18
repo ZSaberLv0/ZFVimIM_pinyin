@@ -1,7 +1,7 @@
 a 1
 an 1
 anzhao 2
-anzhuang 3
+anzhuang 4
 anzhuo 3
 banben 3
 baocun 1
@@ -55,7 +55,7 @@ cuowu 6
 d 47
 dai 8
 daima 3
-dakai 1
+dakai 3
 dan 1
 dangqian 3
 danmu 2
@@ -159,7 +159,7 @@ jinxing 6
 jisuan 2
 juedui 1
 jun 2
-kaishi 5
+kaishi 6
 keneng 3
 kong 2
 kuandu 1
@@ -183,7 +183,7 @@ miao 1
 miaoshu 1 1
 mima 1
 ming 2
-mingling 5
+mingling 6
 mingming 3
 mingque 2
 mo 1
@@ -265,6 +265,7 @@ shuru 1
 shuzhi 1
 shuzu 5
 sm 4
+sousuo 1
 su 2
 suoxu 1
 suoyin 1
@@ -349,7 +350,7 @@ yuan 1
 yuansu 3
 yuanxing 1
 yun 1
-yunxing 1
+yunxing 2
 yunxu 1
 zai 5
 ze 2
