@@ -79,7 +79,7 @@ cishi 5
 cong 2
 cunzai 7
 cuowu 6
-d 152
+d 154
 da 1
 dai 9
 daima 3
@@ -115,7 +115,7 @@ douhao 2
 doushi 1
 dui 2
 duixiang 4
-duiying 11
+duiying 12
 duiyu 2
 duo 5
 duoge 5
@@ -353,6 +353,7 @@ quanping 2
 qubie 4
 queren 2
 qufeng 35
+quxian 1
 quxiao 1
 quyu 5
 ran 1
@@ -383,12 +384,12 @@ shao 1
 shaolu 2
 she 1
 shebei 1
-shengcheng 1
+shengcheng 2
 shengri 3
 shenhe 28
 shenme 1
 shezhi 2
-shi 27 9 1
+shi 28 10 1
 shibai 1
 shifou 12
 shijian 1
@@ -402,7 +403,7 @@ shouci 2
 shoudao 1
 shoujiduan 3
 shuaxin 1
-shuchu 11
+shuchu 12
 shui 2
 shuju 4
 shunxu 7
@@ -504,7 +505,7 @@ yidian 2
 yiding 1
 yidong 2
 yifen 1
-yige 8
+yige 9
 yijiu 1
 yin 3
 yincang 1
@@ -544,6 +545,7 @@ yueding 1
 yun 1
 yunxing 2
 yunxu 2
+yuyan 1
 zai 13 1
 zaibo 3
 zanting 5
