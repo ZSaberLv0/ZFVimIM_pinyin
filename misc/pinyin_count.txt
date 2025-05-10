@@ -5,7 +5,7 @@ anzhao 2
 anzhuang 4
 anzhuo 3
 banben 4
-banbenhao 2
+banbenhao 3
 baocun 1
 baocuo 4
 baohan 7
@@ -40,6 +40,7 @@ buquan 4
 butong 2
 buxuyao 1
 buyao 4
+buyiding 1
 buzhichi 5
 buzuo 2
 caijian 2
@@ -70,7 +71,7 @@ chuangkou 3
 chufa 1
 chufaqi 9
 chule 1
-chuli 6
+chuli 7
 chuxian 1
 ci 1
 cishi 5
@@ -216,6 +217,7 @@ jianyi 5
 jiaoben 1
 jiaohu 3
 jiaoyan 2
+jiaru 1 1
 jiazai 1
 jichu 1
 jidinghe 5
@@ -366,7 +368,7 @@ rongcuo 1
 ru 1
 ruan 1
 ruguo 1
-ruhe 35
+ruhe 36
 rukou 1
 ruo 7
 san 2
@@ -385,7 +387,7 @@ shengri 3
 shenhe 28
 shenme 1
 shezhi 2
-shi 26 8 1
+shi 27 9 1
 shibai 1
 shifou 12
 shijian 1
