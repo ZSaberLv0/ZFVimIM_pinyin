@@ -79,8 +79,8 @@ cishi 5
 cong 2
 cunzai 7
 cuowu 6
-d 155
-da 1
+d 156
+da 2
 dai 9
 daima 3
 dakai 3
@@ -134,7 +134,7 @@ fangshi 6
 fangwen 3
 fanhui 13
 fanshe 1
-fanyi 1
+fanyi 2
 faqi 13
 fasong 15
 fei 14
@@ -362,6 +362,7 @@ reng 3
 rengong 5
 rengongrengong 1
 renhe 1
+renke 1
 renwu 7
 renyi 5
 ri 1
@@ -453,7 +454,7 @@ wang 2
 wangsu 2
 wanzheng 2
 wasm 1
-wei 26 3
+wei 27 3
 weigui 5
 weikong 2
 weiyi 1
@@ -510,6 +511,8 @@ yijiu 1
 yin 3
 yincang 1
 yinci 2
+yingwei 1
+yingwen 1
 yingxiang 1
 yingyong 1
 yinpin 3
@@ -570,7 +573,7 @@ zhishao 2
 zhiyao 1
 zhiyou 1
 zhizhen 4
-zhong 45
+zhong 46
 zhouqi 1
 zhuan 2
 zhuangtai 11
