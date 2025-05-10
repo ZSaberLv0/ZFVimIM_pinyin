@@ -61,6 +61,7 @@ chaxun 12
 chayi 2
 cheng 1
 chenggong 2
+chengxu 1
 chengyuan 4
 chicun 1
 chixu 1
@@ -368,7 +369,7 @@ rongcuo 1
 ru 1
 ruan 1
 ruguo 1
-ruhe 36
+ruhe 37
 rukou 1
 ruo 7
 san 2
@@ -442,6 +443,7 @@ tongyi 1 1
 tou 1
 touchuan 7
 tu 3
+tubiao 1
 tupian 9
 wa 1
 wai 2
@@ -508,6 +510,7 @@ yin 3
 yincang 1
 yinci 2
 yingxiang 1
+yingyong 1
 yinpin 3
 yinqi 1
 yinru 1
@@ -555,7 +558,7 @@ zhengque 2
 zhi 25 9
 zhichi 12
 zhidao 1
-zhiding 24
+zhiding 25
 zhihou 2
 zhijie 7
 zhijizhijie 1
