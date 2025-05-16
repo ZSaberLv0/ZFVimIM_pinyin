@@ -147,7 +147,7 @@ fa 5
 fagei 3
 fangan 1
 fangda 1
-fangshi 9
+fangshi 10
 fangwen 4
 fanhui 14
 fanshe 1
@@ -231,7 +231,7 @@ hujiao 10
 hulue 2
 huo 14
 huoqu 9
-huqi 1
+huqi 2
 ji 10
 jia 1
 jiajian 1
