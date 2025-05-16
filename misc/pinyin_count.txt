@@ -62,7 +62,7 @@ canzhao 1
 ce 6
 ceshi 2
 chakan 2
-chang 1
+chang 2
 changdu 2
 changjian 2
 changjing 23
@@ -232,6 +232,7 @@ huifu 10 8
 huizhi 3
 hujiao 10
 hulue 3
+hunan 1
 huo 15
 huoqu 9
 huqi 2
