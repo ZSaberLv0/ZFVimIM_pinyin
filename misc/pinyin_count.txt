@@ -285,7 +285,7 @@ kai 1
 kaichang 7
 kaifang 1 1
 kaiji 2
-kaishi 20
+kaishi 21
 ke 6
 keneng 8
 kexuan 1
@@ -614,7 +614,7 @@ zhendui 2
 zhengchang 5
 zhengque 2
 zhi 29 10
-zhichi 15
+zhichi 16
 zhidao 1
 zhiding 33
 zhihou 2
