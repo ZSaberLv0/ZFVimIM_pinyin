@@ -57,7 +57,7 @@ caineng 1
 can 1
 canjian 12
 cankao 1
-canshu 25
+canshu 27
 canzhao 1
 ce 6
 ceshi 2
@@ -93,9 +93,9 @@ ci 1
 cishi 5
 cong 2
 cunchu 2
-cunzai 8
+cunzai 9
 cuowu 6
-d 189
+d 190
 da 2
 dai 10
 daima 4
@@ -231,7 +231,7 @@ huidiao 10
 huifu 10 8
 huizhi 3
 hujiao 10
-hulue 2
+hulue 3
 huo 15
 huoqu 9
 huqi 2
@@ -331,7 +331,7 @@ mima 1
 ming 5
 mingling 7
 mingming 3
-mingque 9
+mingque 10
 mo 1
 mohu 1
 mokuai 6
@@ -432,7 +432,7 @@ shengri 3
 shenhe 28
 shenme 1
 shezhi 2
-shi 38 10 1
+shi 39 10 1
 shibai 1
 shifou 13
 shijian 1
@@ -499,7 +499,7 @@ wai 2
 wancheng 2
 wang 2
 wangsu 2
-wanzheng 5
+wanzheng 6
 wasm 1
 wei 32 3
 weigui 5
@@ -617,7 +617,7 @@ zhengque 2
 zhi 29 10
 zhichi 17
 zhidao 1
-zhiding 33
+zhiding 34
 zhihou 2
 zhijie 7
 zhijizhijie 1
