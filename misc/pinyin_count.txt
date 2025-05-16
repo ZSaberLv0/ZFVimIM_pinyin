@@ -19,7 +19,7 @@ ben 3
 benci 1
 bendi 10
 bianhua 6
-bianli 1
+bianli 2
 bianliang 4
 bianma 2
 biaoqian 10
@@ -55,7 +55,7 @@ caineng 1
 can 1
 canjian 11
 cankao 1
-canshu 17
+canshu 18
 canzhao 1
 ce 6
 ceshi 2
@@ -92,7 +92,7 @@ cong 2
 cunchu 2
 cunzai 8
 cuowu 6
-d 185
+d 186
 da 2
 dai 10
 daima 4
@@ -407,7 +407,7 @@ rongcuo 1
 ru 1
 ruan 1
 ruguo 1
-ruhe 39
+ruhe 40
 rukou 1
 ruo 7
 san 2
@@ -462,7 +462,7 @@ suiji 4
 suoding 5
 suoxu 4
 suoyin 1
-suoyou 2
+suoyou 3
 tanchu 1
 te 1
 teshu 4
