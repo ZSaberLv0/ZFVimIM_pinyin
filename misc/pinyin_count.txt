@@ -57,7 +57,7 @@ caineng 1
 can 1
 canjian 12
 cankao 1
-canshu 27
+canshu 28
 canzhao 1
 ce 6
 ceshi 2
@@ -487,6 +487,7 @@ tongshi 3
 tongxun 10
 tongyi 1 1
 tongyige 4
+tongyong 1
 tongzhi 4
 tou 1
 touchuan 7
