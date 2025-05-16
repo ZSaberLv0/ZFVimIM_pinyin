@@ -31,7 +31,7 @@ biaozhi 1
 bijiao 1
 bili 2
 bing 8
-bitian 24
+bitian 25
 bixu 1
 bo 1
 bofang 31
@@ -137,7 +137,7 @@ dui 2
 duixiang 5
 duiying 15
 duiyu 2
-duo 6
+duo 7
 duoge 9
 duoshao 1
 duqu 2
@@ -159,7 +159,7 @@ fanyi 2
 faqi 14
 fasheng 1
 fasong 15
-fei 24
+fei 25
 feichang 1
 fen 1 1
 fenbie 1
@@ -224,7 +224,7 @@ houxu 1
 hu 1
 huanhang 1
 huanhangfu 1
-huanjing 14
+huanjing 16
 hudong 12
 hui 6
 huidiao 10
@@ -294,7 +294,7 @@ kexuan 1
 kexue 1
 kong 7
 kongge 1
-kongjian 1
+kongjian 2
 kongzhi 3
 kou 2 1
 kuandu 1
@@ -336,7 +336,7 @@ mingque 10
 mo 1
 mohu 1
 mokuai 6
-moren 33
+moren 34
 moshi 9
 mouge 2
 mulu 1
@@ -362,12 +362,12 @@ pi 4
 pie 1
 pin 3
 pinfan 1
-ping 33
+ping 34
 pingjun 4
 pingmu 5
 pinjie 3
 pipei 9
-putong 3
+putong 4
 qi 2
 qian 1
 qianduan 1
