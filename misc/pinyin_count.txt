@@ -379,7 +379,7 @@ qing 2
 qingba 3
 qingchu 2
 qingkong 2
-qingkuang 1
+qingkuang 2
 qiqita 1
 qita 3
 qiyong 7 3
@@ -577,7 +577,7 @@ yiqi 1
 yishang 5
 yishou 2
 yisi 4
-yixia 15
+yixia 16
 yixie 1
 yizhen 1
 yizhi 3
