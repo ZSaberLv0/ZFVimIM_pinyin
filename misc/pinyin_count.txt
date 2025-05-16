@@ -30,7 +30,7 @@ biaozhi 1
 bijiao 1
 bili 2
 bing 8
-bitian 18
+bitian 19
 bixu 1
 bo 1
 bofang 28
@@ -93,7 +93,7 @@ cong 2
 cunchu 2
 cunzai 8
 cuowu 6
-d 188
+d 189
 da 2
 dai 10
 daima 4
@@ -157,7 +157,7 @@ fanyi 2
 faqi 13
 fasheng 1
 fasong 15
-fei 18
+fei 19
 feichang 1
 fen 1 1
 fenbie 1
@@ -325,7 +325,7 @@ miao 2
 miaoshu 2 2
 mima 1
 ming 5
-mingling 6
+mingling 7
 mingming 3
 mingque 7
 mo 1
@@ -536,7 +536,7 @@ xinzeng 8
 xinzengxinzeng 1
 xunhuan 2
 xuqiu 2
-xuyao 19
+xuyao 20
 yanse 5
 yao 5
 yaoqiu 6
@@ -616,6 +616,7 @@ zhijizhijie 1
 zhineng 2 2
 zhiqian 6
 zhishao 2
+zhixing 1
 zhiyao 1
 zhiyou 1
 zhizhen 4
@@ -631,7 +632,7 @@ zhuyao 1
 zhuyi 3
 zidian 1
 zidingyi 5
-zidong 10
+zidong 11
 ziduan 36
 zifu 3
 zifuchuan 10
