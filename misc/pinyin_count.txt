@@ -389,6 +389,7 @@ quanju 2
 quanliang 1
 quanping 2
 qubie 7
+qudao 1
 quebao 1
 queren 2
 qufeng 39
@@ -612,7 +613,7 @@ zhen 3
 zhendui 2
 zhengchang 5
 zhengque 2
-zhi 28 10
+zhi 29 10
 zhichi 15
 zhidao 1
 zhiding 33
