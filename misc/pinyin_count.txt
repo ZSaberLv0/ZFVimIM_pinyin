@@ -34,9 +34,9 @@ bing 8
 bitian 23
 bixu 1
 bo 1
-bofang 29
+bofang 30
 bokong 2
-bowan 1
+bowan 2
 bu 26 1
 budao 1
 bufen 1
@@ -102,7 +102,7 @@ daima 4
 dakai 3
 dan 6
 dang 1
-dangqian 22
+dangqian 23
 danmu 3
 dao 13
 de 1
@@ -179,7 +179,7 @@ fulu 1
 fuping 11
 fuwu 2
 fuzhi 2 1
-gai 6
+gai 7
 gaibian 1
 gaizao 2
 gaoji 2
@@ -285,7 +285,7 @@ kai 1
 kaichang 7
 kaifang 1 1
 kaiji 2
-kaishi 21
+kaishi 22
 ke 6
 keneng 8
 kexuan 1
@@ -392,7 +392,7 @@ qubie 7
 qudao 1
 quebao 1
 queren 2
-qufeng 39
+qufeng 40
 quxian 1
 quxiao 1
 quyu 5
@@ -431,7 +431,7 @@ shengri 3
 shenhe 28
 shenme 1
 shezhi 2
-shi 35 10 1
+shi 36 10 1
 shibai 1
 shifou 13
 shijian 1
@@ -474,7 +474,7 @@ teshu 5
 tianjia 1
 tianxie 1
 tiaozheng 1
-tiaozhuan 7
+tiaozhuan 8
 tice 2
 tigong 3
 tihuan 7
@@ -614,7 +614,7 @@ zhendui 2
 zhengchang 5
 zhengque 2
 zhi 29 10
-zhichi 16
+zhichi 17
 zhidao 1
 zhiding 33
 zhihou 2
@@ -639,7 +639,7 @@ zhuyao 1
 zhuyi 3
 zidian 1
 zidingyi 5
-zidong 12
+zidong 14
 ziduan 36
 zifu 3
 zifuchuan 10
