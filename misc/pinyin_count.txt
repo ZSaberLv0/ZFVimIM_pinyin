@@ -66,7 +66,7 @@ changjian 2
 changjing 23
 changyong 2
 chaoguo 1
-charu 1
+charu 2
 chaxun 15
 chayi 2
 chazhao 1
@@ -188,7 +188,7 @@ gei 4
 geng 1
 gengxin 6
 genju 5
-gequ 4
+gequ 5
 geshi 17
 geshihua 1
 geshu 3
@@ -229,7 +229,7 @@ huifu 10 8
 huizhi 3
 hujiao 10
 hulue 2
-huo 14
+huo 15
 huoqu 9
 huqi 2
 ji 10
@@ -368,7 +368,7 @@ qianduan 1
 qiangzhi 2
 qianhou 1
 qianmian 1
-qidong 9
+qidong 11
 qiehuan 3
 qin 1
 qing 2
@@ -465,7 +465,7 @@ suoyin 1
 suoyou 3
 tanchu 1
 te 1
-teshu 4
+teshu 5
 tianjia 1
 tianxie 1
 tiaozheng 1
@@ -476,7 +476,7 @@ tihuan 7
 tishi 2
 tong 1
 tongchang 3
-tongguo 19
+tongguo 21
 tongshi 3
 tongxun 10
 tongyi 1 1
@@ -546,7 +546,7 @@ yewu 3
 yi 1
 yichang 4
 yici 4
-yidian 8
+yidian 9
 yiding 1
 yidong 2
 yifen 1
