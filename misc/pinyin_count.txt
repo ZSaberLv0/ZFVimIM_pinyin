@@ -53,9 +53,9 @@ buzuo 3
 caijian 2
 caineng 1
 can 1
-canjian 11
+canjian 12
 cankao 1
-canshu 18
+canshu 21
 canzhao 1
 ce 6
 ceshi 2
@@ -79,6 +79,7 @@ chixu 1
 chong 3
 chu 1
 chuan 1
+chuandi 1
 chuangkou 3
 chufa 1
 chufaqi 15
@@ -92,7 +93,7 @@ cong 2
 cunchu 2
 cunzai 8
 cuowu 6
-d 186
+d 188
 da 2
 dai 10
 daima 4
@@ -147,7 +148,7 @@ fa 5
 fagei 3
 fangan 1
 fangda 1
-fangshi 10
+fangshi 11
 fangwen 4
 fanhui 14
 fanshe 1
@@ -184,7 +185,7 @@ gaoyu 1
 ge 6 1
 gedan 4
 geduan 2
-gei 4
+gei 5
 geng 1
 gengxin 6
 genju 5
@@ -347,7 +348,7 @@ ng 2
 nihao 3
 o 4
 paicha 3
-paidui 5
+paidui 6
 panduan 5
 peihe 1
 peitao 1
@@ -368,7 +369,7 @@ qianduan 1
 qiangzhi 2
 qianhou 1
 qianmian 1
-qidong 11
+qidong 13
 qiehuan 3
 qin 1
 qing 2
@@ -460,7 +461,7 @@ sousuo 1
 su 2
 suiji 4
 suoding 5
-suoxu 4
+suoxu 5
 suoyin 1
 suoyou 3
 tanchu 1
@@ -518,7 +519,7 @@ xiamen 1
 xian 2 1
 xiancheng 1
 xiangdang 1
-xiangguan 8
+xiangguan 9
 xiangqing 1
 xiangsi 1
 xiangtong 4
@@ -542,7 +543,7 @@ yaoqiu 6
 ye 6 5
 yehui 1
 yemian 4
-yewu 3
+yewu 5
 yi 1
 yichang 4
 yici 4
