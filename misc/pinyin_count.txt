@@ -1,5 +1,5 @@
 a 2
-an 2
+an 3
 anniu 1
 anzhao 2
 anzhuang 4
@@ -20,7 +20,7 @@ ben 4
 benci 2
 bendi 11
 bian 2
-bianhua 8
+bianhua 9
 bianli 2
 bianliang 4
 bianma 2
@@ -124,7 +124,7 @@ diannao 1
 dianshi 3
 dianshiping 5
 dianxing 1
-dianyin 4
+dianyin 5
 dianzi 2
 diaoyong 9
 die 1
@@ -169,7 +169,7 @@ fanhui 14
 fanshe 1
 fanwei 1
 fanyi 2
-faqi 17
+faqi 18
 fasheng 1
 fasong 15
 fei 26
@@ -206,7 +206,7 @@ gei 5
 geng 1
 gengxin 8
 genju 5
-gequ 13
+gequ 14
 geshi 19
 geshihua 1
 geshu 3
@@ -358,7 +358,7 @@ mingque 10
 mo 1
 mohu 1
 mokuai 6
-moren 39
+moren 40
 moshi 9
 mouge 2
 mulu 1
@@ -382,7 +382,7 @@ paidui 9
 panduan 5
 peihe 1
 peitao 1
-peizhi 105
+peizhi 106
 pi 4
 pie 1
 pin 3
@@ -419,7 +419,7 @@ qubie 10
 qudao 1
 quebao 1
 queren 2
-qufeng 42
+qufeng 43
 quxian 1
 quxiao 1
 quyu 5
@@ -503,7 +503,7 @@ suoyou 4
 tanchu 1
 te 1
 tehua 1
-teshu 8
+teshu 9
 tianjia 1
 tianxie 1
 tiaozheng 1
@@ -520,7 +520,7 @@ tongxun 10
 tongyi 2 1
 tongyige 4
 tongyong 1
-tongzhi 6
+tongzhi 7
 tou 1
 touchuan 7
 tu 3
@@ -579,6 +579,7 @@ xinxi 8
 xinzeng 8
 xinzengxinzeng 1
 xiu 1
+xiugai 1
 xunhuan 2
 xuqiu 2
 xuyao 20
@@ -590,8 +591,10 @@ ye 8 6
 yehui 1
 yemian 4
 yewu 15
-yi 2 1
+yi 2 1 1
 yichang 4
+yichu 1
+yichuan 1
 yici 5
 yidian 12
 yiding 1

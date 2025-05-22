@@ -5560,6 +5560,7 @@ yibu 异步 移步
 yiceng 一层
 yichang 异常 一场 已唱
 yichu 移除 溢出
+yichuan 一串
 yici 一次 以此 依次
 yidao 驿道
 yideng 一等
