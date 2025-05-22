@@ -84,7 +84,7 @@ chicun 1
 chixu 1
 chong 3
 chongfu 1
-chu 1
+chu 2
 chuan 2
 chuandi 1
 chuangkou 3
@@ -529,7 +529,7 @@ tuichu 1
 tuijian 1
 tupian 10
 wa 1
-wai 2
+wai 3
 waibu 4
 wancheng 2
 wang 2
@@ -575,11 +575,11 @@ xin 6
 xing 2
 xingwei 5
 xingweijun 1
-xinxi 9
+xinxi 10
 xinzeng 8
 xinzengxinzeng 1
 xiu 1
-xiugai 1
+xiugai 2
 xunhuan 2
 xuqiu 2
 xuyao 20
@@ -627,7 +627,7 @@ yizhen 1
 yizhi 3
 yong 3 2
 yongdao 1
-yonghu 6
+yonghu 7
 yongyu 9
 you 13 11 2
 youjian 1
@@ -683,7 +683,7 @@ zhouqi 1
 zhuan 2
 zhuangtai 19
 zhuanhuan 12
-zhudong 4
+zhudong 5
 zhunbei 1
 zhuti 10
 zhuyao 1
