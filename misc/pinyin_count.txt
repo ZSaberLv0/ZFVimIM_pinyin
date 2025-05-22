@@ -19,7 +19,7 @@ beizhu 5
 ben 4
 benci 2
 bendi 11
-bian 1
+bian 2
 bianhua 8
 bianli 2
 bianliang 4
@@ -237,7 +237,7 @@ heng 2
 hou 12
 houduan 10
 houmian 1
-houtai 2
+houtai 3
 houxu 1
 hu 1
 huanhang 1
@@ -338,7 +338,7 @@ liji 1
 linshi 1
 liru 20
 liu 1 1
-liucheng 4
+liucheng 6
 liulanqi 1
 lujing 2
 luoji 16
@@ -376,7 +376,7 @@ ng 4
 nicheng 1
 nihao 3
 o 5
-pai 1
+pai 2
 paicha 3
 paidui 9
 panduan 5
@@ -474,7 +474,7 @@ shiyong 26
 shou 1
 shouci 2
 shoudao 1
-shoujiduan 6
+shoujiduan 7
 shuaxin 1
 shuchu 12
 shui 2
@@ -657,7 +657,7 @@ zhaopianqiang 1
 zhen 3
 zhendui 2
 zhengchang 5
-zhenghe 1
+zhenghe 3
 zhengque 2
 zhengze 1
 zhi 32 10
