@@ -206,7 +206,7 @@ gei 5
 geng 1
 gengxin 8
 genju 5
-gequ 10
+gequ 12
 geshi 19
 geshihua 1
 geshu 3
@@ -392,7 +392,7 @@ pingjun 4
 pingmu 9
 pinjie 3
 pipei 10
-putong 8
+putong 10
 qi 2
 qian 1
 qianduan 1
