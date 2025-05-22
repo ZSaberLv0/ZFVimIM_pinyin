@@ -143,7 +143,7 @@ douhao 3
 doushi 1
 duan 1
 dui 2
-duijie 1
+duijie 2
 duixiang 5
 duiying 16
 duiyu 2
@@ -235,7 +235,7 @@ hegui 4
 heise 1
 heng 2
 hou 12
-houduan 9
+houduan 10
 houmian 1
 houtai 2
 houxu 1
@@ -244,7 +244,7 @@ huanhang 1
 huanhangfu 1
 huanjie 1
 huanjing 17
-hudong 19
+hudong 20
 hui 7
 huidiao 10
 huifu 10 8
@@ -267,7 +267,7 @@ jianjie 2
 jianshao 1
 jianyi 5
 jiaoben 3
-jiaohu 7
+jiaohu 8
 jiaoyan 2
 jiaru 1 1
 jiazai 1
@@ -387,7 +387,7 @@ pi 4
 pie 1
 pin 3
 pinfan 1
-ping 42
+ping 43
 pingjun 4
 pingmu 9
 pinjie 3
@@ -534,7 +534,7 @@ waibu 4
 wancheng 2
 wang 2
 wangsu 2
-wanzheng 9
+wanzheng 10
 wasm 1
 wei 35 3
 weigui 5
@@ -570,7 +570,7 @@ xiangxi 1
 xianshi 6
 xiao 1
 xiesi 2
-xieyi 14
+xieyi 15
 xin 6
 xing 2
 xingwei 5
