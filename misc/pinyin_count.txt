@@ -100,7 +100,7 @@ cong 4
 cunchu 3
 cunzai 9
 cuowu 6
-d 205
+d 206
 da 2
 dai 10
 daibiao 2
@@ -114,7 +114,7 @@ danmu 3
 dao 14
 de 1
 deng 10
-dengguang 2
+dengguang 3
 dezhi 5
 di 1
 dian 2
@@ -206,7 +206,7 @@ gei 5
 geng 1
 gengxin 8
 genju 5
-gequ 12
+gequ 13
 geshi 19
 geshihua 1
 geshu 3
@@ -316,7 +316,7 @@ kexue 1
 kong 8
 kongge 1
 kongjian 4
-kongzhi 3
+kongzhi 4
 kou 2 1
 kuandu 1
 kuang 2
@@ -329,7 +329,7 @@ laiyuan 1
 leisi 1
 leixing 12
 lian 4
-liandong 3
+liandong 4
 liangge 1
 lianjie 1
 lianxu 1
@@ -382,7 +382,7 @@ paidui 9
 panduan 5
 peihe 1
 peitao 1
-peizhi 104
+peizhi 105
 pi 4
 pie 1
 pin 3
@@ -392,7 +392,7 @@ pingjun 4
 pingmu 9
 pinjie 3
 pipei 10
-putong 10
+putong 11
 qi 2
 qian 1
 qianduan 1
