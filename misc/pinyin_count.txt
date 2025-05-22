@@ -237,7 +237,7 @@ heng 2
 hou 12
 houduan 10
 houmian 1
-houtai 3
+houtai 5
 houxu 1
 hu 1
 huanhang 1
@@ -382,7 +382,7 @@ paidui 9
 panduan 5
 peihe 1
 peitao 1
-peizhi 102
+peizhi 104
 pi 4
 pie 1
 pin 3
