@@ -109,7 +109,7 @@ dakai 3
 dan 6
 dandu 1
 dang 1
-dangqian 23
+dangqian 24
 danmu 3
 dao 14
 de 1
@@ -242,7 +242,8 @@ houxu 1
 hu 1
 huanhang 1
 huanhangfu 1
-huanjing 16
+huanjie 1
+huanjing 17
 hudong 19
 hui 7
 huidiao 10
@@ -314,7 +315,7 @@ kexuan 1
 kexue 1
 kong 8
 kongge 1
-kongjian 2
+kongjian 3
 kongzhi 3
 kou 2 1
 kuandu 1
@@ -357,7 +358,7 @@ mingque 10
 mo 1
 mohu 1
 mokuai 6
-moren 37
+moren 38
 moshi 9
 mouge 2
 mulu 1
@@ -391,7 +392,7 @@ pingjun 4
 pingmu 9
 pinjie 3
 pipei 10
-putong 6
+putong 7
 qi 2
 qian 1
 qianduan 1
@@ -640,7 +641,7 @@ yuanxing 1
 yuanyin 1
 yueding 1
 yun 1
-yunxing 2
+yunxing 3
 yunxu 2
 yuyan 1
 za 1
