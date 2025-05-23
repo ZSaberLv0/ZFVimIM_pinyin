@@ -36,7 +36,7 @@ bingqie 1
 bitian 27
 bixu 1
 bo 1
-bofang 31
+bofang 32
 bokong 2
 bowan 2
 bu 28 1
@@ -73,7 +73,7 @@ changshi 1
 changyong 2
 changzhu 1
 chaoguo 1
-charu 2
+charu 3
 chaxun 15
 chayi 2
 chazhao 1
@@ -207,7 +207,7 @@ gei 5
 geng 1
 gengxin 13
 genju 5
-gequ 14
+gequ 15
 geshi 19
 geshihua 1
 geshu 3
@@ -309,7 +309,7 @@ kai 1
 kaichang 7
 kaifang 1 1
 kaiji 2
-kaishi 26
+kaishi 27
 ke 7
 keneng 8
 kexuan 1
@@ -471,7 +471,7 @@ shili 37
 shipei 1
 shipin 50
 shiwei 2
-shixian 7
+shixian 8
 shiyong 26
 shou 1
 shouci 2
@@ -505,7 +505,7 @@ suoyou 4
 tanchu 1
 te 1
 tehua 1
-teshu 9
+teshu 10
 tianjia 1
 tianxie 1
 tiaozheng 1
@@ -667,7 +667,7 @@ zhenghe 3
 zhengque 2
 zhengze 1
 zhi 32 10
-zhichi 21
+zhichi 22
 zhidao 1
 zhiding 34
 zhihou 3
