@@ -132,7 +132,7 @@ die 1
 difang 1
 digui 1
 ding 2
-dingyi 1
+dingyi 2
 disanfang 2
 diushi 1
 diyi 1
