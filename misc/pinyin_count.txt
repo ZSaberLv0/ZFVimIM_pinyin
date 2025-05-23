@@ -20,7 +20,7 @@ ben 4
 benci 2
 bendi 11
 bian 2
-bianhua 10
+bianhua 11
 bianli 2
 bianliang 4
 bianma 2
@@ -33,7 +33,7 @@ bijiao 1
 bili 2
 bing 8
 bingqie 1
-bitian 25
+bitian 26
 bixu 1
 bo 1
 bofang 31
@@ -109,7 +109,7 @@ dakai 3
 dan 6
 dandu 1
 dang 1
-dangqian 24
+dangqian 25
 danmu 3
 dao 14
 de 1
@@ -170,9 +170,9 @@ fanshe 1
 fanwei 1
 fanyi 2
 faqi 18
-fasheng 1
+fasheng 2
 fasong 15
-fei 26
+fei 27
 feichang 1
 fen 1 1
 fenbie 1
@@ -308,7 +308,7 @@ kai 1
 kaichang 7
 kaifang 1 1
 kaiji 2
-kaishi 25
+kaishi 26
 ke 6
 keneng 8
 kexuan 1
@@ -627,7 +627,7 @@ yizhen 1
 yizhi 3
 yong 3 2
 yongdao 1
-yonghu 7
+yonghu 8
 yongyu 9
 you 13 11 2
 youjian 1
@@ -664,7 +664,7 @@ zhenghe 3
 zhengque 2
 zhengze 1
 zhi 32 10
-zhichi 20
+zhichi 21
 zhidao 1
 zhiding 34
 zhihou 3
