@@ -310,6 +310,7 @@ jun 2
 juti 3
 kai 1
 kaichang 7
+kaifa 1
 kaifang 1 1
 kaiji 2
 kaishi 30
@@ -468,6 +469,7 @@ shengcheng 2
 shengri 3
 shenhe 28
 shenme 1
+shenzhen 1
 shezhi 2
 shi 41 10 2
 shibai 1
@@ -514,6 +516,7 @@ tehua 1
 teshu 10
 tianjia 3
 tianxie 1
+tiaoshi 1
 tiaozheng 1
 tiaozhuan 11
 tice 2
