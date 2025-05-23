@@ -477,7 +477,7 @@ shibai 1
 shifou 15
 shijian 1
 shili 37
-shipei 1
+shipei 3
 shipin 50
 shiwei 2
 shixian 8
