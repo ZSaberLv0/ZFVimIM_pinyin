@@ -240,7 +240,7 @@ heng 2
 hou 14
 houduan 10
 houmian 1
-houtai 5
+houtai 6
 houxu 1
 hu 1
 huanhang 1
@@ -385,7 +385,7 @@ paidui 9
 panduan 5
 peihe 1
 peitao 1
-peizhi 109
+peizhi 110
 pi 4
 pie 1
 pin 3
@@ -415,7 +415,7 @@ qita 3
 qiyong 8 3
 qiyu 3
 qu 2
-quanju 3
+quanju 4
 quanliang 1
 quanping 2
 qubie 10
