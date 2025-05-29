@@ -125,7 +125,7 @@ dangqian 33
 danmu 3
 dao 19
 daxiao 1
-de 1
+de 2
 deng 10
 dengguang 6
 dezhi 5
@@ -246,7 +246,7 @@ gui 2
 guize 6
 guolv 1
 guoqi 2
-h 4
+h 5
 haishi 1
 haiyou 1
 hang 8
@@ -750,7 +750,7 @@ zhixing 1
 zhiyao 1
 zhiyou 1
 zhizhen 4
-zhong 58
+zhong 59
 zhongjian 1
 zhongyang 1
 zhou 1
@@ -773,7 +773,7 @@ zishen 1
 zixing 1
 zixun 1
 ziyuan 3
-zong 1
+zong 2
 zu 2
 zui 2
 zuihou 2
