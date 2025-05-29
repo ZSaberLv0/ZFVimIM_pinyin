@@ -310,7 +310,7 @@ jiekou 16
 jiemi 1
 jiequ 5
 jieru 1
-jieshi 4
+jieshi 5
 jieshou 2
 jieshu 7
 jiesuan 1
