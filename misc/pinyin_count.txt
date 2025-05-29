@@ -121,7 +121,7 @@ dakai 3
 dan 11
 dandu 1
 dang 1
-dangqian 32
+dangqian 33
 danmu 3
 dao 19
 daxiao 1
@@ -528,7 +528,7 @@ shoubi 1
 shouci 2
 shoudao 3
 shoujiduan 7
-shouquan 2
+shouquan 3
 shouzhi 2
 shuang 1
 shuaxin 1
@@ -599,7 +599,7 @@ wang 2
 wangsu 2
 wanzheng 10
 wasm 1
-wei 42 3
+wei 42 4
 weigui 5
 weikong 2
 weiyi 6
