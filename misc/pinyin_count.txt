@@ -182,6 +182,7 @@ fangda 1
 fangshi 16
 fangwen 4
 fanhui 14
+fanhuizhi 2
 fanshe 1
 fanwei 1
 fanyi 2
@@ -378,7 +379,7 @@ man 2
 meici 2
 meige 6 1
 meiti 5
-meiyou 4
+meiyou 5
 mi 3
 mian 4
 miao 2
@@ -387,7 +388,7 @@ mima 1
 ming 11
 mingling 7
 mingming 3
-mingque 10
+mingque 12
 mo 1
 mohu 1
 mokuai 6
@@ -670,7 +671,7 @@ yidian 21
 yiding 1
 yidong 2
 yifen 1
-yige 19
+yige 20
 yiji 1 1
 yijiu 1
 yiliu 1
@@ -738,7 +739,7 @@ zhengze 1
 zhi 37 12
 zhichi 22
 zhidao 1
-zhiding 40
+zhiding 42
 zhihou 4
 zhijie 7
 zhijizhijie 1
@@ -748,7 +749,7 @@ zhishao 2
 zhixiang 1
 zhixing 1
 zhiyao 1
-zhiyou 1
+zhiyou 2
 zhizhen 4
 zhong 59
 zhongjian 1
