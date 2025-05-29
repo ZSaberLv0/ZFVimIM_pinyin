@@ -245,7 +245,7 @@ guding 6
 gui 2
 guize 6
 guolv 1
-guoqi 1
+guoqi 2
 h 4
 haishi 1
 haiyou 1
@@ -661,7 +661,7 @@ ye 10 8
 yehui 1
 yemian 5
 yewu 19
-yi 2 1 1
+yi 3 1 1
 yichang 4
 yichu 1
 yichuan 1
