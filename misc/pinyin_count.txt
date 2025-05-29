@@ -37,7 +37,7 @@ bijiao 1
 bili 2
 bing 12
 bingqie 5
-bitian 37
+bitian 38
 bixu 4
 bo 2
 bofang 32
@@ -188,7 +188,7 @@ fanyi 2
 faqi 19
 fasheng 2
 fasong 17
-fei 35
+fei 38
 feichang 3
 fen 2 1
 fenbie 2
@@ -201,7 +201,7 @@ fenshu 1
 fenwei 3
 fenxi 1
 fenzhi 1
-fenzu 2
+fenzu 3
 fu 1
 fudai 1
 fugai 19
@@ -493,7 +493,7 @@ sange 1
 saoma 1
 se 3
 shan 1
-shanchu 9
+shanchu 10
 shang 3
 shangbanshen 2
 shangbao 4
@@ -512,7 +512,7 @@ shenme 1
 shenti 1
 shenzhen 1
 shezhi 2
-shi 52 13 2
+shi 53 13 2
 shibai 1
 shifou 17
 shijian 3 2
@@ -699,7 +699,7 @@ yizhuo 4
 yong 3 2
 yongdao 1
 yonghu 10
-yongyu 14
+yongyu 15
 you 18 16 3
 youjian 1
 youxi 1
@@ -738,7 +738,7 @@ zhengze 1
 zhi 37 12
 zhichi 22
 zhidao 1
-zhiding 39
+zhiding 40
 zhihou 4
 zhijie 7
 zhijizhijie 1
@@ -765,7 +765,7 @@ zhuyao 1
 zhuyi 7
 zidian 1
 zidingyi 9
-zidong 17
+zidong 18
 ziduan 42
 zifu 3
 zifuchuan 13
