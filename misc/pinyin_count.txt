@@ -64,7 +64,7 @@ caineng 1
 can 1
 canjian 16
 cankao 1
-canshu 31
+canshu 32
 canzhao 1
 caozuo 4
 ce 8
@@ -616,7 +616,7 @@ wo 1
 wsm 2
 wu 7
 wufa 4
-wuxiao 6
+wuxiao 7
 wuxu 1
 wuyiyi 1
 xi 1
