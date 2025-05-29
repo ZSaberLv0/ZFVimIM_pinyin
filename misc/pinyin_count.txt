@@ -166,7 +166,7 @@ duli 1
 duo 7
 duoge 9
 duoshao 1
-duqu 2
+duqu 3
 duzhan 2
 e 1
 en 1
@@ -519,7 +519,7 @@ shibai 1
 shifou 17
 shijian 3 2
 shijianchuo 2
-shili 37
+shili 38
 shipei 3
 shipin 54
 shiwei 2
@@ -770,7 +770,7 @@ zidingyi 9
 zidong 18
 ziduan 42
 zifu 3
-zifuchuan 13
+zifuchuan 14
 zishen 1
 zixing 1
 zixun 1
