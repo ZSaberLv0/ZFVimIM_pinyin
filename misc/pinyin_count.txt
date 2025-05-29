@@ -111,7 +111,7 @@ cong 4
 cunchu 3
 cunzai 9
 cuowu 7
-d 241
+d 242
 da 5
 dai 10
 daibiao 2
@@ -382,7 +382,7 @@ meiyou 4
 mi 3
 mian 4
 miao 2
-miaoshu 2 2
+miaoshu 3 2
 mima 1
 ming 11
 mingling 7
@@ -505,7 +505,7 @@ shaolu 2
 she 1
 shebei 1
 sheji 3
-shengcheng 2
+shengcheng 3
 shengri 3
 shenhe 28
 shenme 1
@@ -516,7 +516,7 @@ shi 50 13 2
 shibai 1
 shifou 17
 shijian 3 2
-shijianchuo 1
+shijianchuo 2
 shili 37
 shipei 3
 shipin 54
@@ -670,7 +670,7 @@ yidian 21
 yiding 1
 yidong 2
 yifen 1
-yige 18
+yige 19
 yiji 1 1
 yijiu 1
 yiliu 1
@@ -738,8 +738,8 @@ zhengze 1
 zhi 36 12
 zhichi 22
 zhidao 1
-zhiding 38
-zhihou 3
+zhiding 39
+zhihou 4
 zhijie 7
 zhijizhijie 1
 zhineng 2 2
