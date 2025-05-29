@@ -167,7 +167,7 @@ duli 1
 duo 7
 duoge 9
 duoshao 1
-duqu 5
+duqu 6
 duzhan 2
 e 1
 en 1
