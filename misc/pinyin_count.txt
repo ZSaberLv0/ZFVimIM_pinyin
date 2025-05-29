@@ -33,6 +33,7 @@ biaoqing 1
 biaoshi 6 1
 biaoti 1
 biaozhi 6
+biaozhun 1
 bijiao 1
 bili 2
 bing 12
@@ -107,7 +108,7 @@ chun 1
 chuxian 3
 ci 1
 cishi 5
-cong 4
+cong 5
 cunchu 3
 cunzai 9
 cuowu 7
@@ -166,7 +167,7 @@ duli 1
 duo 7
 duoge 9
 duoshao 1
-duqu 3
+duqu 5
 duzhan 2
 e 1
 en 1
@@ -494,6 +495,7 @@ san 2
 sange 1
 saoma 1
 se 3
+sha 1
 shan 1
 shanchu 10
 shang 3
@@ -504,6 +506,7 @@ shangshu 1
 shangxia 3
 shao 1
 shaolu 2
+shashuru 1
 she 1
 shebei 1
 sheji 3
@@ -542,7 +545,7 @@ shunxu 8
 shuo 1
 shuoming 13
 shuping 2
-shuru 4
+shuru 5
 shuzhi 2
 shuzi 8
 shuzu 8
