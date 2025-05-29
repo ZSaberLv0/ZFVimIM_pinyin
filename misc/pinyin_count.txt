@@ -8,7 +8,7 @@ anzhuang 4
 anzhuo 8
 banben 5
 banbenhao 5
-bangding 2
+bangding 3
 bangdingma 1
 baocun 1
 baocuo 4
@@ -111,7 +111,7 @@ cong 4
 cunchu 3
 cunzai 9
 cuowu 7
-d 242
+d 243
 da 5
 dai 10
 daibiao 2
@@ -459,7 +459,7 @@ quan 1
 quanju 4
 quanliang 1
 quanping 2
-quanxian 2
+quanxian 3
 qubie 10
 qudao 1
 quebao 1
@@ -497,7 +497,7 @@ shanchu 7
 shang 3
 shangbanshen 2
 shangbao 4
-shangjia 2
+shangjia 3
 shangshu 1
 shangxia 3
 shao 1
@@ -616,7 +616,7 @@ wo 1
 wsm 2
 wu 7
 wufa 4
-wuxiao 4
+wuxiao 6
 wuxu 1
 wuyiyi 1
 xi 1
