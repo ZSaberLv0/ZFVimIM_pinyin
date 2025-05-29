@@ -245,6 +245,7 @@ guding 6
 gui 2
 guize 6
 guolv 1
+guoqi 1
 h 4
 haishi 1
 haiyou 1
@@ -514,7 +515,8 @@ shezhi 2
 shi 50 13 2
 shibai 1
 shifou 17
-shijian 2 2
+shijian 3 2
+shijianchuo 1
 shili 37
 shipei 3
 shipin 54
