@@ -98,7 +98,7 @@ chixu 1
 chong 3
 chongfu 2
 chongxin 1
-chu 3
+chu 4
 chuan 2
 chuandi 2
 chuangkou 3
@@ -603,7 +603,7 @@ tuichu 1
 tuijian 1
 tupian 17
 wa 1
-wai 4
+wai 5
 waibu 4
 wancheng 2
 wang 2
@@ -734,7 +734,7 @@ yunxu 2
 yuyan 1
 za 1
 zai 19 2
-zaibo 10
+zaibo 11
 zanshi 1
 zanting 5
 ze 9
