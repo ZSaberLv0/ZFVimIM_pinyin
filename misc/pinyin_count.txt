@@ -101,6 +101,7 @@ chongxin 1
 chu 4
 chuan 2
 chuandi 2
+chuangjian 1
 chuangkou 3
 chufa 1
 chufaqi 15
@@ -114,7 +115,7 @@ cong 5
 cunchu 3
 cunzai 9
 cuowu 7
-d 257
+d 259
 da 5
 dai 11
 daibiao 2
@@ -181,6 +182,7 @@ ewai 8
 fa 6
 fachu 1
 fagei 3
+fang 1 1 1
 fangan 1
 fangda 1
 fangshi 16
@@ -494,7 +496,7 @@ rongcuo 1
 ru 1
 ruan 1
 ruguo 4
-ruhe 46
+ruhe 47
 rukou 1
 ruo 9
 san 2
@@ -568,7 +570,7 @@ suoding 5
 suoxie 1
 suoxu 5
 suoyin 1
-suoyou 7
+suoyou 8
 tai 1
 tanchu 1
 te 1
@@ -631,7 +633,7 @@ wuxiao 7
 wuxu 1
 wuyiyi 1
 xi 1
-xia 8
+xia 9
 xiafang 3
 xiamen 1
 xian 3 1
@@ -650,7 +652,7 @@ xiao 1
 xiayishou 3
 xiesi 2
 xieyi 17
-xin 9
+xin 10
 xing 4
 xinggan 7
 xingwei 5
@@ -681,7 +683,7 @@ yidian 21
 yiding 1
 yidong 2
 yifen 1
-yige 21
+yige 22
 yiji 1 1
 yijiu 1
 yiliu 1
@@ -733,7 +735,7 @@ yunxing 4
 yunxu 2
 yuyan 1
 za 1
-zai 19 2
+zai 20 2
 zaibo 11
 zanshi 1
 zanting 5
@@ -790,7 +792,7 @@ zixun 1
 ziyuan 3
 zong 2
 zu 2
-zui 2
+zui 3
 zuihou 2
 zuijin 1
 zuizhong 2
