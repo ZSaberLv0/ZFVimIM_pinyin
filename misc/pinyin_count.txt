@@ -529,7 +529,7 @@ shenqing 1
 shenti 1
 shenzhen 1
 shezhi 2
-shi 55 14 3
+shi 56 15 3
 shibai 1
 shifou 17
 shijian 3 2
@@ -565,7 +565,7 @@ si 4
 sige 1
 silu 1
 siyou 1
-sm 9
+sm 11
 sousuo 1
 su 2
 sucai 1
