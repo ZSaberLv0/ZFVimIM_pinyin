@@ -243,7 +243,7 @@ gequ 29
 geshi 23
 geshihua 2
 geshu 3
-gexing 3
+gexing 4
 gezhong 1
 gong 4
 gongneng 2
@@ -603,6 +603,7 @@ tongzhi 8
 tou 1
 touchuan 7
 touming 1
+touxiang 1
 tu 4
 tubiao 1
 tuichu 1
