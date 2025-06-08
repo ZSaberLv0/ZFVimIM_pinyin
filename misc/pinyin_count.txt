@@ -117,7 +117,7 @@ cong 5
 cunchu 3
 cunzai 9
 cuowu 7
-d 264
+d 265
 da 5
 dai 11
 daibiao 2
@@ -290,7 +290,7 @@ hujiao 10
 hulue 6
 hunan 1
 huo 19
-huoqu 10
+huoqu 11
 huqi 2
 ji 13
 jia 1
@@ -500,7 +500,7 @@ rongcuo 1
 ru 1
 ruan 1
 ruguo 4
-ruhe 49
+ruhe 50
 rukou 1
 ruo 9
 san 2
