@@ -25,6 +25,7 @@ benci 2
 bendi 11
 bi 1
 bian 2
+biancheng 1
 bianhua 12
 bianli 2
 bianliang 4
@@ -367,7 +368,7 @@ kuang 2
 kuo 1
 kuohao 1
 ky 25
-l 2
+l 3
 lai 4
 laiyuan 1
 leisi 1
@@ -568,7 +569,7 @@ si 4
 sige 1
 silu 1
 siyou 1
-sm 11
+sm 12
 sousuo 1
 su 2
 sucai 1
@@ -778,7 +779,7 @@ zhixing 1
 zhiyao 1
 zhiyou 2
 zhizhen 4
-zhong 64
+zhong 65
 zhongjian 1
 zhongyang 1
 zhou 1
