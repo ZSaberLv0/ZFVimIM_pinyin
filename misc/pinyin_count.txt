@@ -103,7 +103,7 @@ chongxin 1
 chu 4
 chuan 2
 chuandi 2
-chuangjian 1
+chuangjian 2
 chuangkou 4
 chufa 1
 chufaqi 15
@@ -690,7 +690,7 @@ yidian 21
 yiding 1
 yidong 2
 yifen 1
-yige 22
+yige 23
 yiji 1 1
 yijiu 1
 yiliu 1
