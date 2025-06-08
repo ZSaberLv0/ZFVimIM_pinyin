@@ -247,6 +247,7 @@ gexing 4
 gezhong 1
 gong 4
 gongneng 2
+gongxi 1
 gua 2
 guanbi 2
 guangbo 4
