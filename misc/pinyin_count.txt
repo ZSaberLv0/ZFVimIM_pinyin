@@ -227,6 +227,7 @@ gai 8
 gaibian 1
 gaizao 3
 gan 2
+gao 1
 gaodu 1
 gaoji 2
 gaoyu 2
@@ -290,7 +291,7 @@ hujiao 10
 hulue 6
 hunan 1
 huo 19
-huoqu 11
+huoqu 12
 huqi 2
 ji 13
 jia 1
@@ -360,6 +361,7 @@ kongge 1
 kongjian 6
 kongzhi 4
 kou 2 1
+kuan 1
 kuandu 1
 kuang 2
 kuo 1
