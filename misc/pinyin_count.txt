@@ -199,6 +199,7 @@ fanyi 2
 faqi 21
 fasheng 2
 fasong 19
+faxian 1
 fei 40
 feichang 3
 fen 2 1
@@ -438,7 +439,7 @@ paochu 1
 pei 1
 peihe 1
 peitao 1
-peizhi 126
+peizhi 127
 pi 4
 pie 1
 piliang 1
@@ -680,7 +681,7 @@ yanse 6
 yanzheng 2
 yao 6
 yaoqiu 6
-ye 11 9
+ye 12 9
 yehui 1
 yemian 5
 yewu 20
