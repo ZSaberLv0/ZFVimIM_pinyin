@@ -131,7 +131,7 @@ dandu 1
 dang 1
 dangqian 35
 danmu 3
-dao 19
+dao 20
 daxiao 1
 dayin 1
 de 2
@@ -353,7 +353,7 @@ kaichang 7
 kaifa 1
 kaifang 1 1
 kaiji 2
-kaishi 32
+kaishi 33
 ke 9
 kedu 1
 keneng 9
@@ -440,7 +440,7 @@ paochu 1
 pei 1
 peihe 1
 peitao 1
-peizhi 127
+peizhi 128
 pi 4
 pie 1
 piliang 1
@@ -592,14 +592,14 @@ tianru 1
 tianxie 2
 tiaoshi 1
 tiaozheng 2
-tiaozhuan 11
+tiaozhuan 12
 tice 2
 tigong 4
 tihuan 12
 tishi 2
 tong 1
 tongchang 5
-tongguo 24
+tongguo 25
 tongshi 5
 tongxun 10
 tongyi 4 4
@@ -623,7 +623,7 @@ wang 2
 wangsu 2
 wanzheng 10
 wasm 1
-wei 42 4
+wei 43 4
 weigui 5
 weikong 2
 weiyi 6
@@ -767,7 +767,7 @@ zhenghe 3
 zhengque 2
 zhengze 1
 zhi 37 14
-zhichi 24
+zhichi 25
 zhidao 1
 zhiding 42
 zhihou 4
