@@ -44,7 +44,7 @@ bingqie 5
 bitian 40
 bixu 4
 bo 2
-bofang 33
+bofang 34
 bokong 2
 bowan 2
 bu 32 1
@@ -79,6 +79,7 @@ cha 1
 chakan 2
 chang 2
 changdu 2
+changjia 1
 changjian 2
 changjing 32
 changshi 1
@@ -611,7 +612,7 @@ touming 1
 touxiang 1
 tu 4
 tubiao 1
-tuichu 1
+tuichu 2
 tuijian 1
 tupian 17
 wa 1
