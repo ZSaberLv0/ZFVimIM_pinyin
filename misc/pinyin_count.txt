@@ -413,7 +413,7 @@ mo 1
 mohu 1
 mokuai 6
 moni 1
-moren 45
+moren 47
 moshi 11
 mouge 2
 mowei 1
@@ -547,7 +547,7 @@ shipei 3
 shipin 64
 shiwei 2
 shixian 8
-shiyong 36
+shiyong 38
 shou 3
 shoubi 1
 shouci 2
@@ -669,7 +669,7 @@ xieyi 17
 xin 12
 xing 5
 xinggan 7
-xingwei 5
+xingwei 7
 xingweijun 1
 xinxi 14
 xinzeng 8
