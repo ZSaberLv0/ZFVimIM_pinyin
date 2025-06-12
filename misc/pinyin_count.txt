@@ -119,7 +119,7 @@ cong 5
 cunchu 3
 cunzai 9
 cuowu 7
-d 265
+d 266
 da 5
 dai 11
 daibiao 2
@@ -437,7 +437,7 @@ o 5
 pai 2
 paicha 3
 paidui 12
-panduan 5
+panduan 7
 paochu 1
 pei 1
 peihe 1
@@ -544,10 +544,10 @@ shijian 3 2
 shijianchuo 2
 shili 38
 shipei 3
-shipin 63
+shipin 64
 shiwei 2
 shixian 8
-shiyong 35
+shiyong 36
 shou 3
 shoubi 1
 shouci 2
