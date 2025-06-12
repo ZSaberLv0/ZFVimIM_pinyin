@@ -81,7 +81,7 @@ chang 2
 changdu 2
 changjia 1
 changjian 2
-changjing 32
+changjing 34
 changshi 1
 changyong 3
 changzhu 1
@@ -218,7 +218,7 @@ fenzu 3
 fouze 2
 fu 1
 fudai 1
-fugai 19
+fugai 20
 fuhao 6
 fuhe 1
 fulu 1
@@ -405,7 +405,7 @@ mian 4
 miao 2
 miaoshu 3 2
 mima 1
-ming 11
+ming 13
 mingling 10
 mingming 3
 mingque 12
@@ -601,7 +601,7 @@ tihuan 12
 tishi 2
 tong 1
 tongchang 5
-tongguo 25
+tongguo 26
 tongshi 5
 tongxun 10
 tongyi 4 4
