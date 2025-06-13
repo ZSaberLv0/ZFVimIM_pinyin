@@ -265,6 +265,7 @@ guize 7
 guolv 1
 guoqi 2
 h 7
+hai 1 1
 haishi 1
 haiyou 1
 hang 11
@@ -354,7 +355,7 @@ juedui 1
 jun 2
 juti 3
 kai 1
-kaichang 7
+kaichang 8
 kaifa 1
 kaifang 1 1
 kaiji 2
@@ -536,7 +537,7 @@ she 1
 shebei 1
 sheji 3
 shengcheng 3
-shengri 8
+shengri 9
 shenhe 28
 shenme 1
 shenqing 1
@@ -545,7 +546,7 @@ shenzhen 1
 shezhi 2
 shi 57 15 3
 shibai 1
-shifou 17
+shifou 18
 shijian 3 2
 shijianchuo 2
 shili 38
@@ -682,7 +683,7 @@ xingweijun 1
 xinxi 14
 xinzeng 8
 xinzengxinzeng 1
-xiu 1
+xiu 2
 xiugai 2
 xu 1
 xunhuan 2
@@ -783,7 +784,7 @@ zhengque 2
 zhengze 1
 zhezhebian 1
 zhi 37 14
-zhichi 25
+zhichi 26
 zhidao 2
 zhiding 44
 zhihou 4
