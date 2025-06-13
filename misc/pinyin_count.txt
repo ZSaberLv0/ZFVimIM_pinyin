@@ -69,7 +69,7 @@ caineng 1
 can 1
 canjian 17
 cankao 1
-canshu 33
+canshu 34
 canzhao 1
 caozuo 4
 ce 8
@@ -594,7 +594,7 @@ te 1
 tehua 1
 teshu 12
 tian 3
-tianjia 3
+tianjia 4
 tianru 1
 tianxie 2
 tiaoshi 1
@@ -659,7 +659,7 @@ xiancheng 1
 xiang 2
 xiangdang 3
 xiangdangyu 1
-xiangguan 10
+xiangguan 11
 xiangqing 1
 xiangsi 1
 xiangtong 10
