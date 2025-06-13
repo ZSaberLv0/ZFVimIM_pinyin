@@ -58,6 +58,7 @@ buneng 4
 buquan 4
 butian 1
 butong 8
+buxing 1
 buxuyao 2
 buyao 6
 buyiding 1
@@ -119,7 +120,7 @@ cong 5
 cunchu 3
 cunzai 9
 cuowu 7
-d 279
+d 281
 da 5
 dai 11
 daibiao 2
@@ -281,6 +282,7 @@ houmian 1
 houtai 7
 houxu 1
 hu 1
+hua 1 1
 huancun 1
 huanhang 1
 huanhangfu 1
@@ -549,6 +551,7 @@ shijianchuo 2
 shili 38
 shipei 3
 shipin 66
+shishi 1
 shiwei 2
 shixian 8
 shiyong 38
