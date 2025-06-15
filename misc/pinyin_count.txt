@@ -91,7 +91,7 @@ chaoguo 2
 charu 6
 chaxun 15
 chayi 2
-chazhao 1
+chazhao 2
 cheng 1 2
 chenggong 2
 chengshu 3
@@ -762,7 +762,7 @@ yulan 1
 yun 1
 yunxing 4
 yunxu 2
-yuyan 1
+yuyan 2
 za 1
 zai 25 2
 zaibo 11
