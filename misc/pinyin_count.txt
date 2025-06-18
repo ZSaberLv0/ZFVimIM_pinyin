@@ -364,7 +364,7 @@ kaichang 8
 kaifa 1
 kaifang 1 1
 kaiji 2
-kaishi 33
+kaishi 34
 ke 9
 kedu 1
 keneng 10
@@ -797,7 +797,7 @@ zhengque 2
 zhengze 1
 zhezhebian 1
 zhi 37 14
-zhichi 26
+zhichi 27
 zhidao 2
 zhiding 44
 zhihou 4
