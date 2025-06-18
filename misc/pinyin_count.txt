@@ -48,7 +48,7 @@ bo 5
 bofang 36
 bokong 2
 bowan 2
-bu 32 1
+bu 33 1
 budao 1
 bufen 2
 buhan 1
@@ -120,7 +120,7 @@ ci 1
 cishi 5
 cong 5
 cunchu 3
-cunzai 9
+cunzai 10
 cuowu 7
 d 284
 da 5
@@ -367,7 +367,7 @@ kaiji 2
 kaishi 33
 ke 9
 kedu 1
-keneng 9
+keneng 10
 kexuan 1
 kexue 1
 keyong 1
