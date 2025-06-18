@@ -368,6 +368,7 @@ kedu 1
 keneng 9
 kexuan 1
 kexue 1
+keyong 1
 kong 10
 kongge 1
 kongjian 6
@@ -452,7 +453,7 @@ paochu 1
 pei 1
 peihe 1
 peitao 1
-peizhi 145
+peizhi 146
 pi 4
 pie 1
 piliang 1
@@ -701,7 +702,7 @@ yaoqiu 6
 ye 14 9
 yehui 1
 yemian 5
-yewu 20
+yewu 21
 yi 4 2 1
 yichang 4
 yichu 1
