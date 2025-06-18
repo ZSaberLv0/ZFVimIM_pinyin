@@ -558,6 +558,7 @@ shezhi 3
 shi 57 15 3
 shibai 1
 shifou 18
+shiji 1 1
 shijian 3 2
 shijianchuo 2
 shili 38
