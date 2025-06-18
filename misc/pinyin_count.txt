@@ -44,7 +44,7 @@ bing 12
 bingqie 5
 bitian 41
 bixu 4
-bo 2
+bo 3
 bofang 34
 bokong 2
 bowan 2
@@ -100,7 +100,7 @@ chengxu 1
 chengyuan 4
 chicun 1
 chixu 1
-chong 3
+chong 4
 chongfu 2
 chongqi 1
 chongtu 1
@@ -239,7 +239,7 @@ gaodu 1
 gaoji 2
 gaoyu 2
 gayige 1
-ge 9 5 4
+ge 10 5 4
 gedan 8
 geduan 2
 gege 1
@@ -500,6 +500,7 @@ quebao 1
 queren 2
 queshi 1
 qufeng 54
+qumu 1
 quxian 1
 quxiao 1
 quyu 5
@@ -535,6 +536,7 @@ shangbao 4
 shangjia 5
 shangshu 1
 shangxia 3
+shangyi 1
 shao 1
 shaolu 2
 shashuru 1
