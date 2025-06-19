@@ -63,6 +63,7 @@ buxing 1
 buxuyao 2
 buyao 6
 buyiding 1
+buzai 1
 buzhichi 8
 buzuo 3
 caihui 1
@@ -166,7 +167,7 @@ diyi 1
 diyici 1
 diyige 1
 dizhi 4
-dou 12
+dou 13
 douhao 3
 doushi 1
 du 1
@@ -186,7 +187,7 @@ e 1
 en 1
 erji 7
 ershi 1
-erweima 2
+erweima 4
 erxuanyi 1
 ewai 8
 fa 6
@@ -292,7 +293,7 @@ huancun 1
 huanhang 1
 huanhangfu 1
 huanjie 2
-huanjing 23
+huanjing 24
 huanmu 1
 hudong 25
 hui 9
@@ -364,7 +365,7 @@ kaichang 8
 kaifa 1
 kaifang 1 1
 kaiji 2
-kaishi 34
+kaishi 35
 ke 9
 kedu 1
 keneng 10
@@ -373,8 +374,8 @@ kexue 1
 keyong 1
 kong 10
 kongge 1
-kongjian 6
-kongzhi 6
+kongjian 7
+kongzhi 7
 kou 2 1
 kuan 1
 kuandu 1
@@ -422,7 +423,7 @@ mingming 3
 mingque 12
 mo 1
 mohu 1
-mokuai 6
+mokuai 7
 moni 6
 moren 55
 moshi 14
@@ -622,7 +623,7 @@ tihuan 12
 tishi 2
 tong 1
 tongchang 5
-tongguo 26
+tongguo 27
 tongshi 5
 tongxun 10
 tongyi 4 4
@@ -667,7 +668,7 @@ wuxiao 7
 wuxu 1
 wuyiyi 1
 xi 1
-xia 18
+xia 19
 xiafang 3
 xiamen 1
 xian 3 1
@@ -784,7 +785,7 @@ zanting 5
 ze 11
 zenme 1
 zhan 2 2
-zhanshi 25
+zhanshi 26
 zhao 1
 zhaopianqiang 1
 zhe 2
