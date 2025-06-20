@@ -61,7 +61,7 @@ butian 1
 butong 9
 buxing 1
 buxuyao 2
-buyao 6
+buyao 7
 buyiding 1
 buzai 1
 buzhichi 8
@@ -135,7 +135,7 @@ dandu 1
 dang 1
 dangqian 39
 danmu 3
-dao 22
+dao 23
 daxiao 1
 dayin 1
 dayu 1
@@ -296,7 +296,7 @@ huanjie 2
 huanjing 24
 huanmu 1
 hudong 25
-hui 9
+hui 10
 huidiao 11
 huifu 11 10
 huizhi 3
@@ -496,7 +496,7 @@ quan 1
 quanju 4
 quanliang 1
 quanping 2
-quanxian 4
+quanxian 5
 qubie 10
 qudao 1
 quebao 1
@@ -658,7 +658,7 @@ wenben 13
 wendang 2
 wenjian 7
 wenjianjia 2
-wenti 9
+wenti 10
 wenzi 5
 wo 1
 wsm 2
@@ -756,7 +756,7 @@ yong 3 2
 yongdao 1
 yonghu 10
 yongyu 17
-you 21 18 3
+you 22 19 3
 youbian 1 2
 youce 1
 youjian 1
@@ -825,7 +825,7 @@ zhunbei 1
 zhuomian 1
 zhuti 27
 zhuyao 1
-zhuyi 10
+zhuyi 11
 zi 2
 zidian 1
 zidingyi 9
