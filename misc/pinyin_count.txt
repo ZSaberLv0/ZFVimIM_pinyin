@@ -114,7 +114,7 @@ chuangkou 4
 chufa 1
 chufaqi 15
 chule 2
-chuli 13
+chuli 14
 chun 1
 chuxian 3
 ci 1
@@ -519,7 +519,7 @@ renwu 10 5
 renyi 7
 ri 1
 rizhi 1
-rongcuo 1
+rongcuo 2
 ru 1
 ruan 1
 ruguo 4
