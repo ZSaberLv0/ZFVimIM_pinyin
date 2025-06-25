@@ -156,7 +156,7 @@ diange 2
 diangeping 5
 diannao 1
 dianshi 3
-dianshiping 5
+dianshiping 6
 dianxing 1
 dianyin 5
 dianzi 2
@@ -195,7 +195,7 @@ e 1
 en 1
 erji 7
 ershi 1
-erweima 4
+erweima 5
 erxuanyi 1
 ewai 8
 fa 6
@@ -368,7 +368,7 @@ jingjian 1
 jingxuan 1
 jinru 5
 jinxing 14
-jinyong 5
+jinyong 6
 jishi 1
 jisuan 2
 jiu 3
@@ -583,7 +583,7 @@ shenzhi 1
 shezhi 4
 shi 67 19 3
 shibai 2
-shiduan 3
+shiduan 4
 shifou 19
 shiji 1 2
 shijian 4 2
