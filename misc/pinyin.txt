@@ -5805,7 +5805,7 @@ youwen 友文
 youwo 有我
 youwu 有误 有无
 youxi 游戏
-youxian 有限 优先
+youxian 优先 有限
 youxiang 邮箱
 youxianji 优先级
 youxiao 有效
