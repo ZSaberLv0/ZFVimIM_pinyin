@@ -47,7 +47,7 @@ bing 13
 bingqie 6
 bitian 42
 bixu 4
-bo 6
+bo 7
 bofang 38
 bokong 2
 bowan 2
@@ -109,7 +109,7 @@ chengxu 1
 chengyuan 4
 chicun 1
 chixu 1
-chong 6
+chong 7
 chongfu 2
 chongqi 5
 chongtu 1
@@ -820,7 +820,7 @@ yunxu 2
 yuyan 2
 za 1
 zai 32 3
-zaibo 15
+zaibo 16
 zanbu 1
 zanshi 1
 zanting 5
@@ -880,7 +880,7 @@ zifuchuan 14
 zishen 1
 zixing 2
 zixun 1
-ziyuan 3
+ziyuan 4
 zong 2
 zu 2
 zui 3
