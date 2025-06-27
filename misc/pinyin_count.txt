@@ -749,7 +749,7 @@ ye 15 10
 yehui 1
 yemian 7
 yewu 21
-yi 5 2 2
+yi 5 4 2
 yichang 4
 yichu 1
 yichuan 1
@@ -758,7 +758,7 @@ yidian 26
 yiding 1
 yidong 3
 yifen 1
-yige 26
+yige 27
 yiji 1 1
 yijing 2
 yijiu 1
