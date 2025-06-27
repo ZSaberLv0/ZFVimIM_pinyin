@@ -252,7 +252,7 @@ gaodu 1
 gaoji 2
 gaoyu 2
 gayige 1
-ge 11 5 4
+ge 12 5 4
 gedan 8
 geduan 2
 gege 1
@@ -749,7 +749,7 @@ ye 15 10
 yehui 1
 yemian 7
 yewu 21
-yi 5 2 1
+yi 5 2 2
 yichang 4
 yichu 1
 yichuan 1
