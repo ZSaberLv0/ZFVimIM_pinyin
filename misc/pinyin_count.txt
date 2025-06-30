@@ -141,7 +141,7 @@ dakai 4
 dan 13
 dandu 1
 dang 1
-dangqian 40
+dangqian 41
 danmu 3
 dao 24
 daxiao 1
@@ -162,7 +162,7 @@ dianxing 1
 dianyin 5
 dianzi 2
 diao 6
-diaoyong 11
+diaoyong 12
 die 1
 dier 1
 difang 1
@@ -245,6 +245,7 @@ ga 1
 gai 9
 gaibian 1
 gailv 1
+gaiwei 1
 gaizao 3
 gan 2
 gao 1
@@ -281,7 +282,7 @@ gui 2
 guize 7
 guolv 3
 guoqi 2
-h 9
+h 10
 hai 1 1
 haihui 1
 haishi 1
@@ -344,8 +345,8 @@ jiaoyan 3
 jiaru 1 1
 jiazai 2
 jichu 4
-jiding 1
-jidinghe 21
+jiding 2
+jidinghe 22
 jie 1
 jiedian 3
 jieduan 1 1
@@ -388,7 +389,7 @@ kaifa 1
 kaifang 1 1
 kaiji 6
 kaiqi 1
-kaishi 35
+kaishi 36
 kakeneng 2
 ke 10
 kedu 1
@@ -466,7 +467,7 @@ naxie 1
 ne 1
 nei 4
 neibu 2
-neirong 43
+neirong 44
 neizhi 1
 neng 2
 nenggou 2
@@ -476,7 +477,7 @@ nihao 3
 o 5
 pai 2
 paicha 3
-paidui 18
+paidui 19
 panduan 9
 paochu 1
 pei 1
@@ -504,7 +505,7 @@ qianmian 1
 qianyi 1
 qidong 24
 qie 4 5
-qiege 1
+qiege 2
 qiehuan 7
 qiguai 1
 qin 1
@@ -553,7 +554,7 @@ ruan 1
 ruguo 4
 ruhe 52
 rukou 3
-ruo 14
+ruo 15
 san 2
 sange 1
 saoma 1
@@ -724,7 +725,7 @@ xiaohao 1
 xiayishou 3
 xiesi 2
 xietiao 1
-xieyi 22
+xieyi 23
 xin 12
 xing 5
 xinggan 7
@@ -824,7 +825,7 @@ zaibo 16
 zanbu 1
 zanshi 1
 zanting 5
-ze 12
+ze 13
 zenme 1
 zhan 2 2
 zhanshi 33
@@ -873,7 +874,7 @@ zhuyi 11
 zi 2
 zidian 1
 zidingyi 9
-zidong 27
+zidong 28
 ziduan 45
 zifu 3
 zifuchuan 14
