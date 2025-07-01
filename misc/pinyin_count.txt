@@ -43,7 +43,7 @@ biaozhun 1
 bibitian 1
 bijiao 2
 bili 2
-bing 13
+bing 14
 bingqie 6
 bitian 43
 bixu 4
@@ -141,7 +141,7 @@ dakai 4
 dan 13
 dandu 1
 dang 1
-dangqian 44
+dangqian 45
 danmu 3
 dao 25
 daxiao 1
@@ -260,7 +260,7 @@ gege 1
 gei 8
 geng 2
 genggai 1 1
-gengxin 21
+gengxin 22
 genju 9
 gequ 43
 geshi 25
@@ -800,7 +800,7 @@ yizhi 7
 yizhuo 4
 yong 3 2
 yongdao 1
-yonghu 12
+yonghu 13
 yongyu 17
 you 28 25 6 1
 youbian 1 2
