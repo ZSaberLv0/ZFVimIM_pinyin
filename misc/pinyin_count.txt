@@ -131,7 +131,7 @@ cong 5
 cunchu 3
 cunzai 10
 cuowu 7
-d 306
+d 307
 da 5
 dai 11
 daibiao 2
@@ -264,7 +264,7 @@ genggai 1 1
 gengxin 22
 genju 9
 gequ 43
-geshi 25
+geshi 26
 geshihua 2
 geshu 3
 gexing 4
@@ -363,7 +363,7 @@ jieshou 2
 jieshu 9
 jiesuan 1
 jiewei 1
-jiexi 2
+jiexi 3
 jike 2
 jilu 1
 jin 41
@@ -698,7 +698,7 @@ wenjian 8
 wenjianjia 2
 wenti 19
 wenwenti 1
-wenzi 5
+wenzi 6
 wo 1
 wsm 2
 wu 8
