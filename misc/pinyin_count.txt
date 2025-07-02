@@ -289,7 +289,7 @@ haihui 1
 haishi 1
 haiyou 1
 haizai 1
-hang 11
+hang 12
 hanshu 5
 hao 3
 haomiao 1
@@ -310,7 +310,7 @@ hu 1
 hua 1 1
 huancun 1
 huanhang 1
-huanhangfu 1
+huanhangfu 2
 huanjie 2
 huanjing 38
 huanmu 1
@@ -529,6 +529,7 @@ quanliang 1
 quanping 2
 quanxian 5
 qubie 10
+quchu 1
 qudao 1
 quebao 1
 queren 2
@@ -683,7 +684,7 @@ wangsu 2
 wanzheng 11
 wasm 1
 wawenti 3
-wei 49 4
+wei 49 4 1
 weichi 1
 weigui 5
 weikong 4
