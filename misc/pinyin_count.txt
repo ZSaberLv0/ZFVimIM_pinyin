@@ -149,7 +149,7 @@ daxiao 1
 dayin 2
 dayu 1
 de 3
-deng 16
+deng 17
 dengguang 10
 dezhi 5
 di 2
@@ -874,6 +874,7 @@ zhouqi 1
 zhuan 5
 zhuangtai 24
 zhuanhuan 12
+zhuanyi 1
 zhudong 7
 zhunbei 1
 zhuomian 1
