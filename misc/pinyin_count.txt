@@ -80,7 +80,7 @@ caineng 3
 can 1
 canjian 18
 cankao 1
-canshu 39
+canshu 40
 canzhao 1
 caozuo 4
 ce 8
@@ -131,7 +131,7 @@ cong 6
 cunchu 3
 cunzai 10
 cuowu 7
-d 310
+d 311
 da 5
 dai 11
 daibiao 2
@@ -264,7 +264,7 @@ genggai 1 1
 gengxin 22
 genju 9
 gequ 45
-geshi 26
+geshi 28
 geshihua 2
 geshu 3
 gexing 4
@@ -395,7 +395,7 @@ kaishi 41
 kakeneng 2
 ke 10
 kedu 1
-keneng 18
+keneng 19
 kexuan 1
 kexue 1
 keyong 1
@@ -458,6 +458,7 @@ moni 9
 moren 67
 moshi 14
 mouge 2
+mouxie 1
 mowei 1
 moxing 3
 mulu 1
@@ -645,7 +646,7 @@ tai 2
 tanchu 1
 te 1
 tehua 1
-teshu 12
+teshu 13
 tian 4 1
 tianjia 5
 tianru 1
@@ -708,8 +709,8 @@ wuxiao 7
 wuxu 1
 wuyiyi 1
 xi 1
-xia 24
-xiafang 4
+xia 25
+xiafang 5
 xiamen 2
 xian 3 1
 xiancheng 1
@@ -720,7 +721,7 @@ xiangguan 13
 xiangjian 1
 xiangqing 1
 xiangsi 1
-xiangtong 11
+xiangtong 12
 xiangxi 1
 xianshi 8
 xianxiang 4
@@ -815,7 +816,7 @@ youxianji 3
 youxiao 4
 youyiyi 2
 youyu 5
-yu 14 4
+yu 15 4
 yuan 5
 yuansu 6
 yuanxing 1
