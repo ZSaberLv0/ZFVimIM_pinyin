@@ -6209,6 +6209,7 @@ zhifu 支付 制服
 zhifubao 支付宝
 zhihao 只好
 zhihou 之后 滞后
+zhihui 智慧
 zhijian 之间 质检
 zhijianyi 值建议
 zhijie 直接
