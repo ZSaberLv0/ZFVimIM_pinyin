@@ -80,7 +80,7 @@ caineng 3
 can 1
 canjian 18
 cankao 1
-canshu 35
+canshu 36
 canzhao 1
 caozuo 4
 ce 8
@@ -506,7 +506,7 @@ qiangzhi 2
 qianhou 1
 qianmian 1
 qianyi 1
-qidong 24
+qidong 25
 qie 4 5
 qiege 2
 qiehuan 7
