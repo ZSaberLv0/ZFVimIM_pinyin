@@ -49,7 +49,7 @@ bitian 44
 bixu 4
 bo 7
 bofang 42
-bokong 2
+bokong 3
 bowan 2
 bu 38 1
 budao 2
@@ -148,13 +148,13 @@ dao 25
 daxiao 1
 dayin 2
 dayu 1
-de 3
+de 3 1
 deng 17
 dengguang 10
 dezhi 5
 di 2
 dian 4
-diange 2
+diange 3
 diangeping 6
 diannao 1
 dianshi 3
@@ -495,6 +495,7 @@ piliang 1
 pin 5
 pinfan 1
 ping 54
+pingban 1
 pingjun 4
 pingmu 10
 pinjie 3
@@ -839,9 +840,9 @@ zanting 6
 zanwu 1
 ze 13
 zenme 1
-zhan 2 2
+zhan 2 2 1
 zhanshi 39
-zhao 1
+zhao 1 1
 zhaopianqiang 1
 zhe 3
 zhebian 7
