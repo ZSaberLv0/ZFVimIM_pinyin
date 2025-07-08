@@ -489,6 +489,7 @@ pei 1
 peihe 1
 peitao 1
 peizhi 158
+pengyou 1
 pi 4
 pie 1
 piliang 1
@@ -591,7 +592,7 @@ shenhe 28
 shenme 1
 shenqing 1
 shenti 1
-shenzhen 1
+shenzhen 2
 shenzhi 1
 shezhi 7
 shi 74 20 3
@@ -684,6 +685,7 @@ waibu 4
 wancheng 2
 wang 2
 wangsu 2
+wanmei 1
 wanzheng 11
 wasm 1
 wawenti 3
