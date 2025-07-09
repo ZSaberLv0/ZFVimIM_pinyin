@@ -85,7 +85,7 @@ canzhao 1
 caozuo 4
 ce 8
 ceng 4
-ceshi 12
+ceshi 13
 cha 1
 chakan 2
 chang 3 1
@@ -105,7 +105,7 @@ chazhao 2
 cheng 1 2
 chenggong 6
 chengshu 3
-chengxu 1
+chengxu 2
 chengyuan 4
 chicun 1
 chixu 1
@@ -415,6 +415,7 @@ l 3
 la 1 1
 lai 4
 laiyuan 1
+lan 1
 leisi 3
 leixing 15
 lian 4
@@ -753,6 +754,7 @@ xu 1
 xunhuan 3
 xuqiu 4
 xuyao 32
+yan 1
 yanhou 1
 yanse 6
 yanzheng 2
@@ -785,7 +787,7 @@ yinggai 1
 yingwei 1
 yingwen 2
 yingxiang 1
-yingyong 3
+yingyong 4
 yinhao 3
 yinpin 4
 yinqi 3
