@@ -48,7 +48,7 @@ bingqie 6
 bitian 44
 bixu 4
 bo 7
-bofang 42
+bofang 43
 bokong 3
 bowan 2
 bu 38 1
@@ -677,7 +677,7 @@ touming 1
 touxiang 1
 tu 4
 tubiao 1
-tuichu 2
+tuichu 3
 tuijian 6
 tupian 17
 wa 4
