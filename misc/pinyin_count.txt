@@ -38,7 +38,7 @@ bianliang 5
 bianma 2
 biaoqian 11
 biaoqing 1
-biaoshi 11 1
+biaoshi 12 1
 biaoti 1
 biaozhi 8
 biaozhun 1
@@ -626,7 +626,7 @@ shili 38
 shipei 3
 shipin 87
 shishi 1
-shitu 18
+shitu 19
 shiwei 2
 shixian 15
 shiyong 39
@@ -734,6 +734,7 @@ wu 11
 wufa 8
 wuguan 1
 wuwufa 1
+wuxian 1
 wuxiao 7
 wuxu 1
 wuyiyi 1
@@ -779,7 +780,7 @@ xiu 2
 xiugai 2
 xu 2
 xuanzhuan 1
-xunhuan 3
+xunhuan 4
 xuqiu 4
 xuyao 35
 yan 1
@@ -855,7 +856,7 @@ youyiyi 2
 youyu 5
 yu 17 4
 yuan 5
-yuansu 13
+yuansu 14
 yuanxing 1
 yuanyin 1
 yuanzhuang 1
@@ -909,7 +910,7 @@ zhixing 1
 zhiyao 2
 zhiyou 2
 zhizhen 4
-zhong 75
+zhong 76
 zhongjian 1
 zhongyang 1
 zhou 2
