@@ -135,7 +135,7 @@ cong 7
 cunchu 3
 cunzai 10
 cuowu 7
-d 342
+d 343
 da 5
 dai 11
 daibiao 2
@@ -269,7 +269,7 @@ gege 1
 gei 8
 geng 2
 genggai 2 2
-gengxin 30
+gengxin 31
 genju 11
 gequ 45
 geshi 30
@@ -915,7 +915,7 @@ zhongyang 1
 zhou 2
 zhouqi 1
 zhuan 5
-zhuangtai 26
+zhuangtai 27
 zhuanhuan 13
 zhuanyi 1
 zhudong 11
