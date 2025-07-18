@@ -173,7 +173,7 @@ dier 1
 difang 2
 digui 1
 ding 3
-dingyi 12
+dingyi 13
 disanfang 2
 diuqi 2
 diushi 2
@@ -181,7 +181,7 @@ diyi 1
 diyici 1
 diyige 2
 dizhi 4
-donghua 1
+donghua 2
 dongtai 1
 dou 14
 douhao 3
