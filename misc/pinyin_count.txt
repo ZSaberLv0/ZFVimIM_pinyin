@@ -135,7 +135,7 @@ cong 7
 cunchu 3
 cunzai 10
 cuowu 7
-d 343
+d 344
 da 5
 dai 11
 daibiao 2
@@ -239,7 +239,7 @@ fenwei 5
 fenxi 1
 fenzhi 1
 fenzu 4
-fouze 4
+fouze 5
 fu 3
 fudai 1
 fugai 25
@@ -629,7 +629,7 @@ shishi 1
 shitu 18
 shiwei 2
 shixian 15
-shiyong 38
+shiyong 39
 shou 3 1
 shoubi 1
 shouci 2
