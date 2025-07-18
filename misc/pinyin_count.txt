@@ -81,7 +81,7 @@ caihui 1
 caijian 3
 caineng 3
 can 1
-canjian 19
+canjian 20
 cankao 1
 canshu 40
 canzhao 1
@@ -173,7 +173,7 @@ dier 1
 difang 2
 digui 1
 ding 3
-dingyi 13
+dingyi 14
 disanfang 2
 diuqi 2
 diushi 2
@@ -181,7 +181,7 @@ diyi 1
 diyici 1
 diyige 2
 dizhi 4
-donghua 2
+donghua 4
 dongtai 1
 dou 14
 douhao 3
