@@ -36,6 +36,7 @@ bianhua 15
 bianli 2
 bianliang 5
 bianma 2
+biao 1
 biaoqian 11
 biaoqing 1
 biaoshi 12 1
@@ -213,7 +214,7 @@ fagei 4
 fang 2 1 1
 fangan 1
 fangda 1
-fangshi 23
+fangshi 24
 fangwen 4
 fanhui 21
 fanhuizhi 3
@@ -418,6 +419,7 @@ kongge 1
 kongjian 13
 kongzhi 17
 kou 2 1
+ku 1
 kuan 1
 kuandu 1
 kuang 2
@@ -692,6 +694,7 @@ tong 1
 tongbu 1
 tongchang 9
 tongguo 42
+tongji 1
 tongshi 5
 tongxun 11
 tongyi 6 4
@@ -903,7 +906,7 @@ zhezhong 3
 zhi 38 14
 zhichi 47
 zhidao 2
-zhiding 55
+zhiding 56
 zhihou 7
 zhihui 1
 zhijie 11
