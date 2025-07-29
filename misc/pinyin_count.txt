@@ -306,7 +306,7 @@ haizai 1
 hang 12
 hanshu 5
 hao 3
-haomiao 5
+haomiao 6
 haoshi 1
 he 52
 hebing 11
@@ -535,7 +535,7 @@ qiangzhi 2
 qianhou 1
 qianmian 1
 qianyi 1
-qidong 29
+qidong 30
 qie 4 5
 qiege 3
 qiehuan 12
@@ -625,7 +625,7 @@ shenzhi 1
 shezhi 7
 shi 85 21 4
 shibai 2
-shichang 1
+shichang 2
 shiduan 4
 shifou 24
 shiji 5 1
@@ -951,7 +951,7 @@ zishen 2
 zixing 4
 zixun 1
 ziyuan 6
-zong 3
+zong 4
 zu 2
 zui 4
 zuihou 2
