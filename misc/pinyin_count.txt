@@ -365,7 +365,7 @@ jichu 5
 jid 1
 jiding 3
 jidinghe 23
-jie 1
+jie 4 1
 jiedian 7
 jieduan 1 1
 jieguo 6
@@ -585,7 +585,7 @@ rizhi 6
 rongcuo 2
 rouhe 1
 ru 1
-ruan 1
+ruan 3
 ruguo 5
 ruhe 53
 rukou 3
@@ -825,6 +825,7 @@ yiliu 1
 yin 5
 yincang 3
 yinci 3
+ying 2
 yinggai 1
 yingwei 1
 yingwen 2
