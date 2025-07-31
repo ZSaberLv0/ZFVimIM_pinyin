@@ -308,7 +308,7 @@ hanshu 5
 hao 3
 haomiao 6
 haoshi 1
-he 52
+he 53
 hebing 11
 hegui 4
 heise 1
@@ -558,7 +558,7 @@ quanju 4
 quanliang 1
 quanping 3
 quanxian 5
-qubie 10
+qubie 11
 quchu 1
 qudao 1
 quebao 1
