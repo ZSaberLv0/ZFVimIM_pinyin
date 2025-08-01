@@ -100,7 +100,7 @@ changjing 44
 changshi 1
 changyong 3
 changzhu 1
-chao 1
+chao 1 1
 chaoguo 2
 charu 7
 chaxun 24
@@ -209,7 +209,7 @@ ershi 2
 erweima 16
 erxuanyi 3
 ewai 9
-fa 8
+fa 9
 fachu 1
 fagei 4
 fang 2 1 1
@@ -336,7 +336,7 @@ huifu 13 13
 huizhi 3
 hujiao 10
 hulue 9
-hunan 2
+hunan 3
 huo 26
 huode 1
 huoqu 17
