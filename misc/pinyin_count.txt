@@ -37,6 +37,7 @@ bianhua 15
 bianli 3
 bianliang 5
 bianma 2
+bianyi 2
 biao 1
 biaoqian 11
 biaoqing 1
@@ -259,7 +260,7 @@ fuwu 2
 fuza 1
 fuzhi 4 1
 ga 1
-gai 15
+gai 16
 gaibian 1
 gailv 1
 gaiwei 1
@@ -501,7 +502,7 @@ n 2
 na 1 1
 nage 4
 nali 2
-naxie 1
+naxie 2
 ne 1
 nei 6
 neibu 3
@@ -599,7 +600,7 @@ rouhe 1
 ru 1
 ruan 3
 ruguo 5
-ruhe 55
+ruhe 56
 rukou 3
 ruo 15
 san 2
@@ -777,7 +778,7 @@ xiangdui 1
 xiangduiyu 5
 xiangguan 13
 xiangjian 1
-xiangmu 2
+xiangmu 3
 xiangqing 1
 xiangsi 1
 xiangtong 14
@@ -808,6 +809,7 @@ xitong 2
 xiu 3
 xiugai 2
 xu 2
+xuanxiang 1
 xuanzhuan 1
 xunhuan 4
 xuqiu 4
@@ -875,7 +877,7 @@ yong 3 2
 yongdao 1
 yonghu 21
 yongyu 18
-you 31 29 11 1
+you 32 30 11 1
 youbian 1 2
 youce 1
 youjian 1
