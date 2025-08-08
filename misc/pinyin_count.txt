@@ -25,7 +25,7 @@ beijing 2
 beizhu 8
 ben 13
 benci 6
-bendi 15
+bendi 16
 bendian 4
 benqi 1
 benwen 1
@@ -48,7 +48,7 @@ biaozhun 1
 bibitian 1
 bijiao 3
 bili 4
-bing 22
+bing 26
 bingqie 6
 biru 1
 bitian 57
@@ -140,7 +140,7 @@ cong 7
 cunchu 3
 cunzai 10
 cuowu 7
-d 379
+d 381
 da 6
 dai 12
 daibiao 2
@@ -150,7 +150,7 @@ dakai 10
 dan 14
 dandu 1
 dang 1
-dangqian 73
+dangqian 74
 dangqiandangqian 1
 danmu 3
 danwei 5
@@ -205,7 +205,7 @@ duo 9
 duoci 1
 duoge 9
 duoshao 1
-duqu 6
+duqu 10
 duzhan 2
 e 1
 en 1
@@ -262,7 +262,7 @@ fuzhi 4 1
 ga 1
 gai 16
 gaibian 1
-gaikuo 2
+gaikuo 3
 gailv 1
 gaiwei 1
 gaizao 3
@@ -384,7 +384,7 @@ jiemi 1
 jiequ 5
 jieru 1
 jieshao 5
-jieshi 16
+jieshi 20
 jieshou 2
 jieshu 12
 jiesuan 1
@@ -498,7 +498,7 @@ mouge 2
 mouxie 1
 mowei 1
 moxing 3
-mulu 24
+mulu 25
 muqian 6
 n 2
 na 1 1
@@ -509,7 +509,7 @@ ne 1
 nei 6
 neibu 3
 neicun 4
-neirong 66
+neirong 71
 neizhi 1
 neng 3
 nengfou 1
@@ -543,7 +543,7 @@ pinjie 3
 pipei 10
 pu 1
 putong 21
-qi 2
+qi 3
 qian 4
 qianduan 2
 qiangzhi 2
@@ -753,7 +753,7 @@ weizhi 13
 wen 4
 wenben 13
 wendang 4
-wenjian 25
+wenjian 30
 wenjianjia 3
 wenti 19
 wenwenti 1
@@ -923,6 +923,7 @@ zhao 1 1
 zhaopianqiang 1
 zhe 3
 zhebian 7
+zhege 3
 zhejiang 1
 zhen 3
 zhendui 2
