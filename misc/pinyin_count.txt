@@ -139,7 +139,7 @@ cong 7
 cunchu 3
 cunzai 10
 cuowu 7
-d 371
+d 372
 da 6
 dai 12
 daibiao 2
@@ -406,6 +406,7 @@ jixu 4
 jiyu 1
 jueding 2
 juedui 1
+juese 1
 jun 2
 juti 4
 ka 2
@@ -426,7 +427,7 @@ keyong 1
 kong 16
 kongge 1
 kongjian 13
-kongzhi 17
+kongzhi 18
 kou 2 1
 ku 1
 kuan 1
@@ -598,7 +599,7 @@ rouhe 1
 ru 1
 ruan 3
 ruguo 5
-ruhe 54
+ruhe 55
 rukou 3
 ruo 15
 san 2
@@ -634,7 +635,7 @@ shenti 1
 shenzhen 2
 shenzhi 1
 shezhi 7
-shi 86 21 4
+shi 87 22 4
 shibai 2
 shichang 2
 shiduan 4
@@ -829,7 +830,7 @@ yichuan 1
 yici 10
 yidian 30
 yiding 1
-yidong 3
+yidong 4
 yifen 1
 yige 31
 yihuo 1
