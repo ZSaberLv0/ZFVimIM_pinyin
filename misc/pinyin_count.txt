@@ -105,7 +105,7 @@ chaoguo 2
 charu 7
 chaxun 31
 chayi 2
-chazhao 4
+chazhao 5
 cheng 1 2
 chenggong 7
 chengshu 3
@@ -138,7 +138,7 @@ cong 7
 cunchu 3
 cunzai 10
 cuowu 7
-d 369
+d 370
 da 6
 dai 12
 daibiao 2
@@ -178,7 +178,7 @@ dier 1
 difang 2
 digui 5
 ding 3
-dingyi 16
+dingyi 17
 disanfang 2
 diuqi 2
 diushi 2
