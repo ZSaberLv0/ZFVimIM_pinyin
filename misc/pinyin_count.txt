@@ -27,6 +27,7 @@ ben 13
 benci 6
 bendi 15
 bendian 4
+benqi 1
 benwen 1
 bi 1
 bian 2
@@ -310,6 +311,7 @@ haizai 1
 hang 14
 hanshu 5
 hao 3
+haoma 1
 haomiao 6
 haoshi 1
 he 53
