@@ -93,6 +93,7 @@ ce 9
 ceng 5
 ceshi 15
 cha 1
+chajian 1
 chakan 2
 chang 3 1
 changdu 3
@@ -193,6 +194,7 @@ dongtai 1
 dou 14
 douhao 3
 doushi 1
+douyou 1
 du 2
 duan 1
 dui 5
@@ -504,7 +506,7 @@ n 2
 na 1 1
 nage 4
 nali 2
-naxie 3
+naxie 4
 ne 1
 nei 6
 neibu 3
