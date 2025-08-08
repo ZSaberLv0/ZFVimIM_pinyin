@@ -140,7 +140,7 @@ cong 7
 cunchu 3
 cunzai 10
 cuowu 7
-d 377
+d 378
 da 6
 dai 12
 daibiao 2
@@ -296,6 +296,7 @@ guangbo 6
 guangdian 3
 guanggao 1
 guanli 2
+guanyu 1
 guding 12
 gui 2
 guize 9
@@ -328,7 +329,7 @@ houduan 10
 houmian 1
 houtai 8
 houxu 2
-hu 1
+hu 2
 hua 1 1
 huancun 1
 huanhang 1
@@ -610,7 +611,7 @@ se 3
 sha 1
 shan 1
 shanchu 14
-shang 6
+shang 7
 shangbanshen 2
 shangbao 6
 shangjia 5
@@ -683,7 +684,7 @@ silu 1
 siyou 1
 sm 12
 song 2
-sousuo 1
+sousuo 2
 su 2
 sucai 1
 suiji 6
@@ -754,7 +755,7 @@ wenjian 25
 wenjianjia 3
 wenti 19
 wenwenti 1
-wenzhang 2
+wenzhang 3
 wenzi 7
 wo 1
 wsm 2
@@ -929,7 +930,7 @@ zhengze 1
 zhexie 1
 zhezhebian 1
 zhezhong 3
-zhi 38 14
+zhi 39 14
 zhichi 48
 zhidao 2
 zhiding 57
