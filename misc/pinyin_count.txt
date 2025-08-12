@@ -106,7 +106,7 @@ changzhu 1
 chao 1 1
 chaoguo 2
 charu 7
-chaxun 31
+chaxun 33
 chayi 2
 chazhao 5
 cheng 1 2
@@ -542,7 +542,7 @@ pingban 1
 pingjun 5
 pingmu 11
 pinjie 3
-pipei 10
+pipei 11
 pu 1
 putong 21
 qi 3
@@ -935,7 +935,7 @@ zhengchang 8
 zhenghe 3
 zhengque 2
 zhengzai 1
-zhengze 1
+zhengze 4
 zhexie 1
 zhezhebian 1
 zhezhong 3
@@ -979,7 +979,7 @@ zidingyi 9
 zidong 31
 ziduan 48
 zifu 3
-zifuchuan 19
+zifuchuan 21
 ziji 4
 zishen 2
 zixing 4
