@@ -167,7 +167,7 @@ dezhi 5
 di 2
 dian 4
 diange 4
-diangeping 6
+diangeping 8
 dianji 2
 diannao 1
 dianshi 3
@@ -558,7 +558,7 @@ qianhou 1
 qianmian 1
 qianru 1
 qianyi 1
-qidong 32
+qidong 34
 qie 6 5
 qiege 3
 qiehuan 12
@@ -585,7 +585,7 @@ qubie 11
 quchu 1
 qudao 1
 quebao 1
-queren 3
+queren 4
 queshi 1
 qufeng 58
 qumu 1
@@ -705,7 +705,7 @@ suoyin 1
 suoyou 20
 tai 2
 tanchu 2
-tankuang 3
+tankuang 4
 te 1
 tehua 1
 teshu 13
@@ -953,7 +953,7 @@ zhexie 1
 zhezhebian 1
 zhezhong 3
 zhi 39 14
-zhichi 49
+zhichi 50
 zhidao 2
 zhiding 57
 zhihe 1
