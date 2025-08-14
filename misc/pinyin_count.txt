@@ -346,7 +346,7 @@ huanmu 1
 hudong 27
 hui 22
 huidiao 11
-huifu 13 13
+huifu 16 13
 huizhi 3
 hujiao 10
 hulue 10
@@ -483,7 +483,7 @@ meiti 5
 meiyou 6
 mi 4
 mian 4
-miao 6
+miao 9
 miaoshu 4 3
 mima 1
 ming 19
@@ -559,7 +559,7 @@ qianmian 1
 qianru 1
 qianyi 1
 qidong 32
-qie 4 5
+qie 6 5
 qiege 3
 qiehuan 12
 qiguai 2
@@ -772,7 +772,7 @@ wenzi 7
 wo 1
 wsm 2
 wu 12
-wufa 8
+wufa 11
 wuguan 1
 wuwufa 1
 wuxian 1
@@ -838,7 +838,7 @@ yanse 7
 yanzheng 2
 yao 8
 yaoqiu 7
-ye 15 10
+ye 17 12
 yehui 1
 yemian 17
 yewu 22
@@ -884,7 +884,7 @@ yipian 1
 yiqi 1
 yiqian 2
 yiran 1
-yishang 8
+yishang 10
 yishou 3
 yisi 4 1
 yixia 39 4
@@ -989,7 +989,7 @@ zhuyi 12
 zi 3
 zidian 1
 zidingyi 9
-zidong 31
+zidong 34
 ziduan 48
 zifu 3
 zifuchuan 21

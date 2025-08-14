@@ -2079,7 +2079,7 @@ huide 会的
 huidiao 回调
 huifang 回放
 huifei 会费
-huifu 回复 恢复
+huifu 恢复 回复
 huigu 回顾
 huigui 回归
 huigun 回滚
