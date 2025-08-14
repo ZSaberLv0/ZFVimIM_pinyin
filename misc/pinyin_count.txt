@@ -122,7 +122,7 @@ chongfu 4
 chongqi 5
 chongtu 1
 chongxin 1
-chu 4
+chu 5
 chuan 2
 chuandi 2
 chuangjian 4
@@ -327,6 +327,7 @@ henduo 1
 heng 2
 hengping 2
 hengxiang 1
+hong 1
 hou 25
 houduan 10
 houmian 1
@@ -488,7 +489,7 @@ mingming 3
 mingque 13
 mingtian 12
 mingxian 1
-mo 1
+mo 2
 mohu 1
 mokuai 14
 moni 9
@@ -537,7 +538,7 @@ pie 1
 piliang 1
 pin 6
 pinfan 1
-ping 54
+ping 55
 pingban 1
 pingjun 5
 pingmu 11
@@ -691,6 +692,7 @@ song 2
 sousuo 2
 su 2
 sucai 1
+sudu 1
 suiji 6
 suoding 13
 suoxie 1
@@ -737,7 +739,7 @@ tuichu 3
 tuijian 7
 tupian 18
 wa 4
-wai 6
+wai 7
 waibu 5
 wancheng 2
 wang 2
@@ -791,6 +793,7 @@ xiangqing 1
 xiangsi 1
 xiangtong 14
 xiangxi 1
+xiangying 1
 xianshi 8
 xianxiang 4
 xianyan 5 1
