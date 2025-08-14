@@ -354,7 +354,7 @@ huo 28
 huode 1
 huoqu 17
 huqi 2
-ji 20 3
+ji 21 3
 jia 3
 jiajian 1
 jiami 3
@@ -378,7 +378,7 @@ jichu 5
 jid 1
 jiding 3
 jidinghe 23
-jie 4 1
+jie 4 1 1
 jiedian 7
 jieduan 1 1
 jieguo 6
@@ -490,7 +490,7 @@ mingming 3
 mingque 13
 mingtian 12
 mingxian 1
-mo 2
+mo 3
 mohu 1
 mokuai 14
 moni 9
@@ -879,7 +879,7 @@ yipian 1
 yiqi 1
 yiqian 2
 yiran 1
-yishang 7
+yishang 8
 yishou 3
 yisi 4 1
 yixia 39 4
@@ -914,7 +914,7 @@ yudingyi 2
 yueding 1
 yufa 1
 yulan 1
-yun 1
+yun 2
 yunxing 7
 yunxu 2
 yuyan 2
