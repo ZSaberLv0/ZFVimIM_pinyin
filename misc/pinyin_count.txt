@@ -94,7 +94,7 @@ ceng 5
 ceshi 16
 cha 1
 chajian 3
-chakan 2
+chakan 3
 chang 3 1
 changdu 3
 changjia 1
@@ -318,7 +318,7 @@ hanshu 5
 hao 3
 haoma 1
 haomiao 6
-haoshi 1
+haoshi 2
 he 53
 hebing 12
 hegui 4
@@ -553,7 +553,7 @@ qianhou 1
 qianmian 1
 qianru 1
 qianyi 1
-qidong 31
+qidong 32
 qie 4 5
 qiege 3
 qiehuan 12
@@ -605,7 +605,7 @@ rouhe 1
 ru 1
 ruan 3
 ruguo 5
-ruhe 62
+ruhe 63
 rukou 3
 ruo 15
 san 2
