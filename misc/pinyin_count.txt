@@ -33,7 +33,7 @@ bi 1
 bian 2
 biancheng 1
 biangeng 3
-bianhua 15
+bianhua 16
 bianli 3
 bianliang 5
 bianma 2
@@ -91,7 +91,7 @@ canzhao 1
 caozuo 4
 ce 9
 ceng 5
-ceshi 16
+ceshi 17
 cha 1
 chajian 3
 chakan 3
@@ -290,9 +290,9 @@ geshihua 2
 geshu 3
 gexing 5
 gezhong 2
-gong 5
+gong 6
 gongju 1
-gongneng 3
+gongneng 4
 gongxi 1
 gua 2
 guanbi 5
@@ -504,7 +504,7 @@ mowei 1
 moxing 3
 mulu 32
 muqian 6
-n 2
+n 3
 na 1 1
 nage 4
 nali 2
@@ -768,7 +768,7 @@ wenzhang 5
 wenzi 7
 wo 1
 wsm 2
-wu 11
+wu 12
 wufa 8
 wuguan 1
 wuwufa 1
@@ -826,7 +826,7 @@ xuan 1
 xuanxiang 1
 xuanzhuan 1
 xunhuan 4
-xuqiu 4
+xuqiu 5
 xuyao 37
 yan 1
 yanhou 1
@@ -978,7 +978,7 @@ zhufu 2
 zhunbei 1
 zhuomian 1
 zhushi 1
-zhuti 36
+zhuti 37
 zhuyao 4
 zhuyi 12
 zi 3
