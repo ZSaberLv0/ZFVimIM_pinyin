@@ -93,7 +93,7 @@ ce 9
 ceng 5
 ceshi 16
 cha 1
-chajian 2
+chajian 3
 chakan 2
 chang 3 1
 changdu 3
@@ -219,7 +219,7 @@ ewai 9
 fa 9
 fachu 1
 fagei 4
-fang 2 1 1
+fang 2 1 2
 fangan 1
 fangda 1
 fangdou 1
@@ -353,7 +353,7 @@ huode 1
 huoqu 17
 huqi 2
 ji 20 3
-jia 2
+jia 3
 jiajian 1
 jiami 3
 jiance 1
@@ -477,7 +477,7 @@ meici 4
 meige 9 1
 meiti 5
 meiyou 6
-mi 3
+mi 4
 mian 4
 miao 6
 miaoshu 4 3
@@ -551,6 +551,7 @@ qianduan 2
 qiangzhi 2
 qianhou 1
 qianmian 1
+qianru 1
 qianyi 1
 qidong 31
 qie 4 5
@@ -794,6 +795,7 @@ xianshi 8
 xianxiang 4
 xianyan 5 1
 xiao 3
+xiaochengxu 2
 xiaoguo 2
 xiaohao 1
 xiayishou 3
