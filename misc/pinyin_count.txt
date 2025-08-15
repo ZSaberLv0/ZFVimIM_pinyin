@@ -215,6 +215,7 @@ e 1
 en 1
 erji 7
 ershi 2
+erwei 1
 erweima 17
 erxuanyi 3
 ewai 9
@@ -658,7 +659,7 @@ shifou 27
 shiji 5 1
 shijian 17 2
 shijianchuo 2
-shili 53
+shili 54
 shiliujinzhi 1
 shipei 3
 shipin 91
@@ -691,7 +692,7 @@ shuxing 5
 shuyu 1
 shuzhi 2
 shuzi 8
-shuzu 15
+shuzu 16
 si 4
 sige 1
 silu 1
