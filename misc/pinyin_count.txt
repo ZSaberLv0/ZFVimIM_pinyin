@@ -395,7 +395,7 @@ jieshou 2
 jieshu 12
 jiesuan 1
 jiewei 1
-jiexi 4
+jiexi 5
 jike 4
 jilu 1
 jin 50
@@ -655,6 +655,7 @@ shiji 5 1
 shijian 13 2
 shijianchuo 2
 shili 53
+shiliujinzhi 1
 shipei 3
 shipin 91
 shishi 1
