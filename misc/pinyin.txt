@@ -2241,6 +2241,7 @@ jianting 监听
 jiantou 箭头
 jianwo 见我
 jianxian 艰险
+jianxiao 减小
 jianxin 艰辛
 jianxing 践行
 jianxiu 兼修
