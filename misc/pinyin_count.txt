@@ -156,7 +156,7 @@ dangqian 81
 dangqiandangqian 1
 danmu 3
 danwei 5
-dao 29
+dao 30
 daxiao 1
 dayin 3
 dayu 1
@@ -430,7 +430,7 @@ kaifa 1
 kaifang 1 1
 kaiji 6
 kaiqi 2
-kaishi 54
+kaishi 55
 kakeneng 2
 ke 14
 kedu 1
@@ -562,7 +562,7 @@ qiangzhi 2
 qianhou 1
 qianmian 1
 qianru 1
-qianyi 1
+qianyi 2
 qidong 34
 qie 7 5
 qiege 3
@@ -578,7 +578,7 @@ qingkuang 6
 qingqiu 5
 qiqita 1
 qita 10
-qiyong 8 4
+qiyong 9 4
 qiyu 4
 qu 3 1
 quan 1
