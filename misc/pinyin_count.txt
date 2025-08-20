@@ -143,7 +143,7 @@ cong 7
 cunchu 3
 cunzai 10
 cuowu 8
-d 399
+d 400
 da 6
 dai 12
 daibiao 2
@@ -220,7 +220,7 @@ erwei 1
 erweima 17
 erxuanyi 3
 ewai 9
-fa 9
+fa 10
 fachu 1
 fagei 4
 fang 2 1 2
@@ -299,6 +299,7 @@ gongneng 4
 gongxi 1
 gua 2
 guanbi 8
+guandian 1
 guangbo 6
 guangdian 3
 guanggao 1
@@ -354,7 +355,7 @@ huizhi 3
 hujiao 13
 hulue 10
 hunan 4
-huo 28
+huo 29
 huode 1
 huoqu 17
 huqi 2
@@ -434,6 +435,7 @@ kaiji 6
 kaiqi 2
 kaishi 57
 kakeneng 2
+kan 1
 ke 15
 kedu 1
 keneng 21
