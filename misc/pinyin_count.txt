@@ -143,7 +143,7 @@ cong 7
 cunchu 3
 cunzai 10
 cuowu 8
-d 398
+d 399
 da 6
 dai 12
 daibiao 2
@@ -497,7 +497,7 @@ ming 19
 mingling 10
 mingming 3
 mingque 13
-mingtian 12
+mingtian 13
 mingxian 1
 mo 3
 mohu 1
@@ -719,7 +719,7 @@ tehua 1
 teshu 13
 tian 4 1
 tianjia 6
-tianqi 12
+tianqi 13
 tianru 1
 tianxie 2
 tiao 1
@@ -790,7 +790,7 @@ wuyiyi 1
 xi 1
 xia 48
 xiafang 7
-xiamen 9
+xiamen 10
 xian 3 1
 xiancheng 1
 xiang 2
