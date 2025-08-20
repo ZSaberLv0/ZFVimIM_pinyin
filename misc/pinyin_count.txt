@@ -12,6 +12,7 @@ banben 15
 banbenhao 5
 bangding 4
 bangdingma 2
+bangwo 1
 bao 1
 baocun 9
 baocuo 7
@@ -152,7 +153,7 @@ dakai 10
 dan 14
 dandu 1
 dang 1
-dangqian 84
+dangqian 85
 dangqiandangqian 1
 danmu 3
 danwei 5
@@ -541,7 +542,7 @@ paochu 1
 pei 1
 peihe 1
 peitao 1
-peizhi 176
+peizhi 177
 pengyou 1
 pi 5
 pie 1
@@ -616,7 +617,7 @@ rouhe 1
 ru 1
 ruan 3
 ruguo 5
-ruhe 64
+ruhe 65
 rukou 3
 ruo 15
 san 2
@@ -680,7 +681,7 @@ shouzhi 3
 shu 5 2
 shuang 4
 shuaxin 1
-shuchu 12
+shuchu 13
 shui 2
 shuju 5
 shuliang 1
@@ -760,7 +761,7 @@ wanmei 1
 wanzheng 11
 wasm 1
 wawenti 3
-wei 70 4 1
+wei 71 4 1
 weichi 1
 weigui 5
 weikong 4
@@ -800,7 +801,7 @@ xiangduiyu 5
 xiangge 1
 xiangguan 15
 xiangjian 1
-xiangmu 14
+xiangmu 15
 xiangqing 1
 xiangsi 1
 xiangtong 14
@@ -947,7 +948,7 @@ zhan 2 2 1
 zhanshi 52
 zhanwei 1
 zhanyong 1
-zhao 1 1
+zhao 3 1
 zhaopianqiang 1
 zhe 3
 zhebian 7
