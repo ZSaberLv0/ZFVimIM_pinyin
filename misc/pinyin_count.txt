@@ -303,7 +303,7 @@ guangbo 6
 guangdian 3
 guanggao 1
 guanli 2
-guanyu 1
+guanyu 2
 guding 12
 gui 2
 guize 9
@@ -374,7 +374,7 @@ jianrong 2
 jianshao 2
 jianting 2
 jianxiao 1
-jianyao 1
+jianyao 2
 jianyi 9
 jiao 1
 jiaoben 6
@@ -627,7 +627,7 @@ se 3
 sha 1
 shan 1
 shanchu 14
-shang 7
+shang 8
 shangbanshen 2
 shangbao 6
 shangjia 5
@@ -898,7 +898,7 @@ yiran 1
 yishang 10
 yishou 3
 yisi 4 1
-yixia 39 4
+yixia 40 4
 yixie 4
 yiyang 2
 yiyou 2
@@ -1011,7 +1011,7 @@ zixing 4
 zixun 1
 ziyuan 6
 zong 4
-zongjie 9
+zongjie 11
 zu 2
 zui 4
 zuihou 2
