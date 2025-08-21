@@ -35,7 +35,7 @@ bian 2
 biancheng 1
 biangeng 3
 bianhua 16
-bianli 3
+bianli 4
 bianliang 5
 bianma 2
 bianyi 4
@@ -49,7 +49,7 @@ biaozhun 1
 bibitian 1
 bijiao 3
 bili 4
-bing 29
+bing 30
 bingqie 7
 biru 1
 bitian 57
@@ -286,7 +286,7 @@ gei 8
 geng 2
 genggai 2 2
 gengxin 33
-genju 12
+genju 13
 gequ 49
 geshi 31
 geshihua 2
@@ -726,6 +726,7 @@ tianqi 13
 tianru 1
 tianxie 2
 tiao 1
+tiaojian 1
 tiaoshi 4
 tiaozheng 2
 tiaozhuan 14
@@ -842,7 +843,7 @@ xu 2
 xuan 1
 xuanxiang 1
 xuanzhuan 1
-xunhuan 4
+xunhuan 5
 xuqiu 5
 xuyao 43
 ya 1
