@@ -8,7 +8,7 @@ anquan 1
 anzhao 7
 anzhuang 5
 anzhuo 10
-bailu 1
+bailu 3
 banben 16
 banbenhao 5
 bangding 4
@@ -58,7 +58,7 @@ biru 1
 bitian 68
 bixu 7
 bo 7
-bofang 45
+bofang 47
 bokong 5
 bowan 2
 bu 57 1
@@ -649,7 +649,7 @@ rouhe 1
 ru 1
 ruan 5
 ruguo 11
-ruhe 77
+ruhe 79
 rukou 3
 ruo 16
 ruogan 1
@@ -687,7 +687,7 @@ shenti 1
 shenzhen 2
 shenzhi 1
 shezhi 8
-shi 103 29 6
+shi 105 29 6
 shibai 4
 shichang 2
 shiduan 4
@@ -762,7 +762,7 @@ tianxie 2
 tiao 1
 tiaojian 2
 tiaoshi 5
-tiaozheng 2
+tiaozheng 4
 tiaozhuan 14
 tice 5
 tigong 6
@@ -929,9 +929,10 @@ yingwen 2
 yingxiang 4
 yingyong 5
 yinhao 3
-yinpin 5
+yinliang 2
+yinpin 7
 yinqi 4
-yinqing 1
+yinqing 3
 yinru 1
 yinse 1
 yinshi 5
