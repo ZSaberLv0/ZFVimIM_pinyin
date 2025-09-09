@@ -7,7 +7,7 @@ anpai 1
 anquan 1
 anzhao 7
 anzhuang 5
-anzhuo 11
+anzhuo 12
 bailu 3
 banben 16
 banbenhao 5
@@ -213,7 +213,7 @@ du 4
 duan 3
 dui 8
 duihua 1
-duihuakuang 2
+duihuakuang 3
 duijie 3
 duixiang 10
 duiying 27
@@ -619,7 +619,7 @@ qu 4 1
 quan 2
 quanju 4
 quanliang 1
-quanping 3
+quanping 5
 quanxian 5
 qubie 13
 quchu 1
@@ -652,7 +652,7 @@ rouhe 1
 ru 1
 ruan 5
 ruguo 11
-ruhe 79
+ruhe 80
 rukou 3
 ruo 16
 ruogan 1
