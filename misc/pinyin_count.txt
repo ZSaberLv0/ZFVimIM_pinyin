@@ -7,7 +7,7 @@ anpai 1
 anquan 1
 anzhao 7
 anzhuang 5
-anzhuo 10
+anzhuo 11
 bailu 3
 banben 16
 banbenhao 5
@@ -131,7 +131,7 @@ chongxin 2
 chu 5
 chuan 2
 chuandi 3
-chuangjian 4
+chuangjian 6
 chuangkou 4
 chufa 5
 chufaqi 21
@@ -212,6 +212,8 @@ douyou 1
 du 4
 duan 3
 dui 8
+duihua 1
+duihuakuang 2
 duijie 3
 duixiang 10
 duiying 27
@@ -458,6 +460,7 @@ kaiqi 3
 kaishi 63
 kakeneng 2
 kan 1
+kang 1
 ke 19
 kedu 1
 kejian 2
@@ -695,7 +698,7 @@ shifou 42
 shiji 5 1
 shijian 18 2
 shijianchuo 2
-shili 66
+shili 68
 shiliujinzhi 2
 shipei 5
 shipin 94
@@ -1054,7 +1057,7 @@ zhuyao 7
 zhuyi 12
 zi 3
 zidian 1
-zidingyi 11
+zidingyi 12
 zidong 35
 ziduan 51
 zifu 3
