@@ -180,7 +180,7 @@ diangeping 15
 dianji 3
 diannao 1
 dianshi 3
-dianshiping 12
+dianshiping 13
 dianxing 1
 dianyin 5
 dianzi 2
@@ -929,7 +929,7 @@ yingwen 2
 yingxiang 4
 yingyong 5
 yinhao 3
-yinliang 4
+yinliang 5
 yinpin 7
 yinqi 4
 yinqing 3
