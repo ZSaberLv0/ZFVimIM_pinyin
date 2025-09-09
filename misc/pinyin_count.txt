@@ -52,8 +52,8 @@ biaozhun 1
 bibitian 1
 bijiao 3
 bili 4
-bing 37
-bingqie 9
+bing 38
+bingqie 10
 biru 1
 bitian 68
 bixu 7
@@ -566,7 +566,7 @@ pai 2
 paicha 5
 paidui 26
 paihang 1
-panduan 15
+panduan 16
 paochu 1
 pei 1
 peihe 2
@@ -691,7 +691,7 @@ shi 105 29 6
 shibai 4
 shichang 2
 shiduan 4
-shifou 40
+shifou 42
 shiji 5 1
 shijian 18 2
 shijianchuo 2
@@ -727,7 +727,7 @@ shuping 7
 shuru 8
 shuxing 8
 shuyu 1
-shuzhi 2
+shuzhi 5
 shuzi 8
 shuzu 17
 si 4
@@ -910,7 +910,7 @@ yidong 6
 yifen 1
 yige 42
 yihuo 1
-yiji 2 2
+yiji 3 3
 yijian 1
 yijing 4
 yijiu 1
@@ -967,7 +967,7 @@ youshangjiao 1
 youxi 4
 youxian 9 5
 youxianji 4
-youxiao 7
+youxiao 8
 youyiyi 2
 youyu 6
 yu 27 7
