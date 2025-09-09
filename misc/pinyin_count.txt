@@ -1,6 +1,6 @@
 a 4
 ai 2
-an 6
+an 7
 anjian 3
 anniu 12
 anpai 1
@@ -37,7 +37,7 @@ bian 4
 biancheng 1
 biangeng 3
 bianhua 17
-bianli 6
+bianli 8
 bianliang 5
 bianma 2
 bianxie 2
