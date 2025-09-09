@@ -7,7 +7,7 @@ anpai 1
 anquan 1
 anzhao 7
 anzhuang 5
-anzhuo 12
+anzhuo 13
 bailu 3
 banben 16
 banbenhao 5
@@ -619,7 +619,7 @@ qu 4 1
 quan 2
 quanju 4
 quanliang 1
-quanping 5
+quanping 6
 quanxian 5
 qubie 13
 quchu 1
