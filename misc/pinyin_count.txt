@@ -279,7 +279,7 @@ fulu 1
 fuping 16
 fuwu 12
 fuza 1
-fuzhi 5 1
+fuzhi 6 1
 ga 1
 gai 19
 gaibian 1
@@ -343,7 +343,7 @@ haode 1
 haoma 1
 haomiao 8
 haoshi 2
-he 63
+he 64
 hebing 12
 hegui 4
 heise 3
@@ -461,7 +461,7 @@ kaishi 63
 kakeneng 2
 kan 1
 kang 1
-ke 19
+ke 20
 kedu 1
 kejian 2
 keneng 21
@@ -652,7 +652,7 @@ rouhe 1
 ru 1
 ruan 5
 ruguo 11
-ruhe 81
+ruhe 82
 rukou 3
 ruo 16
 ruogan 1
@@ -889,6 +889,7 @@ xiwang 2
 xu 3
 xuan 1
 xuanxiang 1
+xuanze 1
 xuanzhuan 1
 xunhuan 5
 xuqiu 7
