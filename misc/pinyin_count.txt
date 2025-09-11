@@ -1,5 +1,5 @@
 a 4
-ai 2
+ai 3
 an 7
 anjian 3
 anniu 13
