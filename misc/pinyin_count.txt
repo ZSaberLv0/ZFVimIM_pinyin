@@ -216,7 +216,7 @@ duihua 1
 duihuakuang 3
 duijie 3
 duixiang 10
-duiying 27
+duiying 28
 duiyu 16
 duli 1
 duo 10
@@ -907,7 +907,7 @@ yao 9
 yaoqiu 7
 ye 20 12
 yehui 1
-yemian 22
+yemian 23
 yewu 23
 yeyao 1
 yi 9 5 5 5
