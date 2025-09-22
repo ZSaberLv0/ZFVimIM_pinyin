@@ -27,7 +27,7 @@ bei 15 1
 beifen 1
 beijing 4
 beizhu 11
-ben 13
+ben 14
 benci 6
 bendi 17
 bendian 4
@@ -110,7 +110,7 @@ changjing 55
 changshi 1
 changyong 3
 changzhu 1
-chao 1 1
+chao 2 1
 chaoguo 2
 charu 7
 chaxun 40
@@ -444,7 +444,7 @@ jinxing 18
 jinyong 10
 jishi 1
 jisuan 2
-jiu 4 2
+jiu 4 2 1
 jixu 4
 jiyu 1
 jizhong 1 1
@@ -666,7 +666,7 @@ san 2
 sange 1
 saoma 1
 se 3
-sha 1
+sha 2 1
 shan 1
 shanchu 17
 shang 13
@@ -766,7 +766,7 @@ tankuang 8
 te 1
 tehua 1
 teshu 14
-tian 4 1
+tian 5 1
 tianjia 9
 tianqi 13
 tianru 1
@@ -774,6 +774,7 @@ tianxie 2
 tiao 1
 tiaojian 2
 tiaoshi 5
+tiaowu 1
 tiaozheng 4
 tiaozhuan 15
 tice 5
@@ -848,6 +849,7 @@ xiaci 2
 xiafang 7
 xiamen 10
 xian 4 1
+xianchang 1
 xiancheng 1
 xiang 2
 xiangdang 3
