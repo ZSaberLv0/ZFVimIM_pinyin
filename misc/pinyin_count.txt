@@ -265,7 +265,7 @@ fengmian 2
 fenhao 1
 fense 3
 fenshu 1
-fenwei 7
+fenwei 8
 fenxi 1
 fenzhi 1
 fenzhong 1
@@ -573,7 +573,7 @@ o 5
 ou 1
 pai 2
 paicha 5
-paidui 27
+paidui 28
 paihang 1
 panduan 17
 paochu 1
@@ -876,6 +876,7 @@ xie 5
 xiesi 2
 xietiao 1
 xieyi 35
+xiha 1
 xin 12
 xing 5
 xinggan 7
