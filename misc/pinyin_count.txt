@@ -755,7 +755,7 @@ suiji 6
 suo 3 1 1 1
 suoding 13
 suofang 1
-suoxie 2
+suoxie 3
 suoxu 5
 suoyin 1
 suoyou 24
