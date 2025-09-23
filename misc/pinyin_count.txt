@@ -704,7 +704,7 @@ shifou 42
 shiji 5 1
 shijian 18 2
 shijianchuo 2
-shili 72
+shili 74
 shiliujinzhi 2
 shipei 5
 shipin 95
