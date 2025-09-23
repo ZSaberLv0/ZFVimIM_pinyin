@@ -739,7 +739,7 @@ shuxing 8
 shuyu 1
 shuzhi 5
 shuzi 8
-shuzu 17
+shuzu 18
 si 4
 sige 1
 sihu 1
@@ -814,7 +814,7 @@ wanmei 1
 wanzheng 11
 wasm 1
 wawenti 3
-wei 78 5 1
+wei 79 5 1
 weichi 1
 weigui 5
 weihu 1
@@ -1057,7 +1057,7 @@ zhongjian 1
 zhongyang 1
 zhou 3
 zhouqi 8
-zhuan 10
+zhuan 11
 zhuangtai 31
 zhuanhuan 16
 zhuanma 2
