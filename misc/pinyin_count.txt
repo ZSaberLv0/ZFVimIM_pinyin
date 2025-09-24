@@ -54,7 +54,7 @@ biaozhun 1
 bibitian 1
 bijiao 3
 bili 4
-bing 39
+bing 40
 bingqie 10
 biru 1
 bitian 69
@@ -195,7 +195,7 @@ difang 2
 digui 7
 ding 3
 dingbu 3
-dingyi 19
+dingyi 20
 dingzhi 1
 disanfang 2
 diuqi 2
@@ -339,7 +339,7 @@ haishi 2
 haiyou 1
 haizai 1
 hang 17
-hanshu 9
+hanshu 10
 hao 3
 haode 1
 haoma 1
@@ -403,7 +403,7 @@ jianxiao 1
 jianyao 3
 jianyi 12
 jiao 1
-jiaoben 22
+jiaoben 23
 jiaohu 8
 jiaoyan 3
 jiaru 2 1
@@ -570,6 +570,7 @@ ng 5
 ni 9
 nicheng 1
 nihao 4
+niming 1
 o 5
 ou 1
 pai 2
@@ -659,7 +660,7 @@ rouhe 1
 ru 1
 ruan 5
 ruguo 12
-ruhe 87
+ruhe 88
 rukou 3
 ruo 19
 ruogan 1
@@ -927,7 +928,7 @@ yidian 36
 yiding 1
 yidong 6
 yifen 1
-yige 45
+yige 46
 yihuo 1
 yiji 3 3
 yijian 1
@@ -1049,11 +1050,11 @@ zhineng 2 2
 zhiqian 12
 zhishao 2
 zhixiang 1
-zhixing 9
+zhixing 10
 zhiyao 2
 zhiyou 2
 zhizhen 4
-zhong 89
+zhong 90
 zhongjian 1
 zhongyang 1
 zhou 3
