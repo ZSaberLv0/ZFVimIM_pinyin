@@ -332,13 +332,13 @@ guizhou 1
 guocheng 2
 guolv 3
 guoqi 2
-h 12
+h 13
 hai 2 1
 haihui 1
 haishi 2
 haiyou 1
 haizai 1
-hang 17
+hang 18
 hanshu 10
 hao 3
 haode 1
@@ -532,7 +532,7 @@ miaosha 1
 miaoshu 4 3
 mima 1
 ming 22
-mingling 17
+mingling 18
 mingming 3
 mingque 13
 mingtian 13
@@ -706,7 +706,7 @@ shifou 43
 shiji 5 1
 shijian 18 2
 shijianchuo 2
-shili 74
+shili 75
 shiliujinzhi 2
 shipei 5
 shipin 95
@@ -715,7 +715,7 @@ shitu 19
 shiwei 3
 shixian 26
 shiyi 2
-shiyong 59
+shiyong 60
 shou 3 1
 shoubi 1
 shouci 4
