@@ -370,13 +370,13 @@ huanjie 2
 huanjing 44
 huanmu 1
 hudong 27
-hui 29 1
+hui 30 1
 huidao 1
 huidiao 14
 huifu 16 13
 huizhi 10
 hujiao 14
-hulue 12
+hulue 13
 hunan 4
 huo 31
 huode 1
@@ -703,7 +703,7 @@ shi 108 29 6
 shibai 4
 shichang 2
 shiduan 4
-shifou 43
+shifou 44
 shiji 5 1
 shijian 18 2
 shijianchuo 2
