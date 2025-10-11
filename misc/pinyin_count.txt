@@ -113,7 +113,7 @@ changjing 55
 changshi 2
 changyong 3
 changzhu 1
-chao 2 1
+chao 3 1
 chaoguo 2
 charu 7
 chaxun 40
@@ -729,14 +729,14 @@ shenti 1
 shenzhen 2
 shenzhi 1
 shezhi 9
-shi 114 30 6
+shi 115 30 6
 shibai 4
 shichang 2
 shidian 1
 shiduan 4
 shifou 46
 shiji 6 1
-shijian 18 2
+shijian 19 2
 shijianchuo 2
 shili 78
 shiliujinzhi 2
