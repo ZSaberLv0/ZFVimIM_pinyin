@@ -1054,7 +1054,7 @@ yunxing 8
 yunxu 2
 yuyan 2
 za 1
-zai 49 5
+zai 50 5
 zaibo 25
 zanbu 1
 zanshi 2
