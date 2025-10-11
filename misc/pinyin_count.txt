@@ -153,7 +153,7 @@ cong 9
 cunchu 3
 cunzai 12
 cuowu 10
-d 477
+d 478
 da 7
 dabao 2
 dai 14
@@ -515,6 +515,7 @@ leisi 3
 leixing 21
 lian 4
 liandong 14
+liang 2
 liangge 1
 liangzhong 1
 lianjie 3
@@ -674,7 +675,7 @@ rengongrengong 1
 renhe 1
 renke 1
 renli 1
-renwu 12 6
+renwu 12 7
 renyi 9
 ri 1
 rizhi 8
@@ -838,7 +839,7 @@ tubiao 1
 tuichu 3
 tuijian 8
 tuodong 5
-tupian 20
+tupian 21
 wa 5
 wai 9
 waibu 6
@@ -848,6 +849,7 @@ wang 3
 wangsu 2
 wangye 2
 wanmei 1
+wanshua 1
 wanzheng 12
 wasm 1
 wawenti 4
@@ -1017,6 +1019,7 @@ yizhang 1
 yizhen 1
 yizhi 11
 yizhuo 5
+yizu 1
 yo 2
 yong 4 2
 yongdao 1
