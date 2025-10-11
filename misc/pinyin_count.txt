@@ -562,7 +562,7 @@ moren 91
 morenzhi 1
 morenzhiwei 1
 moshi 18
-mouge 6
+mouge 7
 mouxie 1
 mowei 3
 moxing 4
@@ -682,7 +682,7 @@ rouruo 1
 ru 1
 ruan 5
 ruguo 13
-ruhe 97
+ruhe 98
 rukou 3
 ruo 21 1
 ruogan 1
@@ -1015,6 +1015,7 @@ yizhuo 4
 yo 2
 yong 4 2
 yongdao 1
+yongfa 1
 yonghu 22
 yongyu 21
 you 34 32 11 1
@@ -1084,7 +1085,7 @@ zhezhezhong 1
 zhezhong 5
 zhi 46 15
 zhichi 79
-zhidao 2
+zhidao 3
 zhiding 76
 zhihe 1
 zhihou 8
