@@ -27,7 +27,7 @@ baozheng 1
 bei 16 1
 beifen 1
 beijing 4
-beizhu 11
+beizhu 12
 ben 15
 benci 6
 bendi 17
@@ -137,7 +137,7 @@ chuan 3 3
 chuandi 3
 chuangjian 6
 chuangkou 4
-chuanxing 1
+chuanxing 2
 chufa 5
 chufaqi 21
 chule 2
@@ -676,7 +676,7 @@ rengongrengong 1
 renhe 1
 renke 1
 renli 1
-renwu 14 7
+renwu 15 7
 renyi 10
 ri 1
 rizhi 8
