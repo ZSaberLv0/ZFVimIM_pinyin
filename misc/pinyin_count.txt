@@ -671,7 +671,7 @@ rengongrengong 1
 renhe 1
 renke 1
 renli 1
-renwu 12 5
+renwu 12 6
 renyi 9
 ri 1
 rizhi 8
@@ -822,7 +822,7 @@ tongji 7
 tongshi 5
 tongxun 11
 tongyi 6 4
-tongyige 5
+tongyige 6
 tongyong 2
 tongzhi 12
 tou 3 3
@@ -1117,12 +1117,13 @@ zhudong 14
 zhufu 2
 zhuge 1
 zhunbei 1
+zhuo 1
 zhuomian 1
 zhushi 2
 zhuti 37
 zhuyao 7
 zhuyi 12
-zi 3 1
+zi 4 1
 zidian 1
 zidingyi 12
 zidong 35
