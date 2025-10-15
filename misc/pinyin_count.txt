@@ -159,7 +159,7 @@ da 7
 dabao 2
 dai 14
 daibiao 2
-daima 12
+daima 13
 daiyou 1
 dakai 17
 dan 19 1
@@ -439,7 +439,7 @@ jiemian 2
 jiequ 5
 jieru 1
 jieshao 9
-jieshi 40
+jieshi 42
 jieshou 2
 jieshu 12
 jiesuan 1
