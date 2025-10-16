@@ -738,7 +738,7 @@ shifou 46
 shiji 6 1
 shijian 19 2
 shijianchuo 2
-shili 78
+shili 79
 shiliujinzhi 2
 shipei 5
 shipin 96
@@ -788,7 +788,7 @@ su 2
 sucai 1
 sudu 1
 suiji 6
-suo 3 1 1 1
+suo 4 1 1 1
 suoding 13
 suofang 1
 suoxie 3
@@ -952,7 +952,7 @@ xuesheng 1
 xunhuan 5
 xuqiu 8
 xuyao 47
-ya 1
+ya 2
 yan 2
 yanhou 1
 yanse 8
