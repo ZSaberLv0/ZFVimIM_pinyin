@@ -358,7 +358,7 @@ haode 1
 haoma 1
 haomiao 8
 haoshi 2
-he 71
+he 72
 hebing 12
 hegui 4
 hei 2
@@ -439,7 +439,7 @@ jiemian 2
 jiequ 5
 jieru 1
 jieshao 9
-jieshi 44
+jieshi 45
 jieshou 2
 jieshu 12
 jiesuan 1
@@ -738,7 +738,7 @@ shifou 46
 shiji 6 1
 shijian 19 2
 shijianchuo 2
-shili 79
+shili 80
 shiliujinzhi 2
 shipei 5
 shipin 96
