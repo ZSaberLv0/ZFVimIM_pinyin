@@ -165,7 +165,7 @@ dakai 17
 dan 19 1
 dandu 1
 dang 1
-dangqian 102
+dangqian 103
 dangqiandangqian 1
 danmu 3
 danshi 6
@@ -311,7 +311,7 @@ ge 19 5 6 1
 gedan 15
 geduan 3
 gege 1
-gei 10
+gei 11
 geichu 2
 geng 2
 genggai 2 2
@@ -803,7 +803,7 @@ te 2
 tehua 1
 teshu 14
 tian 5 1
-tianjia 10
+tianjia 11
 tianqi 13
 tianru 1
 tianxie 2
@@ -1128,7 +1128,7 @@ zhuge 1
 zhunbei 1
 zhuo 1
 zhuomian 1
-zhushi 2
+zhushi 3
 zhuti 37
 zhuyao 7
 zhuyi 12
