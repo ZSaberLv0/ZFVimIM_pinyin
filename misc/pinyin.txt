@@ -2900,6 +2900,7 @@ lianban 联办
 lianbang 联邦
 liandong 联动
 liang 两 量 亮 良 辆 梁 俩 凉 粮 谅 粱 晾 踉 莨 墚 魉 椋 靓 両 俍 倆 倞 兩 哴 唡 啢 喨 悢 惊 掚 樑 涼 湸 煷 簗 糧 綡 緉 脼 蜋 蜽 裲 諒 蹒 蹣 輌 輛 輬 辌 鍄 閬 阆 靚 駺 魎
+liangbei 两倍
 liangce 两侧
 liangci 两次
 liangdian 两点 亮点
