@@ -400,7 +400,7 @@ houtai 9
 houxu 3
 hu 2
 hua 2 1
-huancun 2
+huancun 3
 huanhang 1
 huanhangfu 2
 huanjie 2
@@ -738,7 +738,7 @@ rouruo 1
 ru 1
 ruan 5
 ruguo 17
-ruhe 104
+ruhe 105
 rukou 3
 ruo 21 1
 ruogan 1
@@ -818,7 +818,7 @@ shu 6 2
 shuang 7
 shuangji 1
 shuangshou 1
-shuaxin 1
+shuaxin 2
 shuchu 14
 shui 2
 shuju 7
