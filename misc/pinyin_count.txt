@@ -167,7 +167,7 @@ dai 14
 daibiao 2
 daima 13
 daiyou 1
-dakai 17
+dakai 18
 dan 20 1
 dandu 1
 dang 3 1
@@ -540,7 +540,7 @@ liang 3
 liangbei 1
 liangge 1
 liangzhong 1
-lianjie 3
+lianjie 4
 liantiao 2
 lianxu 1
 liebiao 40
@@ -787,6 +787,7 @@ shou 5 1
 shoubi 1
 shouci 4
 shoudao 3
+shouji 1
 shoujiduan 16
 shouquan 3
 shouye 8
@@ -899,6 +900,7 @@ weichi 1
 weigui 5
 weihu 1
 weikong 4
+weixin 1
 weiyi 8
 weiyu 2
 weizhi 15
