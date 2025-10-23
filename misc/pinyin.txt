@@ -4048,6 +4048,7 @@ shangde 上的
 shangdilei 上帝类
 shangdou 上都
 shangfan 商贩
+shangfang 上方
 shangfanshangfang 商贩上方
 shangfu 上腹
 shangguo 上过
