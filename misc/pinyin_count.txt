@@ -162,7 +162,7 @@ cunchu 3
 cunzai 12
 cuo 1
 cuowu 10
-d 559
+d 560
 da 12
 dabao 2
 dai 14
@@ -341,7 +341,7 @@ gete 1
 gexing 5
 gezhong 6
 gong 7
-gongju 5
+gongju 7
 gongneng 6
 gongxi 1
 goucheng 1
@@ -804,7 +804,7 @@ shitu 19
 shiwei 3
 shixian 34
 shiyi 2
-shiyong 67
+shiyong 68
 shou 5 1
 shoubi 1
 shouci 4
@@ -1097,7 +1097,7 @@ yizhuo 5
 yizu 1
 yo 2
 yong 4 2
-yongdao 1
+yongdao 2
 yongfa 1
 yonghu 28
 yongyu 21
