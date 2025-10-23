@@ -803,7 +803,7 @@ shuju 7
 shuliang 1
 shunxu 11
 shuo 1
-shuoming 16
+shuoming 17
 shuping 8
 shuru 8
 shuxing 8
@@ -855,6 +855,7 @@ tigong 8
 tihuan 16
 tingzhi 1
 tishi 3
+tiyan 1
 tong 3
 tongbu 1
 tongchang 10
