@@ -8,7 +8,7 @@ anpai 1
 anquan 1
 anzhao 7
 anzhuang 5
-anzhuo 25
+anzhuo 26
 aojiao 4
 bailu 4
 banben 22
@@ -106,10 +106,11 @@ canzhao 1
 caozuo 12
 ce 11
 ceng 5
+cengji 1
 ceshi 20
 cha 1
 chajian 4
-chakan 4
+chakan 5
 chang 3 1
 changdu 3
 changjia 1
@@ -379,7 +380,7 @@ haode 1
 haoma 1
 haomiao 8
 haoshi 2
-he 82
+he 83
 hebing 12
 hegui 4
 hei 2
@@ -627,7 +628,7 @@ ne 2
 nei 9
 neibu 3
 neicun 6
-neirong 88
+neirong 89
 neizhi 4
 neng 7
 nengfou 2
@@ -740,7 +741,7 @@ rouruo 1
 ru 1
 ruan 5
 ruguo 17
-ruhe 108
+ruhe 109
 rukou 3
 ruo 21 1
 ruogan 1
