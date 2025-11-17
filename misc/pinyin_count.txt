@@ -238,7 +238,7 @@ duijie 3
 duixiang 10
 duiying 31
 duiyu 21
-duli 1
+duli 2
 duo 10
 duoci 1
 duoge 12
@@ -407,7 +407,7 @@ huanhangfu 2
 huanjie 3
 huanjing 47
 huanmu 1
-hudong 29
+hudong 30
 hui 37 1 1
 huidao 1
 huidiao 14
@@ -517,7 +517,7 @@ kaiguan 2
 kaiji 6
 kailang 2
 kaiqi 3
-kaishi 75
+kaishi 76
 kaixin 1
 kakeneng 2
 kan 2
@@ -662,7 +662,7 @@ pie 1
 piliang 2
 pin 8
 pinfan 1
-ping 63
+ping 64
 pingban 2
 pingjun 5
 pingmu 19
@@ -801,7 +801,7 @@ shijianchuo 2
 shili 84
 shiliujinzhi 2
 shipei 6
-shipin 98
+shipin 99
 shishi 1 1
 shitu 19
 shiwei 3
@@ -1176,7 +1176,7 @@ zhezhebian 1
 zhezhezhong 1
 zhezhong 5
 zhi 47 16
-zhichi 85
+zhichi 86
 zhidao 3
 zhiding 78
 zhihe 1
