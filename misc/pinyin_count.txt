@@ -494,7 +494,7 @@ jinru 6
 jintian 2
 jinxing 20
 jinyong 12
-jishi 1
+jishi 2
 jisuan 2
 jiu 8 4 2 2
 jiuban 1
