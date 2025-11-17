@@ -64,7 +64,7 @@ bingbu 1
 bingbubingqie 1
 bingqie 21
 biru 2
-bitian 74
+bitian 75
 bixu 7
 bo 7
 bofang 54
@@ -164,7 +164,7 @@ cunchu 3
 cunzai 12
 cuo 1
 cuowu 10
-d 570
+d 571
 da 12
 dabao 2
 dai 14
@@ -278,7 +278,7 @@ faqi 29
 fasheng 3
 fasong 25
 faxian 5
-fei 86
+fei 87
 feichang 5
 feifeichang 1
 fen 2 1
@@ -683,7 +683,7 @@ qianmian 1
 qianru 1
 qianyi 2
 qidong 38
-qie 8 6
+qie 9 6
 qiege 3
 qiehuan 12
 qiguai 3
@@ -803,7 +803,7 @@ shijianchuo 2
 shili 84
 shiliujinzhi 2
 shipei 6
-shipin 105
+shipin 107
 shishi 1 1
 shitu 19
 shiwei 3
@@ -926,7 +926,7 @@ wanzheng 12
 wasm 1
 wawenti 4
 wayixia 1
-wei 88 5 1
+wei 89 5 1
 weichi 1
 weigui 5
 weihu 1
@@ -1031,7 +1031,7 @@ xuanzhuan 3
 xuesheng 1
 xunhuan 5
 xuqiu 9
-xuyao 53
+xuyao 54
 ya 2
 yan 2
 yanhou 1
