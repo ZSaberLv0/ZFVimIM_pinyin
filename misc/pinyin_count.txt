@@ -530,7 +530,7 @@ ke 28
 kedu 1
 kejian 2
 keneng 24
-kexuan 1
+kexuan 2
 kexue 1
 keyong 1
 kong 16
@@ -1179,7 +1179,7 @@ zhexie 1
 zhezhebian 1
 zhezhezhong 1
 zhezhong 5
-zhi 47 16
+zhi 48 16
 zhichi 88
 zhidao 3
 zhiding 79
