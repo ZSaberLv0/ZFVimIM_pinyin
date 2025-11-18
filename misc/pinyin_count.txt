@@ -70,7 +70,7 @@ bo 7
 bofang 57
 bokong 5
 bowan 2
-bu 87 1
+bu 89 1
 budao 2
 buduan 4
 bufen 4
@@ -1154,7 +1154,7 @@ zao 1 1
 ze 24
 zenme 1
 zhan 2 2 1
-zhanshi 72
+zhanshi 74
 zhanwei 1
 zhanyong 1
 zhao 3 1
