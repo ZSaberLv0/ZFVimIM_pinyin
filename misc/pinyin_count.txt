@@ -124,7 +124,7 @@ changzhu 1
 chao 3 1
 chaoguo 3
 charu 7
-chaxun 41
+chaxun 42
 chayi 3
 chazhao 8
 cheng 3 2
@@ -604,7 +604,7 @@ ming 22
 mingling 28
 mingming 3
 mingque 13
-mingtian 13
+mingtian 14
 mingxian 2
 mo 6
 mohu 2
@@ -870,7 +870,7 @@ teshu 15
 tian 6 1
 tianchong 1
 tianjia 13
-tianqi 13
+tianqi 14
 tianru 1
 tianxie 2
 tiao 1
