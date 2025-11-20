@@ -11,7 +11,7 @@ anzhuang 5
 anzhuo 26
 aojiao 4
 bailu 4
-ban 4
+ban 5
 banben 22
 banbenhao 6
 bangding 4
@@ -521,7 +521,7 @@ kaiguan 2
 kaiji 6
 kailang 2
 kaiqi 3
-kaishi 79
+kaishi 80
 kaixin 1
 kakeneng 2
 kan 2
@@ -666,7 +666,7 @@ pie 1
 piliang 2
 pin 8
 pinfan 1
-ping 76
+ping 77
 pingban 2
 pingjun 5
 pingmu 19
@@ -749,7 +749,7 @@ ruhe 111
 rukou 3
 ruo 23 1
 ruogan 1
-san 5
+san 6
 sange 2
 saoma 1
 se 3
@@ -1180,7 +1180,7 @@ zhezhebian 1
 zhezhezhong 1
 zhezhong 5
 zhi 49 16
-zhichi 89
+zhichi 90
 zhidao 3
 zhiding 80
 zhihe 1
@@ -1234,7 +1234,7 @@ zishen 2
 zixing 5
 zixun 1
 ziyuan 6
-zizhu 5 4
+zizhu 5 5
 zong 4
 zongjie 14
 zou 1 1
