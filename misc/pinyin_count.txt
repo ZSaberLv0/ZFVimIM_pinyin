@@ -165,7 +165,7 @@ cunchu 3
 cunzai 12
 cuo 1
 cuowu 10
-d 580
+d 581
 da 12
 dabao 2
 dai 14
@@ -335,7 +335,7 @@ gengduo 1
 genggai 2 2
 gengjia 6
 gengxin 42
-genju 16
+genju 17
 gequ 55
 geshi 36
 geshihua 2
@@ -360,7 +360,7 @@ guanjian 1
 guanka 4
 guanli 2
 guanyu 3
-guding 19
+guding 20
 gui 2
 guize 27
 guizhou 1
@@ -1179,7 +1179,7 @@ zhexie 1
 zhezhebian 1
 zhezhezhong 1
 zhezhong 5
-zhi 49 16
+zhi 51 16
 zhichi 90
 zhidao 3
 zhiding 80
