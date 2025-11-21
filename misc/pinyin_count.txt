@@ -188,7 +188,7 @@ daxie 1
 dayin 3
 dayu 1
 de 7 1
-deng 31
+deng 32
 dengdeng 1
 dengguang 10
 dengjia 1
@@ -803,7 +803,7 @@ shifou 53
 shih 3
 shihe 1
 shiji 6 1
-shijian 21 4
+shijian 21 5
 shijianchuo 2
 shili 84
 shiliujinzhi 2
@@ -890,11 +890,12 @@ tinghao 2
 tingzhi 1
 tishi 4
 tiyan 1
-tong 4
+tong 5
 tongbu 6
 tongchang 10
 tongguo 52
 tongji 7
+tongli 1
 tongshi 5
 tongxun 11
 tongyi 6 4

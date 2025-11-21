@@ -4710,6 +4710,7 @@ tonghang 同行
 tonghua 通话
 tongji 统计 同级
 tongku 痛苦
+tongli 同理
 tonglu 通路
 tongming 同名
 tongqu 同去
