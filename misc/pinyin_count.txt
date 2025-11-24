@@ -615,7 +615,7 @@ moren 110
 morenzhi 1
 morenzhiwei 1
 moshi 18
-mouge 7
+mouge 8
 mouxie 1
 mowei 3
 moxing 6
@@ -747,7 +747,7 @@ rouruo 1
 ru 1
 ruan 5
 ruguo 17
-ruhe 111
+ruhe 112
 rukou 3
 ruo 23 1
 ruogan 1
@@ -757,7 +757,7 @@ saoma 1
 se 3
 sha 2 1
 shan 1
-shanchu 19
+shanchu 20
 shang 17
 shangbanshen 2
 shangbao 7
