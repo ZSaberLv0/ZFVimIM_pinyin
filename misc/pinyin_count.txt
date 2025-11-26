@@ -256,7 +256,7 @@ erciyuan 1
 erji 7
 ershi 2
 erwei 1
-erweima 17
+erweima 18
 erxuanyi 3
 ewai 11
 fa 11
@@ -577,7 +577,7 @@ likai 1
 ling 1
 linshi 13
 liru 22
-lishi 1 1
+lishi 2 2
 liu 1 1
 liucheng 6
 liulanqi 2
@@ -697,6 +697,7 @@ qingchu 2
 qingkan 2
 qingkong 3
 qingkuang 10
+qingli 1
 qingqiu 5
 qiqita 1
 qita 15
@@ -737,7 +738,7 @@ renke 1
 renli 1
 renwu 15 7
 renyi 10
-ri 1
+ri 3
 rizhi 9
 rongcuo 2
 rongyi 3
@@ -798,7 +799,7 @@ shezhi 9
 shi 135 37 10 6
 shibai 6
 shichang 3
-shidian 1
+shidian 2
 shiduan 4
 shifou 54
 shih 3
@@ -913,6 +914,7 @@ tu 18
 tubiao 1
 tuichu 3
 tuijian 8
+tuisong 1
 tuodong 5
 tupian 25
 turan 1
@@ -1138,6 +1140,7 @@ yuanxing 2 1
 yuanyin 4
 yuanzhuang 1
 yudingyi 2
+yue 2 2
 yueding 1
 yuedu 1
 yufa 1
