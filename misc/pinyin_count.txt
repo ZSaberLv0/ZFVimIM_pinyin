@@ -786,6 +786,7 @@ shengcheng 21
 shengri 10
 shengxiao 4
 shengyin 1
+shengyu 1
 shenhe 28
 shenme 1
 shenqing 1
@@ -803,7 +804,7 @@ shifou 54
 shih 3
 shihe 1
 shiji 6 1
-shijian 21 5
+shijian 22 5
 shijianchuo 2
 shili 84
 shiliujinzhi 2
@@ -834,7 +835,7 @@ shui 2
 shuju 7
 shuliang 1
 shunxu 11
-shuo 1
+shuo 2
 shuoming 18
 shuping 8
 shuru 8
@@ -1081,6 +1082,7 @@ yingwei 1
 yingwen 2
 yingxiang 4
 yingyong 6
+yingyu 1
 yinhao 3
 yinliang 5
 yinpin 8
@@ -1110,7 +1112,7 @@ yizhi 11
 yizhuo 5
 yizu 1
 yo 2
-yong 4 2
+yong 5 2
 yongdao 2
 yongfa 1
 yonghu 28
@@ -1156,7 +1158,7 @@ zanwei 1
 zanwu 1
 zao 1 1
 ze 24
-zenme 1
+zenme 2
 zhan 2 2 1
 zhanshi 74
 zhanwei 1
