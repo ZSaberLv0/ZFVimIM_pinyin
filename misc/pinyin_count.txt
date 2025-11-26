@@ -419,7 +419,7 @@ huizhi 11
 hujiao 14
 hulue 14
 hunan 4
-huo 38
+huo 39
 huode 2
 huodong 1
 huoqu 21
@@ -667,7 +667,7 @@ pie 1
 piliang 2
 pin 8
 pinfan 1
-ping 77
+ping 78
 pingban 2
 pingjun 5
 pingmu 19
@@ -808,7 +808,7 @@ shijianchuo 2
 shili 84
 shiliujinzhi 2
 shipei 6
-shipin 112
+shipin 113
 shishi 1 1
 shitu 19
 shiwei 3
@@ -1206,7 +1206,7 @@ zhongjian 1
 zhongyang 1
 zhou 3
 zhouqi 8
-zhu 6 1
+zhu 7 1
 zhuan 12
 zhuang 4
 zhuangtai 32
