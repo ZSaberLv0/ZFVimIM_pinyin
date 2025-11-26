@@ -759,7 +759,7 @@ se 3
 sha 2 1
 shan 1
 shanchu 20
-shang 17
+shang 19
 shangbanshen 2
 shangbao 7
 shangchuan 1
