@@ -456,6 +456,7 @@ jiaohu 8
 jiaoshi 1
 jiaoyan 3
 jiaru 2 1
+jiasu 1
 jiazai 6
 jichu 5
 jid 1
@@ -748,7 +749,7 @@ rouruo 1
 ru 1
 ruan 5
 ruguo 17
-ruhe 114
+ruhe 115
 rukou 3
 ruo 24 1
 ruogan 1
@@ -816,7 +817,7 @@ shitu 19
 shiwei 3
 shixian 34
 shiyi 2
-shiyong 77
+shiyong 78
 shou 5 1
 shoubi 1
 shouci 4
@@ -989,6 +990,7 @@ xiangsi 1
 xiangtong 18
 xiangxi 1
 xiangying 1
+xianka 1
 xianshi 10
 xianxiang 4
 xianyan 5 1
