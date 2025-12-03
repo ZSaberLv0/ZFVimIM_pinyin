@@ -84,7 +84,7 @@ buneng 5
 buquan 4
 bushou 1
 butian 2
-butong 15
+butong 16
 buwei 1
 buxing 1
 buxuyao 4
@@ -167,7 +167,7 @@ cunchu 3
 cunzai 14
 cuo 1
 cuowu 10
-d 591
+d 592
 da 12
 dabao 2
 dai 14
@@ -328,7 +328,7 @@ gaoyu 2
 gaozhong 2
 gayige 1
 ge 20 7 5 1
-gedan 23
+gedan 24
 geduan 3
 gege 1
 gei 13
@@ -525,7 +525,7 @@ kaiguan 2
 kaiji 6
 kailang 2
 kaiqi 3
-kaishi 84
+kaishi 85
 kaixin 1
 kakeneng 2
 kan 2
@@ -574,7 +574,7 @@ lianxu 1
 liebiao 45
 liechu 6
 lieju 1
-liji 7
+liji 9
 lijie 1
 likai 1
 ling 1
@@ -715,7 +715,7 @@ quanju 4
 quanliang 1
 quanping 7
 quanxian 6
-qubie 13
+qubie 14
 quchu 1
 qudao 1
 quebao 2
@@ -753,7 +753,7 @@ ruan 5
 ruguo 18
 ruhe 120
 rukou 3
-ruo 29 1
+ruo 30 1
 ruogan 1
 san 7
 sange 2
@@ -1136,7 +1136,7 @@ youxianji 9
 youxiao 8
 youyiyi 2
 youyu 6
-yu 39 7
+yu 40 7
 yuan 8
 yuandian 3
 yuanshi 2
@@ -1195,7 +1195,7 @@ zhezhebian 1
 zhezhezhong 1
 zhezhong 5
 zhi 55 16
-zhichi 93
+zhichi 94
 zhidao 3
 zhiding 86
 zhihe 1
