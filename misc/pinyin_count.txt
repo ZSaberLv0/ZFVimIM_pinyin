@@ -67,7 +67,7 @@ biru 2
 bitian 80
 bixu 7
 bo 8
-bofang 64
+bofang 65
 bokong 5
 bowan 7
 bu 90 1
@@ -167,7 +167,7 @@ cunchu 3
 cunzai 14
 cuo 1
 cuowu 10
-d 592
+d 593
 da 12
 dabao 2
 dai 14
@@ -240,7 +240,7 @@ duihua 1
 duihuakuang 3
 duijie 3
 duixiang 12
-duiying 32
+duiying 33
 duiyu 21
 duli 2
 duo 10
@@ -328,7 +328,7 @@ gaoyu 2
 gaozhong 2
 gayige 1
 ge 20 7 5 1
-gedan 25
+gedan 26
 geduan 3
 gege 1
 gei 13
@@ -504,7 +504,7 @@ jiu 9 5 2 2
 jiuban 1
 jiuhui 2
 jiuyou 1
-jixu 6
+jixu 7
 jiyu 1
 jizhong 1 1
 ju 2
