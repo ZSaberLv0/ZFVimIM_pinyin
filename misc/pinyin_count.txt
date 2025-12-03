@@ -69,7 +69,7 @@ bixu 7
 bo 8
 bofang 64
 bokong 5
-bowan 3
+bowan 5
 bu 90 1
 budao 2
 buduan 4
@@ -96,7 +96,7 @@ buzhengque 2
 buzhi 1
 buzhichi 10
 buzuo 5
-cai 3
+cai 4
 caihui 2
 caijian 3
 caineng 3
@@ -152,7 +152,7 @@ chuanxing 2
 chufa 7
 chufaqi 22
 chule 2
-chuli 36
+chuli 38
 chun 1
 chuping 2 3
 chushi 4
@@ -228,7 +228,7 @@ dizhi 5
 donghua 7
 dongman 1
 dongtai 1
-dou 29
+dou 30
 doudong 1
 douhao 5
 doushi 4
@@ -399,7 +399,7 @@ henhao 1
 heshi 3
 hong 2
 hongse 2
-hou 35
+hou 37
 houduan 11
 houmian 1
 houtai 9
@@ -500,7 +500,7 @@ jinxing 20
 jinyong 12
 jishi 2
 jisuan 2
-jiu 8 4 2 2
+jiu 9 5 2 2
 jiuban 1
 jiuhui 2
 jiuyou 1
@@ -588,7 +588,7 @@ luewei 1
 lujing 31
 lun 1
 luo 1
-luoji 28
+luoji 30
 ma 1 1
 man 4 1
 mao 1
@@ -867,7 +867,7 @@ suofang 2
 suoxie 3
 suoxu 5
 suoyin 1
-suoyou 29
+suoyou 30
 suozai 2
 tai 5
 tanchu 9
