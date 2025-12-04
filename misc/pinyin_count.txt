@@ -560,7 +560,7 @@ lashen 1
 lei 6
 leiming 1
 leisi 3
-leixing 21
+leixing 22
 lian 4
 liandong 14
 liang 4
@@ -893,7 +893,7 @@ tigong 8
 tihuan 17
 tinghao 2
 tingzhi 1
-tishi 4
+tishi 5
 tiyan 1
 tong 6
 tongbu 6
