@@ -525,7 +525,7 @@ kaiguan 2
 kaiji 6
 kailang 2
 kaiqi 3
-kaishi 87
+kaishi 88
 kaixin 1
 kakeneng 2
 kan 2
@@ -1196,7 +1196,7 @@ zhezhebian 1
 zhezhezhong 1
 zhezhong 5
 zhi 55 16
-zhichi 96
+zhichi 97
 zhidao 3
 zhiding 87
 zhihe 1
