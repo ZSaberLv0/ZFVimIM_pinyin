@@ -940,7 +940,7 @@ wanzheng 12
 wasm 1
 wawenti 4
 wayixia 1
-wei 95 5 1
+wei 96 5 1
 weichi 1
 weigui 5
 weihu 1
@@ -1223,7 +1223,7 @@ zhu 7 1
 zhuan 13
 zhuang 4
 zhuangtai 32
-zhuanhuan 20
+zhuanhuan 21
 zhuanma 2
 zhuanpan 1
 zhuanyi 1
