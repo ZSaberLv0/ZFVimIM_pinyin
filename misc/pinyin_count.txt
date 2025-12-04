@@ -419,7 +419,7 @@ huidiao 14
 huifu 18 13
 huizhi 11
 hujiao 14
-hulue 14
+hulue 15
 hunan 4
 huo 39
 huode 2
@@ -486,7 +486,7 @@ jiexi 9
 jieya 4
 jike 5
 jilu 1
-jin 61 1
+jin 62 1
 jincheng 12
 jindang 6
 jindu 7
@@ -531,7 +531,7 @@ kaixin 1
 kakeneng 2
 kan 2
 kang 1
-ke 30
+ke 31
 kedu 1
 kejian 2
 keneng 25
@@ -778,6 +778,7 @@ shangxia 3
 shangyi 1
 shangyici 1
 shao 2
+shaoliang 1
 shaolu 2
 shashuru 1
 she 1
@@ -803,7 +804,7 @@ shezhi 9
 shi 136 37 10 6
 shibai 6
 shichang 3
-shidian 2
+shidian 3
 shiduan 4
 shifou 56
 shih 3
