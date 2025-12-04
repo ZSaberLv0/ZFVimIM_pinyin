@@ -167,7 +167,7 @@ cunchu 3
 cunzai 14
 cuo 1
 cuowu 10
-d 594
+d 595
 da 12
 dabao 2
 dai 14
@@ -178,7 +178,7 @@ dakai 18
 dan 22 1
 dandu 1
 dang 3 1
-dangqian 148
+dangqian 149
 dangqiandangqian 1
 danmu 3
 danshi 8
@@ -807,7 +807,7 @@ shiduan 4
 shifou 56
 shih 3
 shihe 1
-shiji 7 1
+shiji 8 1
 shijian 22 5
 shijianchuo 2
 shili 84
@@ -1158,7 +1158,7 @@ yunxu 2
 yuyan 2
 za 1
 zai 74 7
-zaibo 30
+zaibo 31
 zaici 3
 zanbu 1
 zanshi 2
