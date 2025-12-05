@@ -67,7 +67,7 @@ biru 2
 bitian 81
 bixu 7
 bo 8
-bofang 67
+bofang 68
 bokong 5
 bowan 7
 bu 91 1
@@ -590,7 +590,7 @@ luewei 1
 lujing 33
 lun 1
 luo 1
-luoji 32
+luoji 33
 ma 1 1
 man 4 1
 mao 1
