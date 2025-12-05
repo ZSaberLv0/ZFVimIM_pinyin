@@ -347,7 +347,7 @@ gete 1
 gexing 5
 gezhong 6
 gong 7
-gongju 7
+gongju 8
 gongneng 7
 gongxi 1
 goucheng 1
@@ -925,6 +925,7 @@ tupian 25
 turan 1
 wa 6
 wai 9
+waibao 1
 waibu 7
 waimao 1
 wan 1
@@ -1225,7 +1226,7 @@ zhuan 13
 zhuang 4
 zhuangtai 32
 zhuanhuan 21
-zhuanma 2
+zhuanma 3
 zhuanpan 1
 zhuanyi 1
 zhudong 14
