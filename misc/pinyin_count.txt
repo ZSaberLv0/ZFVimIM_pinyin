@@ -626,7 +626,7 @@ mowei 3
 moxing 6
 mubiao 10
 mudi 1
-mulu 96
+mulu 97
 muqian 7
 n 4
 na 1 1
@@ -816,7 +816,7 @@ shijianchuo 2
 shili 84
 shiliujinzhi 2
 shipei 6
-shipin 118
+shipin 119
 shishi 1 1
 shitu 19
 shiwei 3
@@ -1126,7 +1126,7 @@ yizu 1
 yo 2
 yong 6 2
 yongdao 2
-yongfa 1
+yongfa 2
 yonghu 28
 yongyu 23
 you 37 38 14 1
@@ -1142,7 +1142,7 @@ youxiao 8
 youyiyi 2
 youyu 6
 yu 40 7
-yuan 8
+yuan 8 1
 yuandian 3
 yuanshi 2
 yuansu 16
