@@ -379,7 +379,7 @@ haihui 1
 haishi 3
 haiyou 1
 haizai 1
-hang 23
+hang 24
 hanshu 18
 hao 5
 haode 1
@@ -834,7 +834,7 @@ shoujiduan 17
 shouquan 3
 shouye 8
 shouzhi 3
-shu 6 2
+shu 7 2
 shuang 7
 shuangji 2
 shuangshou 1
@@ -842,6 +842,7 @@ shuaxin 2
 shuchu 15
 shui 2
 shuju 8
+shujuku 1
 shuliang 1
 shunxu 11
 shuo 2
@@ -904,7 +905,7 @@ tong 6
 tongbu 6
 tongchang 11
 tongguo 52
-tongji 7
+tongji 8
 tongli 1
 tongshi 6
 tongxun 11
@@ -1257,7 +1258,7 @@ zixing 5
 zixun 1
 ziyuan 7
 zizhu 7 8
-zong 4
+zong 5
 zongjie 14
 zou 1 1
 zu 2
