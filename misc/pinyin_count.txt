@@ -439,7 +439,7 @@ jiami 3
 jian 3
 jiance 1
 jiandan 2
-jiang 30 1
+jiang 31 1
 jiangdi 1
 jiange 4
 jianghui 1
@@ -896,7 +896,7 @@ tiaozheng 5
 tiaozhuan 16
 tice 5
 tigong 8
-tihuan 17
+tihuan 18
 tinghao 2
 tingzhi 1
 tishi 5
@@ -946,7 +946,7 @@ wanzheng 12
 wasm 1
 wawenti 4
 wayixia 1
-wei 98 5 1
+wei 100 5 1
 weichi 1
 weigui 5
 weihu 1
@@ -1043,7 +1043,7 @@ xishu 1
 xitong 4
 xiu 3
 xiufu 6
-xiugai 30
+xiugai 31
 xiwang 2
 xu 4
 xuan 1
