@@ -341,7 +341,7 @@ gengjia 6
 gengxin 42
 genju 17
 gequ 55
-geshi 36
+geshi 37
 geshihua 2
 geshu 3
 gete 1
@@ -769,7 +769,7 @@ saoma 1
 se 3
 sha 2 1
 shan 1
-shanchu 21
+shanchu 22
 shang 19
 shangbanshen 2
 shangbao 7
@@ -822,7 +822,7 @@ shijianchuo 2
 shili 85
 shiliujinzhi 2
 shipei 6
-shipin 122
+shipin 123
 shishi 1 1
 shitu 19
 shiwei 3
@@ -980,7 +980,7 @@ wuguan 1
 wulun 1
 wuwufa 1
 wuxian 1
-wuxiao 9
+wuxiao 10
 wuxu 2
 wuyiyi 1
 xi 2
