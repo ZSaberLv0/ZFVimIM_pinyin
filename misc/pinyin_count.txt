@@ -287,7 +287,7 @@ fei 93
 feichang 5
 feifeichang 1
 fen 2 1
-fenbianlv 3
+fenbianlv 4
 fenbie 3
 feng 3
 fenge 6
@@ -952,7 +952,7 @@ wasm 1
 wawenti 4
 wayixia 1
 wei 101 5 1
-weichi 3
+weichi 4
 weigui 5
 weihu 1
 weikong 5
@@ -1155,7 +1155,7 @@ yuandian 3
 yuanshi 2
 yuansu 17
 yuanxing 2 1
-yuanyang 2
+yuanyang 3
 yuanyin 4
 yuanzhuang 1
 yudingyi 2
