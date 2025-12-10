@@ -71,7 +71,7 @@ bo 8
 bofang 68
 bokong 5
 bowan 7
-bu 92 1
+bu 93 1
 budao 2
 buduan 4
 bufen 5
@@ -463,7 +463,7 @@ jiaohu 8
 jiaoshi 1
 jiaoyan 3
 jiaru 2 1
-jiasu 1
+jiasu 2
 jiazai 6
 jichu 5
 jid 1
@@ -828,7 +828,7 @@ shitu 19
 shiwei 3
 shixian 36
 shiyi 2
-shiyong 80
+shiyong 81
 shou 5 1
 shoubi 1
 shouci 4
@@ -1005,7 +1005,7 @@ xiangsi 1
 xiangtong 23
 xiangxi 1
 xiangying 1
-xianka 1
+xianka 5
 xianshi 10
 xianxiang 4
 xianyan 5 1
