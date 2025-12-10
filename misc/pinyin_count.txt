@@ -595,7 +595,7 @@ luo 1
 luoji 33
 lv 1 1
 ma 2 2
-malv 1
+malv 2
 man 4 1
 mao 1
 mei 3 4
@@ -847,7 +847,7 @@ shuju 8
 shujuku 1
 shuliang 1
 shunxu 11
-shuo 2
+shuo 3
 shuoming 18
 shuping 8
 shuru 11
@@ -1096,7 +1096,7 @@ yinggai 2
 yingjian 1
 yingjie 1
 yingwei 1
-yingwen 2
+yingwen 3
 yingxiang 4
 yingyong 6
 yingyu 1
@@ -1129,7 +1129,7 @@ yizhi 11
 yizhuo 5
 yizu 1
 yo 2
-yong 6 2
+yong 7 2
 yongdao 2
 yongfa 2
 yonghu 30
@@ -1176,7 +1176,7 @@ zanwei 1
 zanwu 1
 zao 1 1
 ze 28
-zenme 2
+zenme 3
 zhan 2 2 1
 zhanshi 76
 zhanwei 1
