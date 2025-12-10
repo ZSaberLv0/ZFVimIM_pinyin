@@ -463,7 +463,7 @@ jiaohu 8
 jiaoshi 1
 jiaoyan 3
 jiaru 2 1
-jiasu 2
+jiasu 3
 jiazai 6
 jichu 5
 jid 1
@@ -1005,7 +1005,7 @@ xiangsi 1
 xiangtong 23
 xiangxi 1
 xiangying 1
-xianka 5
+xianka 6
 xianshi 10
 xianxiang 4
 xianyan 5 1
