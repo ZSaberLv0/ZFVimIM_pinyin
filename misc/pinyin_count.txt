@@ -949,7 +949,7 @@ wasm 1
 wawenti 4
 wayixia 1
 wei 101 5 1
-weichi 2
+weichi 3
 weigui 5
 weihu 1
 weikong 5
@@ -1152,7 +1152,7 @@ yuandian 3
 yuanshi 2
 yuansu 16
 yuanxing 2 1
-yuanyang 1
+yuanyang 2
 yuanyin 4
 yuanzhuang 1
 yudingyi 2
