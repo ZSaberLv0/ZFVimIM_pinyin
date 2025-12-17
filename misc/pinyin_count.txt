@@ -772,7 +772,7 @@ saoma 1
 se 3
 sha 3 2
 shan 1
-shanchu 22
+shanchu 23
 shang 19
 shangbanshen 2
 shangbao 7
