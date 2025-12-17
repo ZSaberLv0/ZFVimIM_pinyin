@@ -189,7 +189,7 @@ dao 59
 daoda 2
 daxiao 1
 daxie 1
-dayin 3
+dayin 4
 dayu 1
 de 7 1
 deng 32
@@ -762,7 +762,7 @@ rouruo 1
 ru 1
 ruan 5
 ruguo 18
-ruhe 127
+ruhe 128
 rukou 3
 ruo 33 1
 ruogan 1
@@ -897,7 +897,7 @@ tianxie 2
 tiao 1
 tiaojian 2
 tiaopi 2
-tiaoshi 6
+tiaoshi 7
 tiaowu 1
 tiaozheng 5
 tiaozhuan 16
@@ -1045,7 +1045,7 @@ xingweijun 1
 xingzhuang 1
 xinjian 1
 xinwen 4
-xinxi 29
+xinxi 30
 xinzeng 9
 xinzengxinzeng 1
 xiong 1
