@@ -114,7 +114,7 @@ cengji 1
 ceshi 21
 cha 2 2
 chajian 4
-chakan 5
+chakan 6
 chan 1
 chang 3 1
 changdu 4
@@ -544,7 +544,7 @@ kejian 2
 keneng 26
 kexuan 3
 kexue 1
-keyong 1
+keyong 2
 kong 22
 kongge 3
 kongjian 13
@@ -645,7 +645,7 @@ naxie 5
 ne 2
 nei 9
 neibu 3
-neicun 6
+neicun 7
 neirong 93
 neizhi 6
 neng 7
@@ -1050,7 +1050,7 @@ xinzeng 9
 xinzengxinzeng 1
 xiong 1
 xishu 1
-xitong 4
+xitong 5
 xiu 3
 xiufu 6
 xiugai 32
