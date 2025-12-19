@@ -150,6 +150,7 @@ chuan 3 3
 chuandi 4
 chuangjian 11
 chuangkou 7
+chuankou 1
 chuanxing 2
 chufa 7
 chufaqi 22
@@ -157,7 +158,7 @@ chule 2
 chuli 40
 chumo 1
 chun 1
-chuping 2 3
+chuping 4 2
 chushi 4
 chuxian 18
 chuzhong 1
@@ -288,7 +289,7 @@ faxian 5
 fei 93
 feichang 5
 feifeichang 1
-fen 2 1
+fen 3 1
 fenbianlv 4
 fenbie 3
 feng 3 1
@@ -550,7 +551,7 @@ kong 22
 kongge 3
 kongjian 13
 kongzhi 21
-kou 2 1
+kou 2 2
 ku 4
 kuai 1
 kuan 1

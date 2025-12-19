@@ -656,6 +656,7 @@ chuangye 创业
 chuangyi 创意
 chuangzao 创造
 chuangzuo 创作
+chuankou 串口
 chuanmei 传媒
 chuanru 传入
 chuanshu 传输
@@ -693,7 +694,7 @@ chunqing 纯情
 chuo 戳 绰 啜 辍 踔 龊 促 吷 嚽 娕 娖 婥 婼 孎 惙 拺 擉 斫 歠 涰 淖 焯 磭 箹 簇 綴 綽 繛 缀 腏 荃 蔟 趠 趵 跿 踱 躇 輟 辵 辶 逴 酫 醛 鋜 錣 鏃 鑡 镞 齪 齱
 chuohao 绰号
 chupiao 出票
-chuping 初评 触屏
+chuping 触屏 初评
 chuqi 初期
 chuqian 出钱
 chuqu 出去
