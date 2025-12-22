@@ -71,7 +71,7 @@ bo 8
 bofang 68
 bokong 5
 bowan 7
-bu 93 1
+bu 94 1
 budao 2
 buduan 4
 bufen 5
@@ -1282,7 +1282,7 @@ zuihou 2
 zuijin 1
 zuixin 4
 zuizhong 4
-zuo 11 5
+zuo 12 6
 zuoce 2
 zuoshangjiao 2
 zuowei 10
