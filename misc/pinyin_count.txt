@@ -203,7 +203,7 @@ dezhi 5
 di 2
 dian 5
 diange 4
-diangeping 20
+diangeping 22
 dianji 3
 diannao 1
 dianshi 3
@@ -274,7 +274,7 @@ fangan 3
 fangda 1
 fangdou 1
 fangmian 1
-fangshi 35
+fangshi 36
 fangwen 9
 fangxiang 2
 fangzhi 2
@@ -283,7 +283,7 @@ fanhuizhi 3
 fanshe 1
 fanwei 3
 fanyi 3
-faqi 30
+faqi 31
 fasheng 3
 fasong 25
 faxian 5
@@ -600,7 +600,7 @@ luewei 1
 lujing 33
 lun 1
 luo 1
-luoji 34
+luoji 35
 lv 1 1
 ma 2 2
 malv 3
@@ -675,7 +675,7 @@ paochu 1
 pei 1
 peihe 2
 peitao 1
-peizhi 208
+peizhi 209
 peng 1
 pengdao 7
 pengyou 1
@@ -701,7 +701,7 @@ qiangzhi 2
 qianhou 1
 qianmian 1
 qianru 1
-qianyi 3
+qianyi 4
 qidong 40
 qie 9 6
 qiege 3
@@ -833,7 +833,7 @@ shipin 126
 shishi 1 1
 shitu 19
 shiwei 3
-shixian 36
+shixian 37
 shiyi 2
 shiyong 81
 shou 5 1
@@ -1218,7 +1218,7 @@ zhexie 1
 zhezhebian 1
 zhezhezhong 1
 zhezhong 5
-zhi 57 17
+zhi 57 17 1
 zhichi 98
 zhidao 3
 zhiding 90
