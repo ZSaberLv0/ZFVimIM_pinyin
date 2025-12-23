@@ -4061,6 +4061,7 @@ shanghai 上海
 shanghe 上和
 shangji 上级 商机 上机
 shangjia 商家 上架
+shangjishangjia 上级商家
 shangjun 尚俊 熵均
 shangkan 上看
 shangke 上课 尚可 商科
