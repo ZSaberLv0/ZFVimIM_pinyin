@@ -346,7 +346,7 @@ gengjia 6
 gengxin 43
 genju 17
 gequ 55
-geshi 37
+geshi 38
 geshihua 2
 geshu 3
 gete 1
@@ -777,7 +777,7 @@ se 3
 sha 3 2
 shan 1
 shanchu 23
-shang 19
+shang 20
 shangbanshen 2
 shangbao 7
 shangchuan 1
@@ -959,7 +959,7 @@ wanzheng 12
 wasm 1
 wawenti 4
 wayixia 1
-wei 105 5 1
+wei 106 5 1
 weichi 4
 weigui 5
 weihu 1
@@ -994,7 +994,7 @@ wuxiao 10
 wuxu 2
 wuyiyi 1
 xi 2
-xia 72
+xia 73
 xiaci 2
 xiafang 11
 xiamen 10
@@ -1147,7 +1147,7 @@ yongdao 2
 yongfa 2
 yonghu 30
 yongyu 23
-you 37 38 14 1
+you 38 38 14 1
 youbian 1 2
 youce 1
 youjian 1
@@ -1283,7 +1283,7 @@ zuihou 2
 zuijin 1
 zuixin 4
 zuizhong 4
-zuo 12 6
+zuo 13 6
 zuoce 2
 zuoshangjiao 2
 zuowei 10
