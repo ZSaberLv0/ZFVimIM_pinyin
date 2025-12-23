@@ -6420,6 +6420,7 @@ zhuashou 抓手
 zhuazhu 抓住
 zhuban 主板
 zhubo 主播
+zhubu 逐步
 zhuce 注册
 zhuceng 逐层
 zhucheng 筑城
