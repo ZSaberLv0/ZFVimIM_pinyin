@@ -204,7 +204,7 @@ dezhi 5
 di 2
 dian 5
 diange 4
-diangeping 25
+diangeping 26
 dianji 3
 diannao 1
 dianshi 3
@@ -1012,7 +1012,7 @@ xiangdangyu 1
 xiangdui 6
 xiangduiyu 6
 xiangge 1
-xiangguan 18
+xiangguan 19
 xiangjian 1
 xiangmu 46
 xiangqing 1
@@ -1041,7 +1041,7 @@ xie 7
 xieru 2
 xiesi 2
 xietiao 1
-xieyi 38
+xieyi 39
 xiha 1
 xin 13
 xinbanben 1
