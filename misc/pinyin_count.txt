@@ -461,7 +461,7 @@ jianxiao 1
 jianyao 3
 jianyi 18
 jiao 2
-jiaoben 34
+jiaoben 35
 jiaocha 1
 jiaochang 1
 jiaodu 1
@@ -512,7 +512,7 @@ jintian 2
 jinxing 21
 jinyong 12
 jishi 2
-jisuan 2
+jisuan 4
 jiu 9 5 2 3
 jiuban 1
 jiuhui 2
@@ -768,7 +768,7 @@ rouruo 1
 ru 1
 ruan 5
 ruguo 18
-ruhe 128
+ruhe 130
 rukou 3
 ruo 35 1
 ruogan 1
@@ -1098,7 +1098,7 @@ yiding 2
 yidong 16
 yifen 1
 yige 70
-yihuo 1
+yihuo 3
 yiji 3 3
 yijian 1
 yijing 4
@@ -1241,12 +1241,12 @@ zhineng 2 2
 zhiqian 15
 zhishao 2
 zhixiang 1
-zhixing 23
+zhixing 24
 zhiyao 3
 zhiye 1
 zhiyou 4
 zhizhen 4
-zhong 116
+zhong 118
 zhongjian 1
 zhongyang 1
 zhou 3
