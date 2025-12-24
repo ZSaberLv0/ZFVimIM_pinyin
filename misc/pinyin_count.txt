@@ -1249,7 +1249,7 @@ zhizhen 4
 zhong 118
 zhongjian 1
 zhongyang 1
-zhou 6
+zhou 7
 zhouqi 8
 zhu 9 1 1
 zhuan 13
