@@ -428,7 +428,7 @@ huidiao 14
 huifu 23 13
 huizhi 11
 hujiao 14
-hulue 15
+hulue 16
 hunan 4
 huo 45
 huode 2
@@ -620,7 +620,7 @@ miao 13
 miaosha 1
 miaoshu 4 3
 mima 1
-ming 22
+ming 23
 mingling 36
 mingming 3
 mingque 15
@@ -640,7 +640,7 @@ mowei 3
 moxing 6
 mubiao 10
 mudi 1
-mulu 100
+mulu 101
 muqian 9
 n 4
 na 1 1
@@ -768,7 +768,7 @@ rouruo 1
 ru 1
 ruan 5
 ruguo 18
-ruhe 130
+ruhe 131
 rukou 3
 ruo 35 1
 ruogan 1
@@ -1231,7 +1231,7 @@ zhezhong 5
 zhi 57 17 1
 zhichi 98
 zhidao 3
-zhiding 90
+zhiding 91
 zhihe 1
 zhihou 11
 zhihui 1
