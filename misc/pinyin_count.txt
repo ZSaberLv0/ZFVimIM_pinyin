@@ -27,7 +27,7 @@ baoliu 4
 baomu 1
 baoxiang 2
 baozheng 1
-bei 26 1
+bei 27 1
 beifen 1
 beijing 13
 beizhu 17
@@ -412,7 +412,7 @@ houduan 11
 houmian 1
 houtai 12
 houxu 7
-hu 2
+hu 3
 hua 3 1
 huancun 4
 huanhang 1
@@ -814,7 +814,7 @@ shenhe 28
 shenme 1
 shenqing 1
 shenti 1
-shenzhen 2
+shenzhen 3
 shenzhi 1
 shewei 3
 shezhi 10
