@@ -273,7 +273,7 @@ ewai 11
 fa 11
 fachu 1
 fagei 4
-fang 5 6 2
+fang 5 6 3
 fangan 3
 fangda 1
 fangdou 1
@@ -352,7 +352,7 @@ genju 19
 gequ 55
 geshi 40
 geshihua 3
-geshu 3
+geshu 4
 gete 1
 gexing 5
 gezhong 6
@@ -580,7 +580,7 @@ leisi 3
 leixing 22
 lian 4
 liandong 16
-liang 4
+liang 4 1
 liangbei 1
 liangge 2
 liangzhong 1
@@ -1029,6 +1029,7 @@ xianka 6
 xianshi 12
 xianxiang 4
 xianyan 5 1
+xianzhi 1
 xiao 18
 xiaochengxu 2
 xiaoguo 12
@@ -1098,7 +1099,7 @@ yichang 8
 yichu 1
 yichuan 1
 yici 13
-yidian 37
+yidian 38
 yiding 2
 yidong 16
 yifen 1
