@@ -106,7 +106,7 @@ caihui 3
 caijian 4
 caineng 5
 can 1
-canjian 28
+canjian 29
 cankao 2
 canshu 62
 canzhao 3
@@ -350,7 +350,7 @@ gengjia 6
 gengxin 43
 genju 19
 gequ 55
-geshi 39
+geshi 40
 geshihua 3
 geshu 3
 gete 1
@@ -439,7 +439,7 @@ huoqu 22
 huozhe 4
 huqi 2
 hushi 1
-ji 29 3
+ji 30 3
 jia 6
 jiading 1
 jiage 1
@@ -540,7 +540,7 @@ kaiguan 2
 kaiji 6
 kailang 2
 kaiqi 3
-kaishi 92
+kaishi 93
 kaixin 1
 kaizhi 1
 kakeneng 2
@@ -865,12 +865,12 @@ shujuku 1
 shuliang 1
 shunxu 12
 shuo 3
-shuoming 18
+shuoming 19
 shuping 9
 shuru 11
 shuxing 8
 shuyu 1
-shuzhi 5
+shuzhi 6
 shuzi 11
 shuziren 1
 shuzu 22
@@ -1237,7 +1237,7 @@ zhezhebian 1
 zhezhezhong 1
 zhezhong 5
 zhi 57 17 1
-zhichi 101
+zhichi 102
 zhidao 3
 zhiding 91
 zhihe 1
