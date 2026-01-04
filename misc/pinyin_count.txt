@@ -678,7 +678,7 @@ paochu 1
 pei 1
 peihe 2
 peitao 1
-peizhi 215
+peizhi 216
 peng 1
 pengdao 7
 pengyou 1
@@ -772,7 +772,7 @@ ruan 5
 ruguo 18
 ruhe 133
 rukou 3
-ruo 37 1
+ruo 38 1
 ruogan 1
 san 13
 sange 2
@@ -1158,7 +1158,7 @@ yongdao 2
 yongfa 2
 yonghu 30
 yongyu 23
-you 39 39 14 1
+you 40 40 14 1
 youbian 1 2
 youce 1
 youdai 1
@@ -1205,7 +1205,7 @@ zanwei 1
 zanwu 1
 zao 1 1
 zaocheng 1
-ze 30
+ze 31
 zenme 3
 zhan 2 2 1
 zhanshi 78
