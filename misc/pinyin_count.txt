@@ -248,7 +248,7 @@ dui 12
 duihua 1
 duihuakuang 3
 duijie 3
-duixiang 13
+duixiang 15
 duiying 33
 duiyu 22
 duli 2
