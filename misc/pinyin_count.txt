@@ -83,7 +83,7 @@ buhui 7
 buhuo 1
 bujian 2
 buju 1
-buneng 5
+buneng 6
 buquan 4
 bushou 1
 butian 2
@@ -129,7 +129,7 @@ changyong 3
 changzhu 1
 chansheng 2
 chao 3 1
-chaoguo 6
+chaoguo 7
 charu 8
 chaxun 42
 chayi 3
@@ -461,7 +461,7 @@ jianshao 3
 jianting 2
 jianxiao 1
 jianyao 3
-jianyi 18
+jianyi 19
 jiao 2
 jiaoben 35
 jiaocha 1
