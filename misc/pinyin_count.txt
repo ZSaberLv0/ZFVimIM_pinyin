@@ -137,7 +137,7 @@ charu 8
 chaxun 42
 chayi 5
 chazhao 8
-cheng 3 2
+cheng 4 2
 chenggong 18
 chengshu 4
 chengxu 11
@@ -180,7 +180,7 @@ cunzai 18
 cuo 1
 cuowu 10
 d 630
-da 12
+da 13 1
 dabao 2
 dai 14
 daibiao 2
@@ -197,6 +197,7 @@ danshi 8
 danwei 6
 dao 71
 daoda 2
+dasao 1
 daxiao 1
 daxiaoxie 1
 daxie 1
@@ -260,7 +261,7 @@ duixiang 15
 duiying 33
 duiyu 22
 duli 2
-duo 11
+duo 12
 duoci 2
 duoge 14
 duoshao 2
@@ -345,7 +346,7 @@ gaoqing 3
 gaoyu 2
 gaozhong 2
 gayige 1
-ge 21 7 5 1
+ge 21 7 7 1
 gedan 33
 geduan 3
 gege 1
@@ -678,6 +679,7 @@ nenggou 15
 nengli 2
 ng 5
 ni 10
+nian 1
 nicheng 1
 nihao 5
 niming 1
@@ -768,6 +770,7 @@ ranrenwu 1
 raocheng 1
 raoguo 1
 re 2
+ren 1 1
 reng 4
 rengong 5
 rengongrengong 1
@@ -791,8 +794,10 @@ ruhe 133
 rukou 3
 ruo 42 1
 ruogan 1
+sai 1
 san 13
 sange 2
+sao 2
 saoma 2
 se 3
 sha 3 2
@@ -839,11 +844,11 @@ shewei 3
 shezhi 10
 shi 152 41 10 6
 shibai 9
-shibie 1
+shibie 3
 shichang 5
 shidian 3
 shiduan 4
-shifou 63
+shifou 64
 shih 3
 shihe 1
 shiji 10 1
@@ -984,7 +989,7 @@ wanzheng 12
 wasm 1
 wawenti 5
 wayixia 1
-wei 111 5 1
+wei 111 6 1
 weichi 4
 weigui 5
 weihu 1
@@ -1058,7 +1063,7 @@ xiayishou 4
 xiazai 8
 xiazhai 1
 xichengxu 1
-xie 7
+xie 8
 xieru 2
 xiesi 2
 xietiao 1
@@ -1108,7 +1113,7 @@ yehui 3
 yemian 25
 yewu 25
 yeyao 1
-yi 11 6 7 5
+yi 12 6 7 5
 yiban 3
 yichang 8
 yichu 1
@@ -1312,7 +1317,7 @@ zishen 2
 zixing 5
 zixun 3
 ziyuan 7
-zizhu 10 7
+zizhu 11 7
 zong 5
 zongjie 14
 zou 1 1
