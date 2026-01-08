@@ -19,7 +19,7 @@ banbenhao 6
 bangding 4
 bangdingma 2
 bangwo 5
-bao 1 1
+bao 2 1
 baochi 2
 baocun 18
 baocuo 8
@@ -156,6 +156,7 @@ chuan 3 3
 chuandi 4
 chuangjian 11
 chuangkou 7
+chuangxin 1
 chuankou 1
 chuanxing 2
 chufa 7
@@ -682,7 +683,7 @@ nihao 5
 niming 1
 nv 5
 nvpu 1
-o 6
+o 7
 ou 1
 pai 2 1
 paibu 7
@@ -1200,7 +1201,8 @@ yuanyang 3
 yuanyin 4
 yuanzhuang 1
 yudingyi 2
-yue 2 2
+yue 2 3
+yueba 1
 yueding 1
 yuedu 1
 yufa 1
