@@ -134,7 +134,7 @@ chansheng 2
 chao 3 1
 chaoguo 7
 charu 8
-chaxun 44
+chaxun 45
 chayi 5
 chazhao 8
 cheng 4 2
@@ -179,7 +179,7 @@ cunchu 3
 cunzai 18
 cuo 1
 cuowu 10
-d 631
+d 633
 da 13 1
 dabao 2
 dai 14
@@ -542,7 +542,7 @@ juhui 1
 jujue 1
 juli 2
 jun 4
-juti 7
+juti 8
 ka 3
 kai 2
 kaichang 8
@@ -1259,7 +1259,7 @@ zhexie 1
 zhezhebian 1
 zhezhezhong 1
 zhezhong 5
-zhi 59 19 1
+zhi 61 19 1
 zhichi 110
 zhidao 3
 zhiding 94
