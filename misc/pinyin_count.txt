@@ -162,7 +162,7 @@ chuanxing 2
 chufa 7
 chufaqi 22
 chule 2
-chuli 43
+chuli 44
 chumo 1
 chun 1
 chuping 4 2
@@ -223,7 +223,7 @@ dianxing 1
 dianyin 5
 dianzi 2
 diao 6
-diaoyong 23
+diaoyong 24
 dibu 1
 die 3
 diedai 2
@@ -496,7 +496,7 @@ jiegou 1
 jieguo 12
 jiejin 7
 jiejue 11
-jiekou 21
+jiekou 22
 jiemi 1
 jiemian 2
 jiequ 5
@@ -881,7 +881,7 @@ shuaxin 2
 shuchu 15
 shui 2
 shuju 8
-shujuku 1
+shujuku 2
 shuliang 1
 shunxu 13
 shuo 3
@@ -894,7 +894,7 @@ shuzhi 6
 shuzi 11
 shuziren 1
 shuzu 22
-si 4
+si 4 1
 sige 2
 sihu 1
 siji 1
@@ -907,7 +907,7 @@ su 2
 sucai 1
 sudu 3
 suiji 7
-suo 4 1 1 1
+suo 4 1 1 2
 suoding 13
 suofang 2
 suoxie 3
@@ -972,7 +972,7 @@ turan 1
 wa 7
 wai 9
 waibao 1
-waibu 7
+waibu 8
 waimao 1
 wan 1
 wancheng 4
