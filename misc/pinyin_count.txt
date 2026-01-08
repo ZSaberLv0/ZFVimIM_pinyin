@@ -793,7 +793,7 @@ se 3
 sha 3 2
 shan 1
 shanchu 23
-shang 21
+shang 23
 shangbanshen 2
 shangbao 7
 shangchuan 1
@@ -987,7 +987,7 @@ weikong 5
 weixin 1
 weiyi 8
 weiyu 4
-weizhi 26
+weizhi 27
 wen 6
 wenben 13
 wendang 4
@@ -1014,7 +1014,7 @@ wuxiao 10
 wuxu 2
 wuyiyi 1
 xi 2
-xia 75
+xia 77
 xiaci 2
 xiafang 11
 xiamen 10
@@ -1171,7 +1171,7 @@ yongdao 2
 yongfa 2
 yonghu 30
 yongyu 23
-you 45 42 16 1
+you 47 42 16 1
 youbian 1 2
 youce 1
 youdai 1
@@ -1315,7 +1315,7 @@ zuihou 2
 zuijin 1
 zuixin 4
 zuizhong 4
-zuo 15 6
+zuo 17 6
 zuoce 2
 zuoshangjiao 2
 zuowei 10
