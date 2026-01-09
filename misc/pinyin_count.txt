@@ -195,7 +195,7 @@ dangqiandangqian 1
 danmu 3
 danshi 8
 danwei 6
-dao 71
+dao 72
 daoda 2
 dasao 1
 daxiao 1
@@ -360,7 +360,7 @@ gengxin 43
 genju 19
 gequ 55
 geshi 41
-geshihua 3
+geshihua 4
 geshu 4
 gete 1
 gexing 5
@@ -405,7 +405,7 @@ hanshu 18
 hao 5
 haode 1
 haoma 1
-haomiao 9
+haomiao 10
 haoshi 2
 he 90
 hebing 12
@@ -519,7 +519,7 @@ jindang 7
 jindu 7
 jing 1
 jingjian 1
-jingque 1
+jingque 2
 jingxiang 25
 jingxuan 1
 jinru 7
@@ -791,7 +791,7 @@ rouruo 1
 ru 1
 ruan 5
 ruguo 18
-ruhe 133
+ruhe 134
 rukou 3
 ruo 42 1
 ruogan 1
@@ -853,7 +853,7 @@ shifou 64
 shih 3
 shihe 1
 shiji 10 1
-shijian 24 7
+shijian 25 7
 shijianchuo 2
 shili 87
 shiliujinzhi 2
