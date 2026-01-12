@@ -1,4 +1,4 @@
-a 5
+a 7
 ai 3
 an 11
 ang 1
@@ -386,7 +386,7 @@ guanli 2
 guanyu 3
 guanzhu 2
 guding 27
-gufeng 2
+gufeng 3
 gui 2
 guize 28
 guizhou 1
@@ -1222,7 +1222,7 @@ yueba 1
 yueding 1
 yuedu 1
 yufa 1
-yujie 1
+yujie 2
 yuju 3
 yulan 1
 yun 5
