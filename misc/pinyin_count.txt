@@ -61,7 +61,7 @@ biaoti 1
 biaozhi 10
 biaozhun 1
 bibitian 1
-bijiao 4
+bijiao 5
 bili 10
 bing 52
 bingbu 1
@@ -276,6 +276,7 @@ er 2
 erci 1
 erciyuan 1
 erji 7
+erjinzhi 1
 ershi 2
 erwei 1
 erweima 19
@@ -603,7 +604,7 @@ lian 4
 liandong 16
 liang 4 1
 liangbei 1
-liangge 2
+liangge 3
 liangzhong 1
 lianjie 6
 liantiao 2
@@ -799,7 +800,7 @@ rouruo 1
 ru 1
 ruan 5
 ruguo 18
-ruhe 134
+ruhe 135
 rukou 3
 ruo 42 1
 ruogan 1
@@ -858,7 +859,7 @@ shibie 3
 shichang 5
 shidian 3
 shiduan 4
-shifou 64
+shifou 65
 shih 3
 shihe 1
 shiji 10 1
@@ -1014,7 +1015,7 @@ wendang 4
 wending 2
 wendingxing 3
 wenhao 1 1
-wenjian 93
+wenjian 94
 wenjianjia 5
 wenjianming 2
 wenrou 1
@@ -1052,7 +1053,7 @@ xiangjian 1
 xiangmu 46
 xiangqing 1
 xiangsi 1
-xiangtong 24
+xiangtong 25
 xiangxi 1
 xiangying 1
 xianka 6
