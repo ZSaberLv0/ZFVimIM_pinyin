@@ -633,10 +633,11 @@ malv 3
 man 4 2
 manzu 1
 mao 1
-mei 4 4 1
+mei 5 4 1 1
 meici 6
 meige 14 2
 meiguan 1
+meinv 1
 meiti 5
 meiyou 12
 mi 4
@@ -690,7 +691,7 @@ nian 1
 nicheng 1
 nihao 6
 niming 1
-nv 5
+nv 7
 nvpu 1
 o 7
 ou 1
@@ -746,7 +747,7 @@ qingkong 3
 qingkuang 11
 qingli 1
 qingqiu 5
-qipao 1
+qipao 2
 qiqita 1
 qita 19
 qiu 4 1
