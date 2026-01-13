@@ -180,7 +180,7 @@ cunchu 3
 cunzai 19
 cuo 1
 cuowu 10
-d 652
+d 653
 da 13 1
 dabao 2
 dai 14
@@ -411,7 +411,7 @@ haode 1
 haoma 1
 haomiao 10
 haoshi 2
-he 90
+he 91
 hebing 12
 hegui 4
 hei 4
@@ -762,7 +762,7 @@ quanju 5
 quanliang 1
 quanping 7
 quanxian 6
-qubie 14
+qubie 15
 quchu 1
 qudao 1
 quebao 2
