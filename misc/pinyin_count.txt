@@ -69,7 +69,7 @@ bingbubingqie 1
 bingqie 26
 biran 1
 biru 2
-bitian 88
+bitian 89
 bixu 8
 bo 8
 bofang 71
@@ -303,7 +303,7 @@ faqi 34
 fasheng 3
 fasong 25
 faxian 5
-fei 100
+fei 101
 feichang 5
 feifeichang 1
 fen 4 1
@@ -657,7 +657,7 @@ mo 9
 mohu 3
 mokuai 18
 moni 9
-moren 120
+moren 121
 morenzhi 1
 morenzhiwei 1
 moshi 20
