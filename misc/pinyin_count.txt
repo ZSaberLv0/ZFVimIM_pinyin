@@ -690,7 +690,7 @@ ng 5
 ni 10
 nian 1
 nicheng 1
-nihao 6
+nihao 7
 niming 1
 nv 7
 nvpu 1
