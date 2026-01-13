@@ -191,7 +191,7 @@ dakai 19
 dan 26 1
 dandu 1
 dang 4 2
-dangqian 160
+dangqian 161
 dangqiandangqian 1
 danmu 3
 danshi 8
@@ -364,7 +364,7 @@ genju 19
 gequ 55
 geshi 41
 geshihua 4
-geshu 4
+geshu 5
 gete 1
 gexing 5
 gezhong 6
@@ -452,7 +452,7 @@ hunan 4
 huo 47
 huode 2
 huodong 1
-huoqu 23
+huoqu 24
 huozhe 4
 huqi 2
 hushi 1
@@ -800,7 +800,7 @@ rouruo 1
 ru 1
 ruan 5
 ruguo 18
-ruhe 136
+ruhe 137
 rukou 3
 ruo 42 1
 ruogan 1
