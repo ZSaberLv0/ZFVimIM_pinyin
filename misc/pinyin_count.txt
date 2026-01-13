@@ -134,7 +134,7 @@ chansheng 2
 chao 3 1
 chaoguo 7
 charu 8
-chaxun 46
+chaxun 47
 chayi 5
 chazhao 8
 cheng 4 2
@@ -375,7 +375,7 @@ gongxi 1
 goucheng 1
 gua 2
 guan 9
-guanbi 8
+guanbi 9
 guandian 1
 guangbo 6
 guangdian 4
@@ -518,7 +518,7 @@ jieya 4
 jijiang 2
 jike 5
 jilu 4
-jin 66 1
+jin 67 1
 jincheng 14
 jindang 7
 jindu 7
@@ -557,7 +557,7 @@ kaifang 1 1
 kaiguan 2
 kaiji 7
 kailang 2
-kaiqi 3
+kaiqi 4
 kaishi 100
 kaixin 1
 kaizhi 1
@@ -657,7 +657,7 @@ mo 9
 mohu 3
 mokuai 18
 moni 9
-moren 119
+moren 120
 morenzhi 1
 morenzhiwei 1
 moshi 20
@@ -855,7 +855,7 @@ shewei 3
 shezhi 10
 shi 157 41 10 8
 shibai 9
-shibie 3
+shibie 4
 shichang 5
 shidian 3
 shiduan 4
@@ -1231,7 +1231,7 @@ yunxing 11
 yunxu 2
 yunying 1
 yuyan 2
-yuyin 2
+yuyin 3
 za 1
 zai 78 11
 zaibo 33
