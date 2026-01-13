@@ -748,7 +748,7 @@ qingkong 3
 qingkuang 11
 qingli 1
 qingqiu 5
-qipao 3
+qipao 4
 qiqita 1
 qita 19
 qiu 4 1
