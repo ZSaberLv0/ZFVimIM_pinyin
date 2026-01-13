@@ -249,7 +249,7 @@ dongman 1
 dongtai 1
 dou 31
 doudong 1
-douhao 7
+douhao 8
 doushi 4
 douyou 1
 du 4
@@ -310,7 +310,7 @@ fen 4 1
 fenbianlv 4
 fenbie 3
 feng 4 1 1
-fenge 7
+fenge 8
 fengge 3
 fengmian 2
 fenhao 1
