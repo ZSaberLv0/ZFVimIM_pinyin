@@ -5419,6 +5419,8 @@ xuanba 选拔
 xuanchuan 宣传
 xuande 选的
 xuanding 选定
+xuanfu 悬浮
+xuanfuchuang 悬浮窗
 xuanjiang 宣讲
 xuanke 选课
 xuanni 选呢
