@@ -507,7 +507,7 @@ jiemi 1
 jiemian 2
 jiequ 5
 jieru 1
-jieshao 10
+jieshao 11
 jieshi 63
 jieshou 2 1
 jieshu 20
@@ -689,7 +689,7 @@ nengfou 2
 nenggou 15
 nengli 2
 ng 5
-ni 10
+ni 11
 nian 1
 nicheng 1
 nihao 7
@@ -1183,7 +1183,7 @@ yishang 18
 yishou 5
 yisi 4 1
 yiwai 1
-yixia 81 5
+yixia 82 6
 yixie 6
 yiyang 4
 yiyou 3
@@ -1329,7 +1329,7 @@ zidong 42
 ziduan 65
 zifu 3
 zifuchuan 30
-ziji 7
+ziji 8
 zijie 1
 zimu 1 1
 zishen 2
