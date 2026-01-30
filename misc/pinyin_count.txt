@@ -370,7 +370,7 @@ genju 19
 gequ 57
 geshi 41
 geshihua 4
-geshu 5
+geshu 6
 gete 1
 gexing 5
 gezhong 6
@@ -462,7 +462,7 @@ hunan 4
 huo 50
 huode 2
 huodong 1
-huoqu 24
+huoqu 25
 huozhe 4
 huqi 2
 hushi 1
@@ -921,7 +921,7 @@ shuyu 1
 shuzhi 6
 shuzi 11
 shuziren 1
-shuzu 22
+shuzu 23
 si 4 1
 sige 2
 sihu 1
