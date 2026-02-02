@@ -200,7 +200,7 @@ dangqiandangqian 1
 danmu 3
 danshi 8
 danwei 6
-dao 77
+dao 78
 daoda 2
 dasao 1
 daxiao 1
@@ -340,7 +340,7 @@ fuwu 12
 fuza 1
 fuzhi 7 1
 ga 1
-gai 35 2
+gai 36 2
 gaibian 1
 gaidong 2
 gaikuo 3
@@ -719,7 +719,7 @@ paochu 1
 pei 1
 peihe 2
 peitao 1
-peizhi 223
+peizhi 224
 peng 1
 pengdao 7
 pengyou 1
@@ -747,7 +747,7 @@ qiangzhi 3
 qianhou 1
 qianmian 1
 qianru 1
-qianyi 4
+qianyi 5
 qidong 47
 qie 13 10
 qiege 9
@@ -888,7 +888,7 @@ shipin 139
 shishi 1 1
 shitu 19
 shiwei 5
-shixian 38
+shixian 39
 shiyi 2
 shiyong 86
 shou 6 1 1
@@ -1220,7 +1220,7 @@ yongdao 2
 yongfa 2
 yonghu 30
 yongyu 24
-you 54 44 16 2
+you 54 44 17 2
 youbian 1 2
 youce 1
 youdai 1
