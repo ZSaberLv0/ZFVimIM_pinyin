@@ -19,7 +19,7 @@ banbenhao 6
 bangding 4
 bangdingma 2
 bangwo 5
-bao 2 1
+bao 3 1
 baochi 2
 baocun 18
 baocuo 16
@@ -488,7 +488,7 @@ jianshao 4
 jianting 2
 jianxiao 1
 jianyao 3
-jianyi 20
+jianyi 21
 jiao 2
 jiaoben 35
 jiaocha 1
