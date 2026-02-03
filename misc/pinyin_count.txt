@@ -1295,6 +1295,7 @@ zhengque 3
 zhengxing 1
 zhengzai 2
 zhengze 4
+zhenlv 1
 zhexie 1
 zhezhebian 1
 zhezhezhong 1
