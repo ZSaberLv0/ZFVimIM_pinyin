@@ -76,7 +76,7 @@ bo 8
 bofang 74
 bokong 5
 bowan 8
-bu 102 1
+bu 104 1
 buchuan 1
 budao 3
 buding 1
@@ -126,7 +126,7 @@ cha 3 2
 chajian 4
 chakan 7
 chan 1
-chang 4 2
+chang 4 5
 changdu 4
 changjia 2
 changjian 2
@@ -135,8 +135,8 @@ changshi 15
 changyong 3
 changzhu 2
 chansheng 2
-chao 3 1
-chaoguo 7
+chao 5 1
+chaoguo 8
 charu 8
 chaxun 49
 chayi 6
@@ -328,7 +328,7 @@ fenxi 13
 fenzhi 1
 fenzhong 1
 fenzu 5
-fouze 10
+fouze 11
 fu 3
 fudai 1
 fugai 25
@@ -559,7 +559,8 @@ jujue 1
 juli 2
 jun 4
 juti 8
-ka 5
+ka 6
+kachang 1
 kai 2
 kaichang 8
 kaifa 1
@@ -577,7 +578,7 @@ kang 1
 ke 33
 kedu 1
 kejian 2
-keneng 37
+keneng 38
 kexuan 3
 kexue 1
 keyi 1
@@ -669,7 +670,7 @@ mo 9
 mohu 3
 mokuai 20
 moni 12
-moren 123
+moren 124
 morenzhi 1
 morenzhiwei 1
 moshi 20
@@ -693,7 +694,7 @@ ne 2
 nei 10
 neibu 3
 neicun 9
-neirong 100
+neirong 102
 neizhi 6
 neng 11
 nengfou 2
@@ -817,7 +818,7 @@ ruan 5
 ruguo 18
 ruhe 141
 rukou 3
-ruo 45 1
+ruo 47 1
 ruogan 1
 sa 1
 sai 1
@@ -832,7 +833,7 @@ shanchu 24
 shang 23
 shangbanshen 2
 shangbao 9
-shangchuan 6
+shangchuan 10
 shangci 1
 shangfan 1
 shangfang 3
@@ -870,7 +871,7 @@ shenzhi 1
 shewei 3
 shezhi 11
 shi 165 42 10 8
-shibai 12
+shibai 13
 shibie 8
 shichang 5
 shidian 3
@@ -1270,7 +1271,7 @@ zanwei 1
 zanwu 1
 zao 1 1
 zaocheng 1
-ze 31
+ze 33
 zenme 3
 zhan 2 2 1
 zhanshi 81
@@ -1307,7 +1308,7 @@ zhiding 94
 zhihe 1
 zhihou 11
 zhihui 2
-zhijie 21
+zhijie 22
 zhijizhijie 1
 zhineng 2 2
 zhiqian 17
@@ -1353,7 +1354,7 @@ ziduan 66
 zifu 3
 zifuchuan 32
 ziji 8
-zijie 1
+zijie 2
 zimu 1 1
 zishen 2
 zixing 6
