@@ -1132,7 +1132,7 @@ xu 6
 xuan 1
 xuanfu 2
 xuanfuchuang 1
-xuanxiang 3
+xuanxiang 4
 xuanze 1
 xuanzhuan 3
 xuesheng 1
@@ -1260,6 +1260,7 @@ yun 5
 yunxing 13
 yunxu 2
 yunying 1
+yushe 1
 yuyan 2
 yuyin 5
 za 1
