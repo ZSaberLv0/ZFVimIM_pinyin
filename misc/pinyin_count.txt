@@ -223,7 +223,7 @@ diangeping 30
 dianji 3
 diannao 1
 dianshi 3
-dianshiping 15
+dianshiping 16
 dianxing 1
 dianyin 6
 dianzi 2
