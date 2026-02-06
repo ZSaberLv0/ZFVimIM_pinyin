@@ -184,7 +184,7 @@ cunchu 4
 cunzai 19
 cuo 1
 cuowu 11
-d 672
+d 673
 da 13 1
 dabao 2
 dai 14
@@ -200,7 +200,7 @@ dangqiandangqian 1
 danmu 3
 danshi 8
 danwei 6
-dao 78
+dao 79
 daoda 2
 dasao 1
 daxiao 1
@@ -320,7 +320,7 @@ fenge 8
 fengge 3
 fengmian 2
 fenhao 1
-fenping 2
+fenping 3
 fense 3
 fenshu 1
 fenwei 8
@@ -448,7 +448,7 @@ huanjie 4
 huanjing 64
 huanmu 1
 huansuan 1
-hudong 42
+hudong 43
 hui 59 1 1
 huiche 2
 huidao 1
@@ -579,6 +579,8 @@ ke 33
 kedu 1
 kejian 2
 keneng 38
+kexing 1
+kexingxing 1
 kexuan 3
 kexue 1
 keyi 1
@@ -729,7 +731,7 @@ pie 1
 piliang 2
 pin 9 1
 pinfan 4
-ping 107
+ping 108
 pingban 2
 pingfen 1
 pingjun 5
@@ -1104,7 +1106,7 @@ xiha 1
 xin 16
 xinban 1
 xinbanben 4
-xing 10
+xing 11
 xinggan 7
 xingge 4
 xinghao 5
@@ -1141,7 +1143,7 @@ ya 3
 yan 2
 yanhou 1
 yanse 8
-yanzheng 2
+yanzheng 3
 yao 14
 yaoqiu 8
 ye 30 17
@@ -1212,7 +1214,7 @@ yiyang 4
 yiyou 3
 yizhang 4
 yizhen 1
-yizhi 12 1
+yizhi 12 1 1
 yizhuo 5
 yizu 1
 yo 3

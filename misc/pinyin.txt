@@ -2752,6 +2752,7 @@ kewai 课外
 kexi 可惜
 kexin 可信
 kexing 可行
+kexingxing 可行性
 kexuan 可选
 kexue 科学
 keyan 科研
