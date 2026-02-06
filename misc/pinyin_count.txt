@@ -219,7 +219,7 @@ dezhi 5
 di 2
 dian 5
 diange 4
-diangeping 27
+diangeping 28
 dianji 3
 diannao 1
 dianshi 3
