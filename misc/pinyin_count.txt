@@ -131,7 +131,7 @@ chang 4 5
 changdu 6
 changjia 2
 changjian 2
-changjing 69
+changjing 70
 changshi 15
 changyong 3
 changzhu 2
@@ -216,7 +216,7 @@ deng 38
 dengdai 1
 dengdao 1
 dengdeng 2
-dengguang 10
+dengguang 11
 dengjia 1
 dezhi 5
 di 2 1
@@ -251,7 +251,7 @@ diushi 2
 diyi 7
 diyici 2
 diyige 4
-dizhi 5
+dizhi 6
 donghua 7
 dongman 1
 dongtai 1
@@ -466,7 +466,7 @@ hunan 4
 huo 51
 huode 2
 huodong 1
-huoqu 30
+huoqu 31
 huozhe 4
 huqi 2
 hushi 1
@@ -1002,7 +1002,7 @@ tu 20
 tubiao 11
 tuichu 11
 tuijian 8
-tuisong 1
+tuisong 2
 tuo 1
 tuodong 5
 tupian 36
@@ -1016,6 +1016,7 @@ waimao 1
 wan 1
 wancheng 4
 wang 3
+wangguan 1
 wangluo 2
 wangsu 2
 wangye 2
@@ -1043,7 +1044,7 @@ wendang 4
 wending 2
 wendingxing 4
 wenhao 1 1
-wenjian 101
+wenjian 102
 wenjianjia 5
 wenjianming 2
 wenrou 1
