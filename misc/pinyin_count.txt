@@ -320,7 +320,7 @@ fenbianlv 4
 fenbie 3
 feng 4 1 1
 fenge 8
-fengge 4
+fengge 5
 fengmian 2
 fenhao 1
 fenping 3
@@ -485,7 +485,7 @@ jiang 32 1
 jiangdi 5
 jiange 4
 jianghui 1
-jiangzao 3
+jiangzao 4
 jianjie 4
 jianpan 2
 jianrong 2
@@ -753,7 +753,7 @@ qian 12
 qianduan 3
 qianfang 1
 qiangbi 17
-qiangdu 2
+qiangdu 3
 qiangli 1
 qiangzhi 3
 qianhou 1
