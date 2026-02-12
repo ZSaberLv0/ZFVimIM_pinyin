@@ -485,6 +485,7 @@ jiang 32 1
 jiangdi 5
 jiange 4
 jianghui 1
+jiangzao 3
 jianjie 4
 jianpan 2
 jianrong 2
@@ -596,7 +597,7 @@ kongzhi 22
 kou 2 2
 ku 6
 kua 1
-kuai 1
+kuai 1 1
 kuaisu 1
 kuan 7
 kuandu 3
@@ -677,7 +678,7 @@ mo 9
 mohu 3
 mokuai 20
 moni 12
-moren 125
+moren 126
 morenzhi 1
 morenzhiwei 1
 moshi 20
@@ -753,6 +754,7 @@ qianduan 3
 qianfang 1
 qiangbi 17
 qiangdu 2
+qiangli 1
 qiangzhi 3
 qianhou 1
 qianmian 1
@@ -768,6 +770,7 @@ qin 1
 qing 8 1
 qingba 5
 qingchu 2
+qingdu 1
 qingkan 2
 qingkong 3
 qingkuang 11
@@ -1055,7 +1058,7 @@ wenzhang 6
 wenzi 8
 wo 1
 wsm 2
-wu 28
+wu 29
 wufa 15
 wuguan 1
 wulun 2
@@ -1335,6 +1338,7 @@ zhiyou 4
 zhizhen 4
 zhong 122
 zhongdian 1
+zhongdu 1
 zhongjian 1
 zhongtu 2
 zhongyang 1

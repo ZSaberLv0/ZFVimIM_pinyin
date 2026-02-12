@@ -2226,6 +2226,7 @@ jiangxiang 奖项
 jiangxue 讲学
 jiangyao 将要
 jiangying 僵硬
+jiangzao 降噪
 jiangzuo 讲座
 jianhua 简化
 jianji 剪辑
