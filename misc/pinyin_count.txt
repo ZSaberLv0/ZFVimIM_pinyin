@@ -252,7 +252,7 @@ diyi 7
 diyici 2
 diyige 4
 dizhi 6
-donghua 7
+donghua 8
 dongman 1
 dongtai 1
 dou 32
@@ -320,7 +320,7 @@ fenbianlv 4
 fenbie 3
 feng 4 1 1
 fenge 8
-fengge 3
+fengge 4
 fengmian 2
 fenhao 1
 fenping 3
@@ -615,7 +615,7 @@ lang 1
 lanya 1
 lashen 1
 le 1 1
-lei 6
+lei 7
 leiming 1
 leisi 3
 leixing 22
@@ -678,7 +678,7 @@ mo 9
 mohu 3
 mokuai 20
 moni 12
-moren 126
+moren 127
 morenzhi 1
 morenzhiwei 1
 moshi 20
@@ -897,8 +897,9 @@ shijian 31 9
 shijianchuo 2
 shili 96
 shiliujinzhi 2
+shipai 1
 shipei 8
-shipin 139
+shipin 140
 shishi 1 1
 shitu 19
 shiwei 5
