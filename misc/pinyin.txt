@@ -776,7 +776,7 @@ cunchu 存储
 cundai 存贷
 cundang 存档
 cunfang 存放
-cunhuo 存货
+cunhuo 存货 存活
 cunpan 存盘
 cunqu 存取
 cunzai 存在
