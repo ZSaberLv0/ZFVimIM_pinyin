@@ -391,6 +391,7 @@ buzhou 步骤
 buzu 不足 补足
 buzuo 不做
 ca 擦 嚓 礤 傪 囃 拆 攃 橴 磣 礸 蔡 遪
+cabuwei 擦不为
 cai 才 猜 采 菜 财 材 彩 裁 蔡 踩 睬 倸 偲 啋 埰 婇 寀 戝 扐 採 揌 棌 綵 縩 纔 財 跴
 caice 猜测
 caida 财大
@@ -5766,6 +5767,7 @@ yisuo 一所
 yitao 一套
 yiti 一题
 yitian 一天
+yitiao 一条
 yituo 依托
 yiwai 意外 以外
 yiwancheng 已完成
