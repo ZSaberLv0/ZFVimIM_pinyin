@@ -1284,7 +1284,7 @@ fafang 发放
 fagei 发给
 fagui 发规 法规
 fahui 发挥 发回
-fahuo 发火
+fahuo 发火 发或
 fajue 发掘
 fakuan 罚款
 falai 发来
