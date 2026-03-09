@@ -201,7 +201,7 @@ dakai 20
 dan 30 1
 dandu 1
 dang 5 4
-dangqian 182
+dangqian 183
 dangqiandangqian 1
 dangzu 2
 dangzuo 1
@@ -370,18 +370,18 @@ gaoyu 2
 gaozhong 2
 gayige 1
 ge 21 7 7 1
-gedan 34
+gedan 35
 geduan 3
 gege 1
 gei 13
 geichu 2
 geng 3
 gengduo 1
-genggai 4 4
+genggai 5 4
 gengjia 6
 gengxin 44
-genju 20
-gequ 57
+genju 21
+gequ 58
 geshi 44
 geshihua 5
 geshu 6
@@ -688,7 +688,7 @@ miao 15
 miaosha 1
 miaoshu 6 5
 mima 1
-ming 24
+ming 26
 mingling 38
 mingming 3
 mingque 16
@@ -1163,7 +1163,7 @@ xishu 1
 xitong 6
 xiu 3
 xiufu 7
-xiugai 34
+xiugai 35
 xiwang 2
 xu 6
 xuan 1
@@ -1305,7 +1305,7 @@ yuyan 2
 yuyin 5
 za 1
 zai 88 11
-zaibo 33
+zaibo 34
 zaici 6
 zanbu 1
 zanshi 2
@@ -1395,7 +1395,7 @@ zhuyi 21
 zi 5 1
 zidian 1
 zidingyi 12
-zidong 44
+zidong 45
 ziduan 70
 zifu 3
 zifuchuan 41
