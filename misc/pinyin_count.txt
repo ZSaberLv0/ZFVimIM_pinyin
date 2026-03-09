@@ -303,7 +303,7 @@ ewai 12
 fa 16
 fachu 1
 fagei 4
-fang 5 6 3
+fang 6 7 3
 fangan 3
 fangda 1
 fangdou 1
@@ -403,6 +403,7 @@ guandian 1
 guangbo 7
 guangdian 4
 guanggao 1
+guangzhou 1
 guanjia 2
 guanjian 2
 guanka 4
@@ -710,7 +711,7 @@ mubiao 10
 mudi 1
 mulu 116
 muqian 9
-n 4
+n 5
 na 1 1
 nage 6
 nali 2
@@ -957,7 +958,7 @@ shuzhi 8
 shuzi 12
 shuziren 1
 shuzu 26
-si 4 1
+si 5 1
 sige 2
 sihu 1
 siji 1
