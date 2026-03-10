@@ -350,6 +350,7 @@ fuhe 1
 fulu 1
 fuping 16
 fuwu 12
+fuwuqi 1
 fuza 1
 fuzhi 7 1
 fuzhu 3
@@ -914,7 +915,7 @@ shifou 72
 shih 3
 shihe 1
 shiji 10 2
-shijian 33 11
+shijian 35 11
 shijianchuo 2
 shili 97
 shiliujinzhi 2
@@ -1114,6 +1115,7 @@ xiangxi 1
 xiangying 1
 xianka 9
 xianshi 13
+xianxia 1
 xianxiang 5
 xianyan 5 1
 xianzai 3
