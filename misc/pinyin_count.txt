@@ -438,7 +438,7 @@ hao 5
 haode 1
 haoma 1
 haomiao 13
-haoshi 2
+haoshi 4
 he 93
 hebing 12
 hegui 5
@@ -534,7 +534,7 @@ jiegou 1
 jieguo 12
 jiejin 7
 jiejue 11
-jiekou 23
+jiekou 24
 jiemi 1
 jiemian 4
 jiequ 6
@@ -1140,7 +1140,7 @@ xie 8
 xieru 2
 xiesi 2
 xietiao 1
-xieyi 43
+xieyi 44
 xiha 1
 xin 16
 xinban 1
