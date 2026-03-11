@@ -182,7 +182,7 @@ chushi 4
 chushihua 1
 chuxian 35
 chuzhong 1
-ci 8
+ci 9
 cichu 2
 cishi 6
 cishu 1
@@ -192,7 +192,7 @@ cunchu 4
 cunzai 19
 cuo 1
 cuowu 14
-d 695
+d 696
 da 13 1
 dabao 2
 dai 14
@@ -445,7 +445,7 @@ haomiao 13
 haoshi 4
 he 93
 hebing 12
-hegui 5
+hegui 6
 hei 8
 heise 3
 hejiu 1
@@ -457,7 +457,7 @@ henhao 1
 heshi 3
 hong 2
 hongse 2
-hou 52
+hou 53
 houduan 13
 houmian 1
 houtai 14
@@ -695,6 +695,7 @@ miaosha 1
 miaoshu 6 5
 mima 1
 ming 26
+mingan 1
 mingling 38
 mingming 3
 mingque 16
@@ -1009,7 +1010,7 @@ tiaozheng 6
 tiaozhuan 19
 tice 6
 tigong 8
-tihuan 18
+tihuan 20
 tijiao 3
 tinghao 2
 tingzhi 4
@@ -1065,7 +1066,7 @@ wanzheng 12
 wasm 1
 wawenti 5
 wayixia 1
-wei 119 10 1
+wei 120 10 1
 weichi 7
 weigui 5
 weihu 1
@@ -1075,7 +1076,7 @@ weiyi 8
 weiyu 4
 weizhi 28
 wen 6
-wenben 13
+wenben 14
 wendang 8
 wending 2
 wendingxing 4
@@ -1156,7 +1157,7 @@ xinbanben 4
 xing 11
 xinggan 7
 xingge 4
-xinghao 8
+xinghao 8 1
 xingneng 2
 xingwei 14
 xingweijun 1
