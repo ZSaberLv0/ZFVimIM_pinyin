@@ -327,7 +327,7 @@ feifeichang 1
 fen 4 1
 fenbianlv 4
 fenbie 3
-feng 4 1 1
+feng 4 2 1
 fenge 8
 fengge 5
 fengmian 2
@@ -363,8 +363,9 @@ gailv 10
 gaiwei 3
 gaizao 3
 gan 2
-gao 11
+gao 12
 gaodu 4
+gaofen 1
 gaoji 2
 gaoqing 5
 gaoyu 2
@@ -1018,7 +1019,7 @@ tongshi 7
 tongxun 12
 tongyi 6 4
 tongyige 7
-tongyong 2
+tongyong 3
 tongzhi 14
 tou 3 3
 touchu 1
@@ -1178,7 +1179,7 @@ xuanzhuan 3
 xuesheng 1
 xunhuan 5
 xuqiu 9
-xuyao 70
+xuyao 71
 ya 3
 yan 2
 yanhou 1
