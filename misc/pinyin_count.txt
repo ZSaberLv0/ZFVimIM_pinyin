@@ -382,7 +382,7 @@ genggai 5 4
 gengjia 6
 gengxin 44
 genju 21
-gequ 58
+gequ 59
 geshi 44
 geshihua 5
 geshu 6
@@ -481,7 +481,7 @@ hulue 17
 hunan 4
 huo 54
 huode 2
-huodong 1
+huodong 2
 huoqu 31
 huozhe 4
 huqi 2
@@ -560,6 +560,7 @@ jingjian 1
 jingque 4
 jingxiang 25
 jingxuan 1
+jinji 1
 jinru 7
 jintian 2
 jinxing 25
@@ -1029,7 +1030,7 @@ tu 21
 tubiao 11
 tuichu 13
 tuijian 8
-tuisong 2
+tuisong 3
 tuo 1
 tuodong 5
 tupian 36
