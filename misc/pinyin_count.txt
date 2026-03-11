@@ -638,7 +638,7 @@ lang 1
 lanjie 1
 lanya 1
 lashen 1
-le 1 1
+le 2 2
 lei 7
 leiming 1
 leisi 3
@@ -740,6 +740,8 @@ nian 1
 nicheng 1
 nihao 10
 niming 1
+niu 1
+niubi 1
 nv 7
 nvpu 1
 o 9
@@ -986,7 +988,7 @@ suoxu 5
 suoyin 1
 suoyou 38
 suozai 2
-tai 7 3
+tai 8 3
 tanchu 9
 tankuang 8
 te 2
@@ -1335,7 +1337,7 @@ zhaopianqiang 1
 zhe 5
 zhebian 7
 zhedang 2
-zhege 5
+zhege 6
 zhejiang 1
 zhen 3
 zhendong 1
