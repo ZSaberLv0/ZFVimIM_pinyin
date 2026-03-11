@@ -478,6 +478,7 @@ chabie 差别
 chabo 插播
 chabuduo 差不多
 chachaxun 查查询
+chachuangjian 查创建
 chacuo 差错
 chadian 茶点
 chaduo 差多
@@ -1537,6 +1538,7 @@ gaode 搞得
 gaodu 高度
 gaoer 高二
 gaofen 高分
+gaofengqi 高峰期
 gaohong 高红
 gaoji 高级
 gaokao 高考
