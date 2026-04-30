@@ -660,7 +660,7 @@ kaifang 5 3
 kaiguan 3
 kaiji 9
 kailang 2
-kaiqi 20
+kaiqi 21
 kaishi 134
 kaixin 1
 kaizhi 1
@@ -1111,7 +1111,7 @@ tiaochutiaoshi 1
 tiaojian 5
 tiaopei 1
 tiaopi 2
-tiaoshi 18
+tiaoshi 19
 tiaowu 2
 tiaozheng 12
 tiaozhuan 22
