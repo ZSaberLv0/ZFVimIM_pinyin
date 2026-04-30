@@ -3665,6 +3665,7 @@ pinlv 频率
 pinpai 品牌
 pinqing 聘请
 pinqiong 贫穷
+pinshan 频闪
 pinshu 聘书
 pinyin 拼音
 pipei 匹配

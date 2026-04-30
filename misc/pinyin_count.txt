@@ -716,6 +716,7 @@ lian 5
 liandong 23
 liang 4 2
 liangbei 1
+liangdu 1
 liangge 3
 liangzhong 1
 lianjie 7 2
@@ -846,7 +847,7 @@ pi 13
 pie 1
 pifu 3
 piliang 2
-pin 9 1
+pin 10 1
 pinfan 4
 ping 142
 pingban 2
@@ -858,6 +859,7 @@ pingtai 5
 pinjie 3
 pinlv 2
 pinpai 3
+pinshan 1
 pipei 28
 pu 1
 putong 23
@@ -960,7 +962,7 @@ sao 2
 saoma 2
 se 3
 sha 5 4
-shan 1
+shan 2
 shanchu 27
 shang 24 1
 shangbanshen 2
