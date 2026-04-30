@@ -47,7 +47,7 @@ benqi 1
 benshen 1
 benwen 1
 bi 1
-bian 6 2
+bian 7 2
 bianbianyuan 1
 biancheng 2
 biangeng 3
@@ -546,7 +546,7 @@ jiagehuo 1
 jiagou 3
 jiajian 1
 jiami 4
-jian 6
+jian 7
 jiance 3
 jiandan 2
 jiang 40 1
