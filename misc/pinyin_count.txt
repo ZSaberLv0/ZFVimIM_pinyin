@@ -134,7 +134,7 @@ caozuo 16
 ce 11
 ceng 5
 cengji 4
-ceshi 51
+ceshi 52
 cha 5 2
 chachuangjian 1
 chajian 4
@@ -244,7 +244,7 @@ deng 45
 dengdai 3
 dengdao 1
 dengdeng 2
-dengguang 33
+dengguang 34
 dengjia 1
 dengkong 10
 dezhi 5
@@ -1507,7 +1507,7 @@ zhihou 15
 zhihui 2
 zhijie 23
 zhijizhijie 1
-zhikong 9
+zhikong 10
 zhineng 2 2
 zhiqian 21
 zhishao 2
