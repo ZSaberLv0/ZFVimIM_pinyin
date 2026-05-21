@@ -214,7 +214,7 @@ cunchu 5
 cunzai 25
 cuo 1
 cuowu 14
-d 807
+d 808
 da 26 1
 dabao 3
 daduo 1
@@ -605,7 +605,7 @@ jiemi 1
 jiemian 4
 jiequ 6
 jieru 12
-jieshao 13
+jieshao 14
 jieshi 65
 jieshou 2 1
 jieshu 23
