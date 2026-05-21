@@ -253,7 +253,7 @@ dengguang 45
 dengjia 1
 dengkong 13
 dezhi 5
-di 2 3
+di 4 2
 dian 13
 diange 8
 diangeping 44
@@ -815,7 +815,7 @@ naxie 6
 ne 2
 nei 14
 neibu 5
-neicun 12
+neicun 13
 neihe 1
 neirong 112
 neiwang 1
