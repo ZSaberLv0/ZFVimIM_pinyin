@@ -248,7 +248,7 @@ deng 47
 dengdai 3
 dengdao 1
 dengdeng 2
-dengguang 44
+dengguang 45
 dengjia 1
 dengkong 13
 dezhi 5
@@ -359,7 +359,7 @@ feifeichang 1
 fen 4 1
 fenbianlv 5
 fenbie 3
-fenduan 13
+fenduan 14
 fenduanshi 3
 feng 4 3 2
 fenge 9
@@ -691,7 +691,7 @@ kongge 3
 kongjian 13
 kongzhi 25
 kou 2 2
-ku 15
+ku 16
 kua 2
 kuai 1 1
 kuaisu 2
@@ -917,7 +917,7 @@ quanliang 1
 quanping 7
 quanxian 6
 qubie 15
-quchu 4
+quchu 5
 qudao 1
 quebao 4
 queding 3
@@ -1013,7 +1013,7 @@ shenzhen 3
 shenzhi 1
 shewei 6
 shezhi 20
-shi 222 51 25 10
+shi 222 51 26 10
 shibai 15
 shibie 14
 shichang 9 1
@@ -1336,7 +1336,7 @@ yemian 29
 yewu 40
 yewufang 1
 yeyao 1
-yi 26 16 9 7
+yi 27 16 9 7
 yiban 3
 yibian 2
 yichang 15
@@ -1470,7 +1470,7 @@ zaibo 38
 zaici 9
 zan 2
 zanbu 1
-zanshi 2
+zanshi 3
 zanting 12
 zanwei 3
 zanwu 1
