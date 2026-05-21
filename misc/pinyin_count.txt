@@ -79,7 +79,7 @@ bitian 117
 bixu 12
 bo 11
 bofang 80
-bofangqi 9
+bofangqi 10
 bokong 6
 bowan 8
 bu 122 1
@@ -929,7 +929,7 @@ qufeng 68
 quku 1
 qumu 1
 quxian 1
-quxiao 5
+quxiao 6
 quyu 23
 quzhi 1
 ran 1
@@ -1041,7 +1041,7 @@ shixu 1 1
 shiyan 2
 shiyanshi 1
 shiyi 7
-shiyong 95
+shiyong 96
 shou 7 1 1
 shoubi 1
 shouci 4
@@ -1305,7 +1305,7 @@ xinzengxinzeng 1
 xinzengzhichi 1
 xiong 1
 xishu 1
-xitong 12
+xitong 13
 xiu 3
 xiufu 26
 xiugai 42
