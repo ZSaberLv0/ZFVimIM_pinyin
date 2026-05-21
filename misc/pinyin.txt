@@ -1766,6 +1766,7 @@ guhua 固化
 guhui 顾惠
 gui 规 归 贵 鬼 桂 跪 柜 轨 瑰 诡 刽 龟 硅 闺 皈 傀 癸 圭 晷 簋 妫 鲑 匦 庋 宄 炔 刿 桧 炅 鳜 亀 伪 佹 偽 僞 劊 劌 匭 匮 匱 厬 哇 垝 姽 娃 媯 嫢 嬀 嶡 嶲 巂 帰 庪 廆 恑 摫 撌 攰 攱 昋 朹 桅 椝 椢 概 槣 槶 槻 槼 檜 櫃 櫰 櫷 歸 氿 沩 洼 湀 溎 潙 珪 璝 瓌 癐 瞆 瞡 瞶 硊 祈 祪 禬 窐 筀 簂 絵 繪 绘 胿 膭 茥 蓕 蘬 蛫 螝 蟡 袿 襘 規 觖 觤 詭 謉 貴 赽 趹 蹶 軌 邽 郌 閨 陒 隗 雟 鞼 騩 鬶 鬹 鮭 鱖 鱥 鳺 鴂 鴃 龜
 guicheng 规程
+guichu 鬼畜
 guideng 桂等
 guiding 规定
 guifan 规范
@@ -2984,6 +2985,7 @@ liaotian 聊天
 libao 礼包
 libi 李必
 libin 李斌
+licheng 历程
 lici 历次
 lide 里的
 lidu 力度
@@ -4697,6 +4699,7 @@ tiaozhan 挑战
 tiaozheng 调整
 tiaozhuan 跳转
 tiban 题板
+ticai 题材
 ticao 体操
 tice 提测
 tichu 提出
