@@ -1176,6 +1176,7 @@ tongdian 1 1
 tongguo 60
 tongji 9
 tongli 1
+tonglu 1
 tongshi 10
 tongxun 12
 tongyi 7 4
@@ -1561,7 +1562,7 @@ zhezhebian 1
 zhezhezhong 1
 zhezhong 6
 zhi 81 23 1
-zhichi 211
+zhichi 212
 zhida 1
 zhidao 4
 zhiding 105
@@ -1572,6 +1573,7 @@ zhihui 2
 zhijie 27
 zhijizhijie 1
 zhikong 15
+zhilian 1
 zhiling 1
 zhineng 2 2
 zhiqian 23
