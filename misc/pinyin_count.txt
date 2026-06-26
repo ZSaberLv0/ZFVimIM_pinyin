@@ -443,7 +443,7 @@ genghao 1
 gengjia 6
 gengxin 76
 genju 27
-gequ 76
+gequ 77
 geshi 51
 geshihua 5
 geshu 7
@@ -901,7 +901,7 @@ pinpai 3
 pinshan 3
 pipei 33
 pu 1
-putong 24
+putong 25
 qi 5 3
 qian 14
 qianduan 3
