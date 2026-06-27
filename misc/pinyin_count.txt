@@ -1158,7 +1158,7 @@ tiaopei 1
 tiaopi 2
 tiaoshi 31
 tiaowu 2
-tiaozheng 23
+tiaozheng 24
 tiaozhuan 22
 ticai 1
 tice 6
@@ -1321,7 +1321,7 @@ xiesi 2
 xietiao 1
 xieyi 60
 xiha 1
-xijie 12
+xijie 13
 xin 20
 xinban 1
 xinbanben 4
