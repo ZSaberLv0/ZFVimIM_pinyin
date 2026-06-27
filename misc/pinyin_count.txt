@@ -152,7 +152,7 @@ chang 5 5
 changdu 6
 changjia 3 1
 changjian 3
-changjing 90
+changjing 91
 changqi 2
 changshang 2
 changshi 19
@@ -550,7 +550,7 @@ hui 72 1 1
 huiche 2
 huidao 1
 huidiao 17
-huifu 37 27
+huifu 38 27
 huigui 1
 huitui 2
 huizhi 14
@@ -820,7 +820,7 @@ mohu 3
 mokuai 33
 momokuai 2
 moni 14
-moren 156
+moren 157
 morenzhi 1
 morenzhiwei 1
 moshi 24
@@ -1046,7 +1046,7 @@ shenzhen 3
 shenzhi 1
 shewei 6
 shezhi 21
-shi 234 51 27 10
+shi 235 51 27 10
 shibai 16
 shibie 14
 shichang 9 1
@@ -1193,7 +1193,7 @@ touxiang 1
 tu 26
 tuandui 1
 tubiao 11
-tuichu 16
+tuichu 17
 tuijian 9
 tuijin 1
 tuisong 11
