@@ -93,6 +93,7 @@ buding 1
 buduan 5
 budui 4
 bufen 10
+buguan 1
 buguo 1
 buhan 7
 buhui 12
@@ -198,7 +199,7 @@ chuangyi 2
 chuankou 1
 chuanru 1
 chuanxing 2
-chufa 13
+chufa 14
 chufaqi 25
 chufei 1
 chule 2
@@ -303,7 +304,7 @@ donggan 2
 donghua 9
 dongman 1
 dongtai 3
-dou 40
+dou 41
 doudong 1
 douhao 9
 doushi 4
@@ -441,7 +442,7 @@ gengduo 4
 genggai 5 4
 genghao 1
 gengjia 6
-gengxin 76
+gengxin 77
 genju 27
 gequ 77
 geshi 51
@@ -464,7 +465,7 @@ guan 10
 guanbi 16
 guancha 1
 guandian 1
-guangbo 10
+guangbo 11
 guangdian 4
 guanggao 1
 guangzhou 1
@@ -876,7 +877,7 @@ paochu 1
 pei 2
 peihe 3
 peitao 1
-peizhi 281
+peizhi 282
 peng 1
 pengdao 7
 pengyou 1
@@ -1052,10 +1053,10 @@ shibie 14
 shichang 9 1
 shidian 5
 shiduan 5
-shifou 92
+shifou 93
 shih 3
 shihe 1
-shiji 11 3
+shiji 12 3
 shijian 45 36
 shijianchuo 5
 shike 1
@@ -1458,7 +1459,7 @@ yongdao 2
 yongfa 2
 yonghu 41
 yongyu 29
-you 73 61 24 3
+you 74 62 24 3
 youbian 1 2
 youce 1
 youdai 1
