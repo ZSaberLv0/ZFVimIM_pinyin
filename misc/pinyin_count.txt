@@ -388,7 +388,7 @@ fenbie 3
 fenci 1
 fenduan 14
 fenduanshi 3
-feng 4 3 2
+feng 5 3 2
 fenge 9
 fengge 17
 fengjing 1
@@ -629,7 +629,7 @@ jichu 11
 jici 1
 jid 1
 jiding 6
-jidinghe 84
+jidinghe 85
 jie 11 6 3 1 1
 jieda 1
 jiedian 11
@@ -1317,7 +1317,7 @@ wuxiao 13
 wuxu 5
 wuyiyi 4
 wuyong 1 1
-xi 5 1
+xi 6 1
 xia 88
 xiaci 4
 xiafang 13
@@ -1566,7 +1566,7 @@ yujing 2
 yuju 3
 yulan 1
 yule 1
-yun 9 1
+yun 10 1
 yuncha 1
 yunchayunduan 1
 yunduan 4
