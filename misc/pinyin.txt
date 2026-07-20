@@ -3843,6 +3843,7 @@ qipian 欺骗
 qiqing 气请
 qiqita 起其它
 qiqiu 气球
+qiqizhong 起其中
 qiquan 齐全
 qishang 其上 其熵
 qishen 起身

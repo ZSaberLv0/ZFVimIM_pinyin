@@ -312,7 +312,7 @@ donggan 2
 donghua 9
 dongman 1
 dongtai 3
-dongzuo 1
+dongzuo 2
 dou 46
 doudong 1
 douhao 9
@@ -856,7 +856,7 @@ morenzhi 1
 morenzhiwei 1
 moshi 24
 mouge 10
-mouxie 3
+mouxie 4
 mowei 6
 moxing 17
 moyun 12
@@ -934,7 +934,7 @@ pinshan 3
 pipei 41
 pu 1
 putong 25
-qi 5 3
+qi 6 3
 qian 15
 qianduan 3
 qianfang 1
@@ -970,12 +970,13 @@ qingsong 1
 qingwu 2
 qipao 5
 qiqita 1
+qiqizhong 1
 qita 32
 qiu 4 1
 qiwang 9
 qiyong 29 10
 qiyu 7
-qizhong 2
+qizhong 3
 qu 14 2
 quan 6
 quanju 5
@@ -1183,7 +1184,7 @@ tanchu 9
 tankuang 8
 tao 1
 taocan 2
-te 3
+te 4
 teding 11
 tehua 1
 tengxun 1
