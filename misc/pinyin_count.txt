@@ -1294,7 +1294,7 @@ wen 7
 wenben 20
 wendang 12
 wending 4
-wendingxing 21
+wendingxing 22
 wenhao 1 1
 wenjian 138
 wenjianjia 5
@@ -1524,7 +1524,7 @@ youbian 1 2
 youce 1
 youdai 1
 youde 1
-youhua 66
+youhua 67
 youhui 2
 youjian 1
 younv 1
