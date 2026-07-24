@@ -710,7 +710,7 @@ juti 9
 juxian 1
 ka 10
 kachang 1
-kai 6
+kai 7
 kaichang 8
 kaifa 2
 kaifang 7 3
@@ -1350,7 +1350,7 @@ xianyan 5 1
 xianzai 5
 xianzhi 14
 xianzhu 2
-xiao 32
+xiao 33
 xiaochengxu 3
 xiaochi 4
 xiaoguo 14
