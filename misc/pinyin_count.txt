@@ -1085,7 +1085,7 @@ renyi 18
 renyuan 2
 reqing 1
 ri 3
-rizhi 41
+rizhi 42
 rong 1 1
 rongcuo 19
 rongru 1
@@ -1271,7 +1271,7 @@ texiao 2
 ti 3 1
 tian 9 3
 tianchong 3
-tianjia 40
+tianjia 41
 tianqi 28
 tianru 2
 tianxie 2
