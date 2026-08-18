@@ -476,7 +476,7 @@ gaoyu 2
 gaozhi 2
 gaozhong 2
 gayige 1
-ge 35 24 11 1
+ge 35 25 11 1
 gedan 42
 geduan 6
 gege 2
@@ -1619,7 +1619,7 @@ yongfa 2
 yonghu 119
 yongliang 1
 yongyu 36
-you 120 109 31 4
+you 120 110 31 4
 youbian 1 2
 youce 1
 youdai 1
