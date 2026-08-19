@@ -222,7 +222,7 @@ chufa 16
 chufaqi 27
 chufei 1
 chule 2
-chuli 61
+chuli 62
 chumo 1
 chun 1
 chuping 15 2
@@ -1087,7 +1087,7 @@ reqing 1
 ri 3
 rizhi 42
 rong 1 1
-rongcuo 19
+rongcuo 20
 rongru 1
 rongyi 5
 rou 2 1
@@ -1538,7 +1538,7 @@ yi 33 24 16 13
 yiban 3
 yibian 3
 yibu 2
-yichang 20
+yichang 21
 yichu 1
 yichuan 1
 yici 24
@@ -1624,7 +1624,7 @@ youbian 1 2
 youce 1
 youdai 1
 youde 1
-youhua 89
+youhua 90
 youhui 2
 youjian 1
 younv 1
