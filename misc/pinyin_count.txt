@@ -490,7 +490,7 @@ genggai 6 4
 genghao 2
 gengjia 6
 gengshi 2
-gengxin 110
+gengxin 111
 genju 44
 gensui 1
 gequ 137
@@ -668,7 +668,7 @@ jiaoyan 6
 jiaru 3 1
 jiarujianrong 1
 jiasu 4
-jiazai 28
+jiazai 29
 jichu 13
 jici 1
 jid 1
@@ -936,7 +936,7 @@ neicun 29
 neihe 1
 neirong 159
 neiwang 1
-neizhi 11
+neizhi 12
 neng 20
 nengfou 2
 nenggou 33
@@ -1323,7 +1323,7 @@ touchuan 7
 touming 5
 toutou 1
 touxiang 1
-tu 44
+tu 45
 tuandui 1
 tubiao 13
 tuichu 25
