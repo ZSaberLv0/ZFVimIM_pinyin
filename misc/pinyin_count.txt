@@ -443,7 +443,7 @@ fuping 16
 fuwu 25
 fuwuqi 4
 fuwuyuan 4
-fuyong 3
+fuyong 4
 fuza 1
 fuzhi 7 1
 fuzhu 3
@@ -493,7 +493,7 @@ gengshi 2
 gengxin 111
 genju 44
 gensui 1
-gequ 137
+gequ 138
 geshi 76
 geshihua 5
 geshu 7
@@ -865,7 +865,7 @@ lunli 1
 lunlilunliu 1
 lunliu 2
 luo 1
-luoji 100
+luoji 101
 luyin 2
 lv 2 3
 ma 16 2
@@ -1492,7 +1492,7 @@ xiong 1
 xishu 1
 xitong 30
 xiu 6 1
-xiufu 73
+xiufu 74
 xiugai 51
 xiwang 2
 xu 20
