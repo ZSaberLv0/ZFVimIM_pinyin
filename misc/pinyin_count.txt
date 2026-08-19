@@ -143,7 +143,7 @@ cacanshu 1
 cai 7
 caihui 6
 caijian 5
-caineng 8
+caineng 9
 caiyong 1
 can 2
 canjian 34
@@ -231,7 +231,7 @@ chushi 4
 chushihua 4
 chuxian 45
 chuzhong 1
-ci 23 2 1
+ci 24 2 1
 cichu 2
 cishi 13
 cishu 3
@@ -563,7 +563,7 @@ haoma 1
 haomiao 18
 haoshi 6
 haowan 2
-he 148
+he 149
 hebing 13
 hegui 6
 hei 13
@@ -808,7 +808,7 @@ ky 90
 kyi 1
 l 24
 la 2 1
-lai 16
+lai 17
 laiyuan 1
 lan 7
 lang 1
@@ -992,7 +992,7 @@ pinjie 3
 pinlv 2
 pinpai 3
 pinshan 3
-pipei 41
+pipei 43
 po 1
 pobing 1
 pu 1
@@ -1044,7 +1044,7 @@ qiyong 30 10
 qiyu 8
 qizhong 7
 qu 16 2
-quan 7
+quan 8
 quanju 5
 quanliang 1
 quanping 10
@@ -1158,7 +1158,7 @@ shenzhen 3
 shenzhi 1
 shewei 6
 shezhi 22
-shi 310 80 30 10
+shi 311 81 30 10
 shibai 20
 shibie 58
 shichang 12 2
@@ -1524,6 +1524,7 @@ yanshou 1
 yanzheng 3
 yao 25
 yaoqiu 11
+yaoyong 1
 yasuo 4
 ye 50 25 1
 yebu 1
@@ -1728,7 +1729,7 @@ zhengshu 3
 zhengti 1
 zhengxing 1
 zhengzai 5
-zhengze 11
+zhengze 12
 zhenlv 1
 zhexie 7
 zheyang 1
@@ -1802,7 +1803,7 @@ zhuomian 1
 zhushi 7
 zhuti 57
 zhuyao 12
-zhuyi 38
+zhuyi 39
 zhuzhuti 1
 zi 7 2
 zice 3
