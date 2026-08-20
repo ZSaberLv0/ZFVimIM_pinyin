@@ -226,7 +226,7 @@ chule 2
 chuli 69
 chumo 1
 chun 1
-chuping 15 2
+chuping 16 2
 chushi 4
 chushihua 4
 chuxian 45
@@ -904,7 +904,7 @@ mingxian 3
 mingzi 3
 mo 14 1
 mohu 4
-mokuai 38
+mokuai 39
 momokuai 2
 momoren 1
 moni 15
@@ -962,7 +962,7 @@ ou 1
 pai 3 2
 paibu 7
 paicha 11
-paidui 132
+paidui 133
 paihang 1
 paiqi 1
 panduan 58
@@ -1284,7 +1284,7 @@ tiaojian 7
 tiaojie 3
 tiaopei 1
 tiaopi 2
-tiaoshi 35
+tiaoshi 36
 tiaowu 3
 tiaozheng 35
 tiaozhuan 33
@@ -1627,7 +1627,7 @@ youbian 1 2
 youce 1
 youdai 1
 youde 1
-youhua 92
+youhua 93
 youhui 2
 youjian 1
 younv 1
