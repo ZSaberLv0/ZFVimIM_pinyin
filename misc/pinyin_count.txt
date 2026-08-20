@@ -630,7 +630,7 @@ jiage 1
 jiagehuo 1
 jiagou 3
 jiajian 3
-jiami 7
+jiami 8
 jian 12 6
 jiance 8
 jiancha 3
@@ -1739,7 +1739,7 @@ zhezhebian 1
 zhezhezhong 1
 zhezhong 10
 zhi 97 31 3
-zhichi 254
+zhichi 255
 zhichu 1 1
 zhida 1
 zhidao 7
