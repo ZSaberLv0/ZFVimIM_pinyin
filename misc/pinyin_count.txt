@@ -94,7 +94,7 @@ bofang 89
 bofangqi 38
 bokong 11
 bowan 8
-bu 163 1
+bu 164 1
 bubian 1
 buchuan 1
 bucuo 2
@@ -223,7 +223,7 @@ chufa 16
 chufaqi 27
 chufei 1
 chule 2
-chuli 68
+chuli 69
 chumo 1
 chun 1
 chuping 15 2
@@ -556,7 +556,7 @@ haizai 5
 hang 29
 hangwei 1
 hanshu 20
-hao 7 2
+hao 8 2
 haochu 1
 haode 1
 haoma 1
@@ -630,7 +630,7 @@ jiage 1
 jiagehuo 1
 jiagou 3
 jiajian 3
-jiami 5
+jiami 7
 jian 12 6
 jiance 8
 jiancha 3
@@ -908,7 +908,7 @@ mokuai 38
 momokuai 2
 momoren 1
 moni 15
-moren 177
+moren 178
 morenzhi 1
 morenzhiwei 1
 moshi 24
@@ -952,6 +952,7 @@ nin 9
 nishi 4
 niu 1
 niubi 1
+nixu 1
 nuan 1
 nuanchang 2
 nv 7
@@ -1050,7 +1051,7 @@ quanliang 1
 quanping 10
 quanxian 8
 qubie 15
-quchu 9
+quchu 10
 qudao 1
 quebao 7
 queding 13
@@ -1745,7 +1746,7 @@ zhidao 7
 zhiding 122
 zhifu 1
 zhihe 1
-zhihou 15
+zhihou 16
 zhihui 2
 zhijian 2
 zhijie 33
