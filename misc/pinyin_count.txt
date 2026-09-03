@@ -182,7 +182,7 @@ changyong 3
 changzhu 2
 chanpin 1
 chansheng 4
-chao 9 3
+chao 10 4
 chaoguo 13
 chaoshi 4 4
 charu 8
@@ -397,7 +397,7 @@ erxuanyi 4
 erzhe 1
 ewai 19
 ewaicanshu 1
-fa 30 1
+fa 31 1
 fabu 4
 fachu 1
 fafangan 1
@@ -854,7 +854,7 @@ liangce 2
 liangdu 3
 liangge 5
 liangzhong 1
-lianjie 9 2
+lianjie 10 2
 liantiao 2
 lianwang 1
 lianxu 3
@@ -1081,7 +1081,7 @@ quanxian 9
 qubie 15
 quchu 10
 qudao 1
-que 2
+que 3
 quebao 7
 queding 13
 queren 13
