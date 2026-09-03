@@ -139,7 +139,7 @@ buzhichi 19
 buzhidao 1
 buzhou 4
 buzu 2
-buzuo 7
+buzuo 9
 ca 3
 cabuwei 1
 cacanshu 1
@@ -214,6 +214,7 @@ chongqi 16
 chongshi 3
 chongtu 5
 chongxin 18
+choujian 1
 chu 15 1
 chuan 4 3
 chuandi 4
@@ -309,8 +310,8 @@ dezhi 5
 di 10 3 1
 dian 44 1 1
 diange 36
-diangeping 66
-dianji 12
+diangeping 67
+dianji 13
 diannao 1
 dianshi 4
 dianshiping 43
@@ -604,7 +605,7 @@ houduan 30
 houmian 2
 houqi 1
 houtai 21
-houxu 14
+houxu 15
 houzhuan 1
 hu 4
 hua 6 2 2 2 1
@@ -965,7 +966,7 @@ neiwang 1
 neizhi 12
 neng 22
 nengfou 2
-nenggou 35
+nenggou 36
 nengli 5
 ng 10
 ni 53
@@ -1067,7 +1068,7 @@ qiqita 1
 qiqizhong 1
 qita 43
 qiu 4 1
-qiwang 19
+qiwang 20
 qiyong 30 10
 qiyu 8
 qizhong 7
@@ -1083,7 +1084,7 @@ qudao 1
 que 2
 quebao 7
 queding 13
-queren 11
+queren 13
 queshao 1
 queshaobixu 1
 queshi 2
@@ -1716,12 +1717,12 @@ yuyan 16 2 1
 yuyin 14
 yuzhong 1
 za 1
-zai 177 20
+zai 178 20
 zaibo 58
 zaici 11 1
 zan 8
 zanbu 3
-zanshi 11
+zanshi 13
 zanting 16
 zantong 1
 zanwei 3
@@ -1784,7 +1785,7 @@ zhihe 1
 zhihou 17
 zhihui 2
 zhijian 2
-zhijie 38
+zhijie 39
 zhijizhijie 1
 zhikong 17
 zhilei 2
