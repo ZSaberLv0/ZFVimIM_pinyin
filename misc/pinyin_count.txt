@@ -510,7 +510,7 @@ gengshi 2
 gengxin 116
 genju 45
 gensui 1
-gequ 142
+gequ 143
 geshi 76
 geshihua 5
 geshu 7
@@ -1108,7 +1108,7 @@ rengongrengong 1
 renhe 8
 renke 1
 renli 3
-renwu 58 7
+renwu 59 7
 renyi 18
 renyuan 2
 reqing 1
