@@ -252,7 +252,7 @@ cunqu 1
 cunzai 34
 cuo 2
 cuowu 24
-d 1130
+d 1131
 da 36 2 3
 dabao 4
 dacheng 2
@@ -309,8 +309,8 @@ dezhi 5
 di 10 3 1
 dian 43 1 1
 diange 36
-diangeping 63
-dianji 11
+diangeping 64
+dianji 12
 diannao 1
 dianshi 4
 dianshiping 43
@@ -1146,7 +1146,7 @@ shan 3
 shanchu 29
 shang 36 1
 shangbanshen 2
-shangbao 42
+shangbao 43
 shangchuan 13
 shangci 2
 shangfan 1
