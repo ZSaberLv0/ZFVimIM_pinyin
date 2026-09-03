@@ -255,7 +255,7 @@ cuowu 24
 d 1132
 da 36 2 3
 dabao 4
-dacheng 2
+dacheng 4
 dadao 1
 daduo 6
 dagai 1
@@ -1027,7 +1027,7 @@ putong 26
 qi 7 3
 qia 1
 qian 21
-qianduan 3
+qianduan 4
 qianfang 1
 qiang 2
 qiangbi 17
@@ -1301,7 +1301,7 @@ tehua 1
 tengxun 1
 tese 2
 teshu 25
-texiao 2
+texiao 3
 ti 3 1
 tian 9 3
 tianchong 3
@@ -1494,7 +1494,7 @@ xichengxu 1
 xie 12 4
 xielou 7
 xieru 4
-xiesi 2
+xiesi 3
 xietiao 1
 xiexie 1
 xieyi 74
@@ -1640,7 +1640,7 @@ yitiao 1
 yitu 98
 yiwai 2 1
 yixia 110 16
-yixie 13
+yixie 14
 yiyang 4
 yiyou 4
 yizhang 5
