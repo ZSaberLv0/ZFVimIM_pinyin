@@ -167,7 +167,7 @@ chachuangjian 1
 chajian 4
 chakan 10
 chan 1
-chang 7 6 4
+chang 7 7 4
 changchang 1
 changdu 7
 changge 9
@@ -243,7 +243,7 @@ chuzhong 1
 ci 26 2 1
 cichu 2
 cishi 13
-cishu 3
+cishu 4
 cong 30
 cu 1
 cun 2
@@ -252,7 +252,7 @@ cunqu 1
 cunzai 34
 cuo 2
 cuowu 24
-d 1132
+d 1134
 da 36 2 3
 dabao 4
 dacheng 4
@@ -309,7 +309,7 @@ dezhi 5
 di 10 3 1
 dian 44 1 1
 diange 36
-diangeping 65
+diangeping 66
 dianji 12
 diannao 1
 dianshi 4
@@ -730,7 +730,7 @@ jilu 8
 jin 99 2 1
 jincheng 25
 jindang 9
-jindu 7
+jindu 8
 jiner 2
 jing 4 2
 jingjian 1
@@ -801,7 +801,7 @@ kedu 2
 keduxing 1
 kehu 1
 kejian 2
-keneng 66
+keneng 67
 kexing 1
 kexingxing 1
 kexuan 6
@@ -815,7 +815,7 @@ kongjian 13
 kongzhi 39
 kou 2 2
 ku 33
-kua 2
+kua 3
 kuai 1 2
 kuaisu 8
 kuan 9 1
@@ -1110,7 +1110,7 @@ rengongrengong 1
 renhe 8
 renke 1
 renli 3
-renwu 59 7
+renwu 60 7
 renyi 18
 renyuan 2
 reqing 1
@@ -1655,7 +1655,7 @@ yongfa 2
 yonghu 126
 yongliang 1
 yongyu 36
-you 127 119 32 4
+you 128 119 32 4
 youbian 1 2
 youce 1
 youdai 1
@@ -1736,7 +1736,7 @@ zenme 5
 zenyang 1
 zhan 3 3 1
 zhang 1 1
-zhanshi 106
+zhanshi 107
 zhanwei 1
 zhanyong 6
 zhanyou 1
