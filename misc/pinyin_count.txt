@@ -602,6 +602,7 @@ hongse 2
 hou 80
 houduan 30
 houmian 2
+houqi 1
 houtai 21
 houxu 14
 houzhuan 1
@@ -825,7 +826,7 @@ kunnan 7
 kuo 1
 kuohao 2
 kuozhan 1
-ky 91
+ky 92
 kyi 1
 l 24
 la 2 1
