@@ -95,7 +95,7 @@ bofang 89
 bofangqi 38
 bokong 11
 bowan 8
-bu 170 1
+bu 171 1
 bubian 1
 buchu 1
 buchuan 1
@@ -232,7 +232,7 @@ chufa 17
 chufaqi 27
 chufei 1
 chule 2
-chuli 71
+chuli 72
 chumo 1
 chun 2
 chuping 16 2
@@ -310,7 +310,7 @@ dezhi 5
 di 10 3 1
 dian 44 1 1
 diange 36
-diangeping 67
+diangeping 69
 dianji 14
 diannao 1
 dianshi 4
@@ -728,7 +728,7 @@ jihua 3
 jijiang 2
 jike 13
 jilu 8
-jin 99 2 1
+jin 100 2 1
 jincheng 25
 jindang 9
 jindu 8
@@ -1353,7 +1353,7 @@ tongyong 3
 tongzhi 18
 tou 5 3
 touchu 2
-touchuan 8
+touchuan 9
 touming 5
 toutou 1
 touxiang 1
@@ -1856,7 +1856,7 @@ zijie 3
 zimu 1 1
 ziran 16
 zishen 5
-zixing 7
+zixing 8
 zixun 3
 ziyou 1 2
 ziyuan 24
