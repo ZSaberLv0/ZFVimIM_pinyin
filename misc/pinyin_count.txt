@@ -815,7 +815,7 @@ kongge 3
 kongjian 13
 kongzhi 39
 kou 2 2
-ku 33
+ku 33 1
 kua 3
 kuai 1 2
 kuaisu 8
@@ -1526,7 +1526,7 @@ xinzengzhichi 1
 xiong 1
 xishu 1
 xitong 36
-xiu 6 1
+xiu 7 1
 xiufu 82
 xiugai 54
 xiwang 2
