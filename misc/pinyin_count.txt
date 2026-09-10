@@ -374,7 +374,7 @@ duiyu 37
 duli 10
 duo 27
 duoci 2
-duoge 20
+duoge 21
 duojiu 1
 duole 1
 duoshao 3
@@ -798,7 +798,7 @@ kakeneng 9
 kan 3
 kang 1
 kaolv 4
-ke 53 1
+ke 54 1
 kedu 2
 keduxing 1
 kehu 1
@@ -1001,7 +1001,7 @@ peitao 1
 peizhi 324
 peng 1
 pengdao 7
-pengyou 10
+pengyou 12
 pengzhuang 1
 pi 15
 pice 3
@@ -1010,7 +1010,7 @@ pifu 3
 piliang 3
 pin 10 1
 pinfan 7
-ping 201
+ping 203
 pingban 10
 pingbao 3
 pingfen 2
@@ -1308,7 +1308,7 @@ texiao 3
 ti 3 1
 tian 9 3
 tianchong 3
-tianjia 43
+tianjia 44
 tianqi 28
 tianru 2
 tianxie 2
@@ -1818,7 +1818,7 @@ zhongwen 3
 zhongyang 1
 zhou 9
 zhouqi 10
-zhu 25 6 1
+zhu 27 6 1
 zhuan 20 1
 zhuang 5
 zhuangban 1
