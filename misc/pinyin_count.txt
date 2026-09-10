@@ -113,6 +113,7 @@ buhuo 1
 bujian 2
 bujin 1
 buju 1
+buke 2 2
 bukeyong 8
 buneng 12
 buquan 4
@@ -209,7 +210,7 @@ chixu 7
 chong 11
 chongchongfu 1
 chongdie 1
-chongfu 16
+chongfu 18
 chongqi 16
 chongshi 3
 chongtu 5
@@ -798,7 +799,7 @@ kakeneng 9
 kan 3
 kang 1
 kaolv 4
-ke 54 1
+ke 55 1
 kedu 2
 keduxing 1
 kehu 1
@@ -1289,7 +1290,7 @@ suofang 3
 suoxiao 1
 suoxie 3
 suoxu 5
-suoyin 2
+suoyin 4
 suoyou 53
 suozai 2
 ta 1
@@ -1308,7 +1309,7 @@ texiao 3
 ti 3 1
 tian 9 3
 tianchong 3
-tianjia 45
+tianjia 46
 tianqi 28
 tianru 2
 tianxie 2
@@ -1411,6 +1412,7 @@ weiyi 10 1
 weiyu 4
 weizhi 33 2
 wen 7
+wenan 1
 wenben 20
 wendang 12
 wending 4
@@ -1676,7 +1678,7 @@ youxianji 11
 youxiao 10
 youyiyi 2
 youyu 10
-yu 106 8
+yu 108 8
 yuan 11 11 2
 yuanban 1
 yuancheng 2
@@ -1834,7 +1836,7 @@ zhuanye 1
 zhuanyi 2
 zhubu 2
 zhudong 23
-zhufu 3
+zhufu 4
 zhuge 1
 zhujian 1
 zhunbei 3
