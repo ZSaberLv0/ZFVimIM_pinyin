@@ -1001,7 +1001,7 @@ peitao 1
 peizhi 324
 peng 1
 pengdao 7
-pengyou 18
+pengyou 19
 pengzhuang 1
 pi 15
 pice 3
@@ -1010,7 +1010,7 @@ pifu 3
 piliang 3
 pin 10 1
 pinfan 7
-ping 205
+ping 206
 pingban 10
 pingbao 3
 pingfen 2
@@ -1308,7 +1308,7 @@ texiao 3
 ti 3 1
 tian 9 3
 tianchong 3
-tianjia 44
+tianjia 45
 tianqi 28
 tianru 2
 tianxie 2
@@ -1573,7 +1573,7 @@ yewu 54
 yewufang 1
 yeyao 1
 yeyewu 2
-yi 36 26 16 13
+yi 36 27 16 13
 yiban 3
 yibian 3
 yibu 2
@@ -1818,7 +1818,7 @@ zhongwen 3
 zhongyang 1
 zhou 9
 zhouqi 10
-zhu 29 6 1
+zhu 30 6 1
 zhuan 20 1
 zhuang 5
 zhuangban 1
@@ -1849,7 +1849,7 @@ zi 7 2
 zice 4
 zidian 1
 zidingyi 14
-zidong 79
+zidong 80
 ziduan 91
 zifu 4
 zifuchuan 52
