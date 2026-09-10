@@ -1152,7 +1152,7 @@ shanchu 29
 shang 36 1
 shangbanshen 2
 shangbao 44
-shangchuan 13
+shangchuan 14
 shangci 2
 shangfan 1
 shangfang 3
