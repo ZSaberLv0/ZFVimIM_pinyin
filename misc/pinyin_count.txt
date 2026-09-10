@@ -21,7 +21,7 @@ baluo 1
 ban 29
 banben 81
 banbenhao 17
-bangding 5
+bangding 6
 bangdingma 5
 bangwo 20
 bangzhu 2
@@ -309,7 +309,7 @@ dengkong 25
 dezhi 5
 di 10 3 1
 dian 44 1 1
-diange 36
+diange 38
 diangeping 69
 dianji 14
 diannao 1
@@ -331,6 +331,7 @@ digui 10
 ding 16 2
 dingbu 7
 dingceng 1
+dingge 1
 dingqi 2
 dingshi 3
 dingyi 27
@@ -581,7 +582,7 @@ haoma 1
 haomiao 18
 haoshi 6
 haowan 2
-he 153
+he 154
 hebing 13
 hegui 6
 hei 13
@@ -1520,7 +1521,7 @@ xintiao 2
 xinwen 4
 xinxi 42
 xinxian 1
-xinzeng 42
+xinzeng 43
 xinzengxinzeng 1
 xinzengzhichi 1
 xiong 1
@@ -1849,7 +1850,7 @@ zice 4
 zidian 1
 zidingyi 14
 zidong 79
-ziduan 90
+ziduan 91
 zifu 4
 zifuchuan 52
 ziji 14
