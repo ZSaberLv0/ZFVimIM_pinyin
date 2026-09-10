@@ -311,7 +311,7 @@ dezhi 5
 di 10 3 1
 dian 44 1 1
 diange 38
-diangeping 74
+diangeping 76
 dianji 14
 diannao 1
 dianshi 4
@@ -622,7 +622,7 @@ huanjing 102
 huanle 3
 huanmu 2
 huansuan 1
-hudong 89
+hudong 91
 huhuan 1
 hui 108 2 1
 huiche 2
