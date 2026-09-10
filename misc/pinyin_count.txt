@@ -510,7 +510,7 @@ genggai 6 4
 genghao 2
 gengjia 6
 gengshi 2
-gengxin 117
+gengxin 118
 genju 45
 gensui 1
 gequ 143
@@ -1194,7 +1194,7 @@ shewei 6
 shexiangtou 1
 shezhi 22
 shi 318 85 31 10
-shibai 21
+shibai 22
 shibie 60
 shichang 13 2
 shidian 5
