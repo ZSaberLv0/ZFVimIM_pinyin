@@ -245,7 +245,7 @@ ci 26 2 1
 cichu 2
 cishi 13
 cishu 4
-cong 30
+cong 31
 cu 1
 cun 2
 cunchu 6
@@ -281,7 +281,7 @@ danli 1
 danmu 3
 danshi 15
 danwei 7
-dao 118
+dao 119
 daoda 2
 daoju 1
 daoru 2
@@ -1001,7 +1001,7 @@ peitao 1
 peizhi 324
 peng 1
 pengdao 7
-pengyou 15
+pengyou 16
 pengzhuang 1
 pi 15
 pice 3
