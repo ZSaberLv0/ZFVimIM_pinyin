@@ -1309,7 +1309,7 @@ texiao 3
 ti 3 1
 tian 9 3
 tianchong 3
-tianjia 46
+tianjia 47
 tianqi 28
 tianru 2
 tianxie 2
@@ -1575,7 +1575,7 @@ yewu 54
 yewufang 1
 yeyao 1
 yeyewu 2
-yi 36 27 16 13
+yi 36 28 16 13
 yiban 3
 yibian 3
 yibu 2
@@ -1851,7 +1851,7 @@ zi 7 2
 zice 4
 zidian 1
 zidingyi 14
-zidong 80
+zidong 81
 ziduan 91
 zifu 4
 zifuchuan 52
