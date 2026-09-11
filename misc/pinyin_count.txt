@@ -242,7 +242,7 @@ chushi 4
 chushihua 4
 chuxian 45
 chuzhong 1
-ci 26 2 1
+ci 27 2 1
 cichu 2
 cishi 13
 cishu 4
@@ -1836,7 +1836,7 @@ zhuanye 1
 zhuanyi 2
 zhubu 2
 zhudong 23
-zhufu 5
+zhufu 6
 zhuge 1
 zhujian 1
 zhunbei 3
