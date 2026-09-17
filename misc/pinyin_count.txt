@@ -96,7 +96,7 @@ bofang 89
 bofangqi 38
 bokong 11
 bowan 8
-bu 173 1
+bu 174 1
 bubian 1
 buchu 1
 buchuan 1
@@ -834,7 +834,7 @@ kunnan 7
 kuo 1
 kuohao 2
 kuozhan 1
-ky 96
+ky 97
 kyi 1
 l 24
 la 2 1
@@ -850,7 +850,7 @@ le 6 7
 lei 15
 leiming 1
 leisi 7
-leixing 35
+leixing 36
 leng 8
 li 5
 lian 7
@@ -1316,7 +1316,7 @@ texiao 3
 ti 3 1
 tian 9 3
 tianchong 4
-tianjia 50
+tianjia 51
 tianqi 28
 tianru 2
 tianxie 2
@@ -1649,7 +1649,7 @@ yisi 4 1
 yitao 2
 yiti 1
 yitiao 1
-yitu 100
+yitu 101
 yiwai 2 1
 yixia 110 16
 yixie 14
@@ -1787,7 +1787,7 @@ zhezhebian 1
 zhezhezhong 1
 zhezhong 10
 zhi 98 32 3
-zhichi 266
+zhichi 267
 zhichu 1 1
 zhida 1
 zhidao 7
