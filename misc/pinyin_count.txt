@@ -557,7 +557,7 @@ guichu 3
 guifan 1
 guihua 1
 guishu 1
-guize 37
+guize 38
 guizhou 1
 guli 1
 guo 5
@@ -1367,7 +1367,7 @@ touchuan 9
 touming 5
 toutou 1
 touxiang 5
-tu 50
+tu 51
 tuandui 1
 tubiao 13
 tuichu 26
