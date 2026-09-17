@@ -1649,7 +1649,7 @@ yisi 4 1
 yitao 2
 yiti 1
 yitiao 1
-yitu 98
+yitu 99
 yiwai 2 1
 yixia 110 16
 yixie 14
@@ -1787,7 +1787,7 @@ zhezhebian 1
 zhezhezhong 1
 zhezhong 10
 zhi 98 32 3
-zhichi 265
+zhichi 266
 zhichu 1 1
 zhida 1
 zhidao 7
