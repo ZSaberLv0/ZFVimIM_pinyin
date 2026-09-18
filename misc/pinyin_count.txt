@@ -256,7 +256,7 @@ cunqu 1
 cunzai 34
 cuo 2
 cuowu 25
-d 1152
+d 1153
 da 37 2 3
 dabao 4
 dacheng 4
@@ -587,7 +587,7 @@ haoma 1
 haomiao 18
 haoshi 6
 haowan 2
-he 160
+he 161
 hebing 13
 hegui 6
 hei 13
@@ -1242,7 +1242,7 @@ shoujiduan 31
 shoujihao 4
 shouquan 4
 shouxian 2 2
-shouxing 6
+shouxing 7
 shouye 11
 shouzhi 3
 shu 15 2
@@ -1378,7 +1378,7 @@ tuisong 13
 tuo 1 1 1
 tuodong 5
 tuozhan 1
-tupian 50
+tupian 51
 turan 1
 tutupian 1
 wa 10
@@ -1419,7 +1419,7 @@ weiyi 10 1
 weiyu 4
 weizhi 33 2
 wen 7
-wenan 5
+wenan 6
 wenben 20
 wendang 12
 wending 4
@@ -1722,7 +1722,7 @@ yunchayunduan 1
 yunduan 4
 yuni 6
 yunxing 17
-yunxu 4
+yunxu 5
 yunying 17
 yushe 2
 yuyan 16 2 1
