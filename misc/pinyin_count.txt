@@ -137,7 +137,7 @@ buzai 13
 buzheng 2
 buzhengque 3
 buzhi 1 2
-buzhichi 19
+buzhichi 20
 buzhidao 1
 buzhou 4
 buzu 2
@@ -163,7 +163,7 @@ ce 14 1
 cebian 1
 celue 1
 ceng 8
-cengji 5
+cengji 6
 ceshi 89
 cha 7 4
 chachuangjian 1
@@ -666,7 +666,7 @@ jiance 10
 jiancha 3
 jiandan 2
 jiang 51 2
-jiangdi 6
+jiangdi 7
 jiange 5
 jianghui 1
 jiangzao 4
@@ -1476,7 +1476,7 @@ xiangyao 6
 xiangying 2
 xianka 11
 xianshang 6
-xianshi 13
+xianshi 14
 xianxia 4
 xianxiang 7
 xianyan 5 1
