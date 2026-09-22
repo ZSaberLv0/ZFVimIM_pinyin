@@ -513,7 +513,7 @@ genggai 6 4
 genghao 2
 gengjia 6
 gengshi 2
-gengxin 125
+gengxin 126
 genju 46
 gensui 1
 gequ 143
