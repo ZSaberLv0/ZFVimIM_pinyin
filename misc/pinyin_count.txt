@@ -811,7 +811,7 @@ keduxing 1
 kehu 1
 kejian 2
 keneng 70
-keng 1
+keng 3
 kexing 1
 kexingxing 1
 kexuan 6
@@ -1001,7 +1001,7 @@ paicha 13
 paidui 140
 paihang 1
 paiqi 1
-panduan 58
+panduan 59
 paochu 1
 pei 5
 peihe 4
@@ -1407,7 +1407,7 @@ wanzheng 23
 wasm 1
 wawenti 8
 wayixia 1
-wei 184 26 2 3 1
+wei 185 26 4 2 1
 weichi 13
 weici 1
 weigui 5
@@ -1431,7 +1431,7 @@ wenjian 142
 wenjianjia 5
 wenjianming 2
 wenrou 1
-wenti 139
+wenti 140
 wenwenti 2
 wenzhang 6
 wenzi 9
@@ -1539,7 +1539,7 @@ xiong 1
 xishu 1
 xitong 37
 xiu 8 1
-xiufu 83
+xiufu 84
 xiugai 58
 xiwang 2
 xu 21
