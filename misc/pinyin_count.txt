@@ -189,7 +189,7 @@ chao 10 5
 chaoguo 13
 chaoshi 4 4
 charu 8
-chaxun 70
+chaxun 71
 chayi 10
 chazhao 10
 che 2
@@ -256,7 +256,7 @@ cunqu 1
 cunzai 34
 cuo 2
 cuowu 26
-d 1164
+d 1165
 da 37 2 3
 dabao 4
 dacheng 4
@@ -500,7 +500,7 @@ gaoyu 5
 gaozhi 2
 gaozhong 2
 gayige 1
-ge 36 28 11 1
+ge 36 29 11 1
 gedan 48
 geduan 8
 gege 2
@@ -516,12 +516,12 @@ gengshi 2
 gengxin 131
 genju 46
 gensui 1
-gequ 146
+gequ 147
 geshi 76
 geshihua 5
 geshu 7
 gete 1
-gexing 17
+gexing 18
 gezhong 15
 gong 14
 gongbo 17
@@ -588,7 +588,7 @@ haoma 1
 haomiao 18
 haoshi 6
 haowan 2
-he 162
+he 163
 hebing 13
 hegui 7
 hei 13
@@ -713,7 +713,7 @@ jieguo 12
 jiehe 4
 jiejin 7
 jiejue 21
-jiekou 64
+jiekou 65
 jiemi 1
 jiemian 10
 jiemu 4
@@ -928,8 +928,8 @@ miaosha 1
 miaoshu 14 12
 mihuo 1
 mima 1
-min 2
-ming 71 1 1
+min 3
+ming 73 1 1
 mingan 1
 mingcheng 8
 mingling 46
@@ -1082,7 +1082,7 @@ qiyong 33 11
 qiyu 8
 qizhong 7
 qu 17 2
-quan 9
+quan 10
 quanju 5
 quanliang 1
 quanping 10
@@ -1595,7 +1595,7 @@ yichu 1
 yichuan 1
 yici 24
 yida 2
-yidian 52
+yidian 53
 yiding 5
 yidong 23
 yiduan 2
@@ -1791,7 +1791,7 @@ zhezhebian 1
 zhezhezhong 1
 zhezhong 10
 zhi 99 34 3
-zhichi 271
+zhichi 272
 zhichu 1 1
 zhida 1
 zhidao 7
