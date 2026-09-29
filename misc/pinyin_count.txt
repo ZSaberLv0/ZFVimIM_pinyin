@@ -284,7 +284,7 @@ danli 1
 danmu 3
 danshi 15
 danwei 7
-dao 119
+dao 120
 daoda 2
 daoju 1
 daoru 3
@@ -300,7 +300,7 @@ dazao 10
 de 25 1
 dedao 3
 defen 1
-deng 61 1
+deng 62 1
 dengbili 1
 dengdai 4
 dengdao 1
@@ -400,7 +400,7 @@ erwei 1
 erweima 28
 erxuanyi 4
 erzhe 1
-ewai 19
+ewai 20
 ewaicanshu 1
 fa 33 1
 fabu 4
@@ -500,7 +500,7 @@ gaoyu 5
 gaozhi 2
 gaozhong 2
 gayige 1
-ge 36 27 11 1
+ge 36 28 11 1
 gedan 48
 geduan 8
 gege 2
@@ -516,7 +516,7 @@ gengshi 2
 gengxin 129
 genju 46
 gensui 1
-gequ 144
+gequ 146
 geshi 76
 geshihua 5
 geshu 7
@@ -647,7 +647,7 @@ hunluan 1
 huo 118
 huode 5
 huodong 3
-huoqu 48
+huoqu 49
 huozhe 7
 huqi 3
 hushi 1
@@ -928,8 +928,8 @@ miaosha 1
 miaoshu 14 12
 mihuo 1
 mima 1
-min 1
-ming 70 1 1
+min 2
+ming 71 1 1
 mingan 1
 mingcheng 8
 mingling 46
@@ -1081,8 +1081,8 @@ qiwang 21
 qiyong 33 11
 qiyu 8
 qizhong 7
-qu 16 2
-quan 8
+qu 17 2
+quan 9
 quanju 5
 quanliang 1
 quanping 10
@@ -1353,7 +1353,7 @@ tong 13 2
 tongbu 27
 tongchang 18
 tongdian 2 2
-tongguo 67
+tongguo 69
 tongji 10
 tongli 1
 tonglu 2
@@ -1441,7 +1441,7 @@ wom 17
 wsm 3
 wu 46
 wubuneng 1
-wufa 41 1
+wufa 42 1
 wuguan 1
 wulun 2
 wuwufa 2
@@ -1801,7 +1801,7 @@ zhihe 1
 zhihou 17
 zhihui 2
 zhijian 2
-zhijie 41
+zhijie 42
 zhijizhijie 1
 zhikong 17
 zhilei 2
