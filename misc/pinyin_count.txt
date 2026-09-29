@@ -339,7 +339,7 @@ dingge 1
 dingqi 2
 dingshi 3
 dingyi 27
-dingzhi 6
+dingzhi 7
 disanfang 16
 ditu 1
 diuqi 2
