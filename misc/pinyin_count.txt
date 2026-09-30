@@ -170,7 +170,7 @@ chachuangjian 1
 chajian 4
 chakan 10
 chan 1
-chang 9 7 5
+chang 9 7 6
 changchang 1
 changdu 7
 changge 9
@@ -1036,7 +1036,7 @@ pu 1
 putong 26
 qi 7 3
 qia 1
-qian 21
+qian 22
 qianduan 5
 qianfang 1
 qiang 2
