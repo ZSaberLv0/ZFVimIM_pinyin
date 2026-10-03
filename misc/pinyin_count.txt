@@ -982,7 +982,7 @@ ni 53
 nian 3
 nicheng 2
 nide 7
-nihao 20
+nihao 22
 niming 1
 nin 9
 nishi 4
