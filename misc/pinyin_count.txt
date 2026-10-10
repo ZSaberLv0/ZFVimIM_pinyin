@@ -13,7 +13,7 @@ anzhuo 29
 ao 1
 aojiao 4
 ayidian 1
-ba 19 19
+ba 20 20
 bai 2
 bailu 4
 baituo 1 1
@@ -23,7 +23,7 @@ banben 85
 banbenhao 17
 bangding 6
 bangdingma 5
-bangwo 20
+bangwo 21
 bangzhu 2
 bao 9 3 1
 baochi 9
@@ -311,7 +311,7 @@ dengjia 1
 dengkong 27
 dezhi 5
 di 10 3 1
-dian 44 1 1
+dian 45 1 1
 diange 39
 diangeping 77
 dianji 14
@@ -500,7 +500,7 @@ gaoyu 6
 gaozhi 2
 gaozhong 2
 gayige 1
-ge 37 29 11 1
+ge 37 30 11 1
 gedan 48
 geduan 8
 gege 2
@@ -1234,7 +1234,7 @@ shiyanshi 1
 shiyi 9
 shiyong 153
 shizhi 2
-shou 18 2 2
+shou 19 2 2
 shoubi 1
 shouci 14
 shoudao 14
@@ -1475,7 +1475,7 @@ xiangqing 1
 xiangsi 1
 xiangtong 32
 xiangxi 2
-xiangyao 6
+xiangyao 7
 xiangying 2
 xianka 11
 xianshang 6
@@ -1671,7 +1671,7 @@ yo 3
 yong 14 2
 yongdao 2
 yongfa 2
-yonghu 128
+yonghu 129
 yongliang 1
 yongyu 38
 you 131 124 33 4
@@ -1815,6 +1815,7 @@ zhiling 1
 zhineng 6 2
 zhiqian 29
 zhishao 3
+zhishi 1 1
 zhixiang 1
 zhixing 63
 zhixu 1
