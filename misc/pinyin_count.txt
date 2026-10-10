@@ -13,7 +13,7 @@ anzhuo 29
 ao 1
 aojiao 4
 ayidian 1
-ba 20 20
+ba 22 21
 bai 2
 bailu 4
 baituo 1 1
@@ -1190,7 +1190,7 @@ shengcheng 40
 shengji 8
 shengri 22
 shengxiao 14
-shengyin 3
+shengyin 4
 shengyu 1
 shenhe 29
 shenme 1
@@ -1324,7 +1324,7 @@ tianjia 54
 tianqi 28
 tianru 2
 tianxie 2
-tiao 3 1
+tiao 3 2
 tiaochu 1
 tiaochutiaoshi 1
 tiaojian 7
@@ -1487,7 +1487,7 @@ xianyou 2
 xianzai 6
 xianzhi 19
 xianzhu 2
-xiao 48
+xiao 49
 xiaochengxu 3
 xiaochi 4
 xiaoguo 20
@@ -1598,7 +1598,7 @@ yichu 1
 yichuan 1
 yici 24
 yida 2
-yidian 53
+yidian 54 1
 yiding 5
 yidong 23
 yiduan 2
