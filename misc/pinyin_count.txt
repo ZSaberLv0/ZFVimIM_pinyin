@@ -258,7 +258,7 @@ cunzai 34
 cuo 2
 cuowu 26
 d 1185
-da 40 2 3
+da 42 2 3
 dabao 4
 dacheng 4
 dadao 1
@@ -583,7 +583,7 @@ han 1
 hang 29
 hangwei 1
 hanshu 21
-hao 11 7
+hao 13 8
 haochu 1
 haode 1
 haoma 1
@@ -1113,7 +1113,7 @@ ranrenwu 1
 rao 1
 raocheng 1
 raoguo 1
-re 9 1
+re 10 1
 remen 2
 ren 1 2
 reng 13
@@ -1192,7 +1192,7 @@ shengcheng 40
 shengji 8
 shengri 24
 shengxiao 14
-shengyin 4
+shengyin 5
 shengyu 1
 shenhe 29
 shenme 1
@@ -1490,7 +1490,7 @@ xianyou 2
 xianzai 6
 xianzhi 19
 xianzhu 2
-xiao 51
+xiao 52
 xiaochengxu 3
 xiaochi 4
 xiaoguo 20
