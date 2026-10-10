@@ -644,7 +644,7 @@ hulue 20
 hun 2
 hunan 4
 hunluan 1
-huo 119
+huo 120
 huode 5
 huodong 3
 huoqu 58
@@ -1029,7 +1029,7 @@ pinjie 3
 pinlv 3
 pinpai 3
 pinshan 3
-pipei 57
+pipei 58
 po 1
 pobing 1
 pu 1
@@ -1093,7 +1093,7 @@ qudao 1
 que 3
 quebao 8
 queding 13
-queren 15
+queren 16
 queshao 1
 queshaobixu 1
 queshi 2
@@ -1140,7 +1140,7 @@ ruguo 21
 ruhe 156
 rui 2
 rukou 5
-ruo 94 1
+ruo 95 1
 ruogan 1
 ruru 1
 ruxia 3
@@ -1254,7 +1254,7 @@ shuangji 2
 shuangshou 1
 shuaxin 6
 shubiao 3
-shuchu 41
+shuchu 42
 shui 5 2
 shuju 26
 shujuku 5
@@ -1442,7 +1442,7 @@ wom 17
 wsm 3
 wu 46
 wubuneng 1
-wufa 44 1
+wufa 46 1
 wuguan 1
 wulun 2
 wuwufa 2
@@ -1750,7 +1750,7 @@ zanwu 1
 zao 1 1
 zaocheng 3
 zaoshang 1
-ze 65
+ze 67
 zeng 1
 zengjia 2
 zengzhi 2
@@ -1796,7 +1796,7 @@ zheyi 2
 zhezhebian 1
 zhezhezhong 1
 zhezhong 10
-zhi 104 35 3
+zhi 105 36 3
 zhichi 288
 zhichu 1 1
 zhida 1
