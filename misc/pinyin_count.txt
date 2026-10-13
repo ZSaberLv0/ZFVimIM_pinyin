@@ -1870,7 +1870,7 @@ zhuo 1
 zhuomian 1
 zhushi 7
 zhushou 2
-zhuti 65
+zhuti 66
 zhuyao 12
 zhuyi 40
 zhuzhuti 1
