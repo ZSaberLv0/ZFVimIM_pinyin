@@ -1125,7 +1125,7 @@ rengongrengong 1
 renhe 9
 renke 1
 renli 3
-renwu 65 7
+renwu 66 7
 renyi 23
 renyuan 2
 reqing 1
@@ -1570,7 +1570,7 @@ xuqiu 12
 xuyao 110
 ya 4
 yan 2
-yanchang 7 1
+yanchang 8 1
 yanchi 4
 yanfa 2
 yang 2
