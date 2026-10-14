@@ -1129,7 +1129,7 @@ renwu 64 7
 renyi 23
 renyuan 2
 reqing 1
-ri 3
+ri 4
 rizhi 51
 rong 1 1
 rongcuo 23
@@ -1720,7 +1720,7 @@ yuanzi 1
 yudao 1
 yuding 4
 yudingyi 2
-yue 7 2 3 2
+yue 8 2 3 2
 yueba 1
 yuebao 1
 yueding 1
