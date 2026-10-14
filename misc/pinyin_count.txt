@@ -177,7 +177,7 @@ changdu 7
 changge 9
 changjia 3 1
 changjian 3
-changjing 135
+changjing 136
 changqi 2
 changshang 2
 changshi 26
@@ -301,7 +301,7 @@ dazao 10
 de 28 1
 dedao 3
 defen 1
-deng 63 1
+deng 64 1
 dengbili 1
 dengdai 4
 dengdao 1
@@ -314,7 +314,7 @@ dezhi 5
 di 11 3 1
 dian 45 1 1
 diange 40
-diangeping 78
+diangeping 80
 dianji 15
 diannao 1
 dianshi 4
@@ -749,7 +749,7 @@ jingmo 2
 jingqing 1
 jingque 9
 jingtai 3
-jingxiang 26
+jingxiang 27
 jingxin 2
 jingxuan 1
 jingyan 3
@@ -998,7 +998,7 @@ nv 7
 nvpu 1
 o 14
 ou 1
-pai 3 2
+pai 4 2
 paibi 1
 paibipaidui 1
 paibu 7
@@ -1770,7 +1770,7 @@ zhanshi 111
 zhanwei 1
 zhanyong 9
 zhanyou 1
-zhao 4 1
+zhao 5 1
 zhaopian 4
 zhaopianqiang 1
 zhe 5 2
@@ -1805,7 +1805,7 @@ zhezhebian 1
 zhezhezhong 1
 zhezhong 10
 zhi 106 38 3
-zhichi 288
+zhichi 289
 zhichu 1 1
 zhida 1
 zhidao 8
