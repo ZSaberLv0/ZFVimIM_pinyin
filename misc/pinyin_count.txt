@@ -264,7 +264,7 @@ dacheng 4
 dadao 1
 daduo 6
 dagai 1
-dai 18 2 2
+dai 19 2 2
 daibiao 2
 dailing 1
 daima 26
@@ -332,7 +332,7 @@ diejia 7
 dier 3
 difang 2
 digui 10
-ding 16 2
+ding 17 2
 dingbu 7
 dingceng 1
 dingdan 4
@@ -913,7 +913,7 @@ manzu 1
 mao 1
 maodian 1
 me 1
-mei 64 8 3 1
+mei 65 8 4 1
 meici 11
 meige 19 7
 meiguan 1
