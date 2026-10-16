@@ -955,7 +955,7 @@ mouge 14
 mouxie 6
 mowei 6
 moxing 18
-moyun 12
+moyun 13
 mubiao 14
 mudi 1
 mulu 145
@@ -1090,7 +1090,7 @@ qu 17 2
 quan 15
 quanju 5
 quanliang 1
-quanping 10
+quanping 11
 quanxian 9
 qubie 15
 quchu 12
@@ -1206,7 +1206,7 @@ shenzhi 1
 shewei 6
 shexiangtou 1
 shezhi 24
-shi 333 87 31 10
+shi 334 87 31 10
 shibai 22
 shibie 65
 shichang 13 2
@@ -1370,7 +1370,7 @@ tongxun 12
 tongyi 11 4
 tongyige 7
 tongyong 4
-tongzhi 18
+tongzhi 19
 tou 5 3
 touchu 2
 touchuan 9
@@ -1768,7 +1768,7 @@ zhan 3 3 1
 zhang 1 1
 zhanshi 111
 zhanwei 1
-zhanyong 9
+zhanyong 11
 zhanyou 1
 zhao 5 1
 zhaopian 4
