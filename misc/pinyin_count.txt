@@ -169,7 +169,7 @@ ceshi 91
 cha 7 4
 chachuangjian 1
 chajian 4
-chakan 10
+chakan 11
 chan 1
 chang 9 7 6
 changchang 1
@@ -180,7 +180,7 @@ changjian 3
 changjing 136
 changqi 2
 changshang 2
-changshi 26
+changshi 27
 changsuo 4
 changyong 3
 changzhu 4
@@ -623,7 +623,7 @@ huadong 1
 huafei 1
 huan 11
 huancun 15
-huanfu 5
+huanfu 6
 huanhang 1
 huanhangfu 2
 huanjie 7
@@ -706,7 +706,7 @@ jichu 14
 jici 1
 jid 1
 jiding 7
-jidinghe 106
+jidinghe 107
 jie 11 7 3 1 2
 jieda 1
 jiedian 13
@@ -801,7 +801,7 @@ kaiguan 7
 kaiji 9
 kailang 2
 kaiqi 30
-kaishi 174
+kaishi 175
 kaixin 1
 kaizhi 1
 kakaishi 2
@@ -1132,7 +1132,7 @@ renyi 24
 renyuan 2
 reqing 1
 ri 4
-rizhi 51
+rizhi 52
 rong 1 1
 rongcuo 23
 rongru 1
