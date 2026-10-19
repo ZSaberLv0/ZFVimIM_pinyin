@@ -781,7 +781,7 @@ jixu 13
 jiyu 1
 jizhi 1
 jizhong 1 1 1
-ju 2 2
+ju 2 3
 jueding 6
 juedui 4
 juese 1
@@ -1704,7 +1704,7 @@ youxiao 10
 youyiyi 2
 youyu 10
 yu 114 8
-yuan 13 13 2
+yuan 13 14 2
 yuanban 1
 yuanchang 1
 yuancheng 2
