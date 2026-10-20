@@ -6456,6 +6456,7 @@ zhongduan 终端 中断
 zhongdui 中对
 zhongduo 众多
 zhonggad 中咖的
+zhonggade 中咖的
 zhonggong 中共
 zhonggui 忠贵 重柜
 zhongguo 中国
