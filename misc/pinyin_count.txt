@@ -1764,7 +1764,7 @@ zaoshang 1
 ze 70
 zeng 1
 zengjia 2
-zengzhi 2
+zengzhi 3
 zenme 5
 zenyang 1
 zhan 3 3 1
