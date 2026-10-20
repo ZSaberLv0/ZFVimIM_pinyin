@@ -1194,7 +1194,7 @@ shendu 1
 sheng 7
 shengchan 2
 shengcheng 40
-shengji 9
+shengji 11
 shengri 24
 shengxiao 14
 shengyin 5
