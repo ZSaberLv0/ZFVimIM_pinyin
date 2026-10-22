@@ -3628,6 +3628,7 @@ peihe 配合
 peijian 配件
 peiliao 陪聊
 peiling 佩玲
+peipeizhi 配配置
 peishi 配饰
 peisong 配送
 peitao 配套
