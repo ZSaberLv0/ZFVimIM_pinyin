@@ -409,7 +409,7 @@ fachu 1
 fafangan 1
 fagei 4
 fanduo 2
-fang 9 8 4
+fang 10 8 4
 fangan 23 1
 fangbian 3
 fangda 1
@@ -657,7 +657,7 @@ hushi 1
 huxiang 2
 hyemian 1
 ji 76 7 3
-jia 19 3
+jia 19 3 1
 jiading 1
 jiage 1
 jiagehuo 1
@@ -706,7 +706,7 @@ jichu 14
 jici 1
 jid 1
 jiding 7
-jidinghe 110
+jidinghe 111
 jie 11 7 3 1 2
 jieda 1
 jiedian 13
@@ -797,7 +797,7 @@ kai 11
 kaichang 9
 kaifa 3
 kaifang 8 4
-kaiguan 7
+kaiguan 8
 kaiji 9
 kailang 2
 kaiqi 30
@@ -1058,7 +1058,7 @@ qianyi 7
 qianzai 19
 qici 2
 qidai 1
-qidong 99
+qidong 100
 qie 36 21
 qiege 42
 qiegeqie 1
@@ -1296,7 +1296,7 @@ souge 2
 sousuo 8
 su 3
 sucai 7
-sudu 5
+sudu 6
 suiji 11
 suiran 1
 suishi 1
