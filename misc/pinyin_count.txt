@@ -312,7 +312,7 @@ dengjia 1
 dengkong 27
 dezhi 5
 di 11 3 1
-dian 46 1 1
+dian 47 1 1
 diange 40
 diangeping 80
 dianji 15
@@ -1707,7 +1707,7 @@ youxiao 10
 youyiyi 2
 youyu 10
 yu 114 8
-yuan 15 13 2
+yuan 15 14 2
 yuanban 1
 yuanchang 1
 yuancheng 2
