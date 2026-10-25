@@ -257,7 +257,7 @@ cunqu 1
 cunzai 36
 cuo 2
 cuowu 26
-d 1198
+d 1199
 da 43 2 3
 dabao 4
 dacheng 4
@@ -1117,7 +1117,7 @@ quzhi 1
 ran 6
 raner 2
 ranrenwu 1
-rao 1
+rao 1 2
 raocheng 1
 raoguo 1
 re 10 1
@@ -1233,7 +1233,7 @@ shishi 4 2
 shishifou 1
 shishipin 1
 shiti 1
-shitu 19
+shitu 21
 shiwei 23
 shixian 62
 shixiang 2
@@ -1456,6 +1456,7 @@ wubuneng 1
 wufa 47 1
 wuguan 1
 wulun 2
+wuti 1
 wuwufa 2
 wuxian 1
 wuxiao 14
@@ -1670,7 +1671,7 @@ yiti 2
 yitiao 1
 yitu 113
 yiwai 2 1
-yixia 113 16
+yixia 114 16
 yixie 14
 yiyang 4
 yiyou 4
@@ -1832,6 +1833,7 @@ zhiqian 29
 zhishao 3
 zhishi 1 1
 zhixiang 1
+zhixin 1
 zhixing 63
 zhixu 1
 zhiyao 7
@@ -1851,6 +1853,7 @@ zhongli 1
 zhongtai 4
 zhongtu 2
 zhongwen 3
+zhongxin 1
 zhongyang 1
 zhou 9
 zhouqi 10
