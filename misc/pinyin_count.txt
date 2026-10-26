@@ -535,11 +535,11 @@ gongxi 1
 goucheng 1
 gouzao 1
 gua 3 1
-guan 11
+guan 12
 guanbi 23
 guancha 2
 guandian 1
-guanfang 1
+guanfang 1 1
 guang 1
 guangbo 13
 guangdian 6
@@ -794,10 +794,10 @@ juti 11
 juxian 1
 ka 18
 kachang 1
-kai 12
+kai 13
 kaichang 9
 kaifa 3
-kaifang 8 4
+kaifang 9 4
 kaiguan 8
 kaiji 9
 kailang 2
@@ -1222,8 +1222,8 @@ shigong 7
 shih 3
 shihe 3
 shiji 15 6
-shijian 55 39
-shijianchuo 6
+shijian 56 39
+shijianchuo 7
 shike 1
 shili 123 1
 shiliujinzhi 4
