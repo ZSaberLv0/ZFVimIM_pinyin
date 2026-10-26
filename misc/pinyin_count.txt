@@ -591,7 +591,7 @@ haomiao 18
 haoshi 6
 haowan 2
 he 179
-hebing 13
+hebing 14
 hegui 7
 hei 15
 heise 3
@@ -1210,7 +1210,7 @@ shenzhi 1
 shewei 6
 shexiangtou 1
 shezhi 24
-shi 343 89 31 11
+shi 344 89 31 11
 shibai 22
 shibie 65
 shichang 13 2
@@ -1674,7 +1674,7 @@ yiwai 2 1
 yixia 115 16
 yixie 14
 yiyang 4
-yiyou 4
+yiyou 5
 yizhang 5
 yizhen 1
 yizhi 23 3 1 1
@@ -1889,7 +1889,7 @@ zi 7 2
 zice 4
 zidian 1
 zidingyi 14
-zidong 84
+zidong 85
 ziduan 112
 zifu 4
 zifuchuan 55
