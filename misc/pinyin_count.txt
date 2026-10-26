@@ -409,7 +409,7 @@ fachu 1
 fafangan 1
 fagei 4
 fanduo 2
-fang 10 8 4
+fang 12 8 4
 fangan 23 1
 fangbian 3
 fangda 1
@@ -535,10 +535,11 @@ gongxi 1
 goucheng 1
 gouzao 1
 gua 3 1
-guan 10
+guan 11
 guanbi 23
 guancha 2
 guandian 1
+guanfang 1
 guang 1
 guangbo 13
 guangdian 6
@@ -793,7 +794,7 @@ juti 11
 juxian 1
 ka 18
 kachang 1
-kai 11
+kai 12
 kaichang 9
 kaifa 3
 kaifang 8 4
