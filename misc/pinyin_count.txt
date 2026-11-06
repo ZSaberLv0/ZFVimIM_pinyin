@@ -1460,7 +1460,7 @@ wenzi 9
 wo 5
 wom 17
 wsm 3
-wu 48 2
+wu 48 3
 wubuneng 1
 wufa 47 1
 wuguan 1
@@ -1913,7 +1913,7 @@ zixun 3
 ziyou 1 2
 ziyuan 24
 zizhu 27 7
-zong 8
+zong 9
 zongjie 22
 zongshi 1
 zou 11 3
