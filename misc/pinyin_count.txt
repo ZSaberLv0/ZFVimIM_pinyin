@@ -804,7 +804,7 @@ ka 18
 kachang 1
 kai 13
 kaichang 9
-kaifa 3
+kaifa 4
 kaifang 9 4
 kaiguan 8
 kaiji 9
