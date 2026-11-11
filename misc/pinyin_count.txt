@@ -418,7 +418,7 @@ fangbian 3
 fangda 1
 fangdou 1
 fangmian 7
-fangshi 70
+fangshi 71
 fangwen 9
 fangxiang 3
 fangzhi 4
@@ -594,7 +594,7 @@ haoma 1
 haomiao 18
 haoshi 6
 haowan 2
-he 181
+he 183
 hebing 14
 hegui 7
 hei 15
@@ -708,6 +708,7 @@ jiaru 3 1
 jiarujianrong 1
 jiasu 4
 jiazai 30
+jicheng 1 1
 jichu 14
 jici 1
 jid 1
@@ -834,7 +835,7 @@ kongge 3
 kongjian 14 1
 kongzhi 41
 kou 2 2
-ku 36 1
+ku 38 1
 kua 3
 kuai 1 2
 kuaisu 8
@@ -1663,7 +1664,7 @@ yinliang 28
 yinpin 13
 yinqi 6
 yinqing 4
-yinru 2
+yinru 4
 yinse 3
 yinshi 5
 yinwei 4
