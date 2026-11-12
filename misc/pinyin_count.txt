@@ -312,7 +312,7 @@ dengdeng 3
 dengguang 78
 dengji 2
 dengjia 1
-dengkong 27
+dengkong 28
 dezhi 5
 di 11 3 1
 dian 48 1 1
@@ -809,7 +809,7 @@ kai 13
 kaichang 9
 kaifa 4
 kaifang 9 4
-kaiguan 8
+kaiguan 9
 kaiji 9
 kailang 2
 kaiqi 32
@@ -872,7 +872,7 @@ leixing 37
 leng 10
 li 5
 lian 7
-liandong 56
+liandong 57
 liang 7 3
 liangbei 1
 liangce 2
@@ -1568,7 +1568,7 @@ xintiao 2
 xinwen 4
 xinxi 57
 xinxian 1
-xinzeng 70
+xinzeng 71
 xinzengjiekou 1
 xinzengxinzeng 1
 xinzengzhichi 1
