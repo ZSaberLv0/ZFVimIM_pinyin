@@ -216,6 +216,7 @@ chong 11
 chongchongfu 1
 chongdie 1
 chongfu 19
+chonggou 1
 chongqi 17
 chongshi 3
 chongtu 5
@@ -725,7 +726,7 @@ jieguo 13
 jiehe 4
 jiejin 7
 jiejue 21
-jiekou 79
+jiekou 80
 jiemi 1
 jiemian 10
 jiemu 4
