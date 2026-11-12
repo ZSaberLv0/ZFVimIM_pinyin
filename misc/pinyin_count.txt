@@ -840,7 +840,7 @@ kongge 3
 kongjian 14 1
 kongzhi 41
 kou 2 2
-ku 40 1
+ku 41 1
 kua 3
 kuai 1 2
 kuaisu 8
@@ -1211,7 +1211,7 @@ shendu 1
 sheng 7
 shengchan 2
 shengcheng 40
-shengji 11
+shengji 12
 shengri 25
 shengxiao 15
 shengyin 5
