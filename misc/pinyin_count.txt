@@ -421,7 +421,7 @@ fangbian 3
 fangda 1
 fangdou 1
 fangmian 7
-fangshi 75
+fangshi 77
 fangwen 9
 fangxiang 3
 fangzhi 4
@@ -804,11 +804,12 @@ juli 6
 jun 8
 juti 11
 juxian 1
-ka 18
+ka 19
 kachang 1
+kafangshi 1
 kai 13
 kaichang 9
-kaifa 4
+kaifa 5
 kaifang 9 4
 kaiguan 9
 kaiji 9
@@ -1359,7 +1360,7 @@ tiaojian 8
 tiaojie 3
 tiaopei 1
 tiaopi 2
-tiaoshi 49
+tiaoshi 50
 tiaowu 11
 tiaozheng 38
 tiaozhuan 33
@@ -1736,7 +1737,7 @@ yuancheng 2
 yuandian 4 3
 yuangong 1
 yuanli 1
-yuanma 3
+yuanma 4
 yuansheng 4
 yuanshi 3
 yuanshou 2
@@ -1834,7 +1835,7 @@ zhezhebian 1
 zhezhezhong 1
 zhezhong 10
 zhi 107 38 3
-zhichi 302
+zhichi 303
 zhichu 1 1
 zhida 1
 zhidao 9
