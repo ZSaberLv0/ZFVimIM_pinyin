@@ -548,7 +548,7 @@ guancha 2
 guandian 1
 guanfang 1 1
 guang 1
-guangbo 14
+guangbo 15
 guangdian 6
 guanggao 4
 guangzhou 1
