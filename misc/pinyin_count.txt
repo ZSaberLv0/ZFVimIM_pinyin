@@ -368,7 +368,7 @@ doushi 5
 douyao 1
 douyou 2
 du 5
-duan 12 6 1
+duan 13 7 1
 duanqi 2
 duanxin 1
 dui 14
@@ -428,7 +428,7 @@ fangzhi 4
 fanhui 57
 fanhuizhi 3
 fanshe 4
-fanwei 5
+fanwei 6
 fanyi 3
 faqi 56
 fasheng 6
@@ -525,7 +525,7 @@ gengshi 2
 gengxin 140
 genju 50
 gensui 1
-gequ 148
+gequ 149
 geshi 76
 geshihua 5
 geshu 7
@@ -591,7 +591,7 @@ han 1
 hang 29
 hangwei 1
 hanshu 21
-hao 13 8
+hao 15 8
 haochu 1
 haode 1
 haoma 1
@@ -659,7 +659,7 @@ hunan 4
 hunluan 1
 huo 123
 huode 5
-huodong 3
+huodong 4
 huoqu 58
 huozhe 7
 huqi 3
@@ -1363,7 +1363,7 @@ tiaopei 1
 tiaopi 2
 tiaoshi 50
 tiaowu 11
-tiaozheng 39
+tiaozheng 40
 tiaozhuan 33
 ticai 1
 tice 8
@@ -1440,7 +1440,7 @@ wanzheng 25
 wasm 1
 wawenti 8
 wayixia 1
-wei 190 28 4 2 1
+wei 191 28 4 2 1
 weichi 14
 weici 1
 weigui 5
@@ -1771,7 +1771,7 @@ yunchayunduan 1
 yunduan 4
 yuni 6
 yunxing 18
-yunxu 9
+yunxu 10
 yunying 18
 yushe 2
 yuyan 18 2 1
@@ -1936,7 +1936,7 @@ zong 9
 zongjie 22
 zongshi 1
 zou 11 3
-zu 2 1
+zu 3 2
 zui 11
 zuibu 2
 zuibuzuizhong 2
