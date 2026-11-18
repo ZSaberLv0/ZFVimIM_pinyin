@@ -548,7 +548,7 @@ guancha 2
 guandian 1
 guanfang 1 1
 guang 1
-guangbo 15
+guangbo 16
 guangdian 6
 guanggao 4
 guangzhou 1
@@ -1385,7 +1385,7 @@ tong 14 2
 tongbu 27
 tongchang 19
 tongdian 2 2
-tongguo 75
+tongguo 76
 tongji 10
 tongli 1
 tonglu 2
