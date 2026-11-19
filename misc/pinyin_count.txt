@@ -533,7 +533,7 @@ gete 1
 gexing 19
 gezhong 15
 gong 15
-gongbo 17
+gongbo 19
 gongcheng 6
 gongju 18
 gongneng 42
