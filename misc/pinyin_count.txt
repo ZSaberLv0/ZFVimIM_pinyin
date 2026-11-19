@@ -618,7 +618,7 @@ hexiao 2
 hezhao 1
 hong 3
 hongse 2
-hou 91
+hou 92
 houduan 30
 houmian 2
 houqi 1
@@ -1481,9 +1481,9 @@ wubuneng 1
 wudou 1
 wufa 49 1
 wuguan 1
-wuli 15
+wuli 16
 wulun 2
-wuti 35
+wuti 36
 wuwufa 2
 wuxian 1
 wuxiao 14
@@ -1595,7 +1595,7 @@ xuanfuchuang 1
 xuanshang 2
 xuanxiang 5
 xuanze 8
-xuanzhuan 21
+xuanzhuan 22
 xuduo 4
 xuesheng 1
 xunhuan 11
@@ -1679,7 +1679,7 @@ yinhao 3
 yinliang 28
 yinpin 13
 yinqi 6
-yinqing 19
+yinqing 20
 yinru 5
 yinse 3
 yinshi 5
@@ -1875,7 +1875,7 @@ zhiyou 5
 zhizhen 4
 zhizhijie 1
 zhizuo 3
-zhong 232
+zhong 233
 zhongdian 4
 zhongdu 1
 zhongduan 2
