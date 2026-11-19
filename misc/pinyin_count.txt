@@ -1436,7 +1436,7 @@ wangsu 2
 wangye 2
 wanjia 3
 wanmei 1
-wanquan 4
+wanquan 5
 wanshan 3
 wanshang 1
 wanshua 1
