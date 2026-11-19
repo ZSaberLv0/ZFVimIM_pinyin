@@ -1118,7 +1118,7 @@ quanliang 1
 quanping 11
 quanxian 9
 qubie 15
-quchu 13
+quchu 14
 qudao 1
 que 3
 quebao 8
@@ -1259,7 +1259,7 @@ shishipin 1
 shiti 1
 shitu 21
 shiwei 23
-shixian 71
+shixian 72
 shixiang 4
 shixu 1 2
 shiyan 2
@@ -1587,7 +1587,7 @@ xishu 1
 xitong 38
 xiu 8 1
 xiufu 96
-xiugai 64
+xiugai 65
 xiwang 2
 xu 23
 xuan 5
@@ -1654,7 +1654,7 @@ yijiao 1
 yijing 5
 yijiu 1
 yiju 1
-yilai 3
+yilai 4
 yilaiyu 3
 yiliu 3
 yilou 2
