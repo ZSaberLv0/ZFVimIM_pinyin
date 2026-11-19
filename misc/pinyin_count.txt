@@ -120,7 +120,7 @@ buju 1
 buke 2 2
 bukeyong 9
 buneng 15
-buquan 4
+buquan 5
 buque 1
 bushi 15
 bushou 1
@@ -1695,7 +1695,7 @@ yiti 2
 yitiao 1
 yitu 113
 yiwai 2 1
-yixia 115 16
+yixia 116 16
 yixie 14
 yiyang 4
 yiyou 5
