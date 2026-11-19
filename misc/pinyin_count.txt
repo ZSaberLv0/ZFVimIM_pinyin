@@ -100,7 +100,7 @@ bofangqi 38
 bokong 11
 bowan 8
 bu 184 1
-bubian 2
+bubian 3
 buchu 1
 buchuan 1
 bucuo 2
@@ -260,7 +260,7 @@ cunqu 1
 cunzai 38
 cuo 2
 cuowu 27
-d 1275
+d 1276
 da 45 2 3
 dabao 6
 dacheng 5
@@ -380,7 +380,7 @@ duijie 4
 duilie 1
 duiwai 3
 duixiang 20
-duiying 57
+duiying 58
 duiyu 39
 duli 10
 duo 31
@@ -747,7 +747,7 @@ jiexi 11
 jieya 9
 jifen 3
 jige 1
-jihu 1
+jihu 2
 jihua 3
 jijiang 2
 jike 13
@@ -1457,7 +1457,7 @@ weineng 1
 weixin 2
 weiyi 10 1
 weiyu 4
-weizhi 44 2
+weizhi 45 2
 wen 7
 wenan 6
 wenben 24
@@ -1664,7 +1664,7 @@ yinci 3
 yindao 16
 yinei 2
 yinfa 2
-ying 9 9
+ying 9 10
 yingdui 2
 yinggai 5
 yingjian 4
@@ -1868,7 +1868,7 @@ zhiqian 29
 zhishao 3
 zhishi 1 1
 zhixiang 1
-zhixin 8
+zhixin 9
 zhixing 64
 zhixu 1
 zhiyao 7
