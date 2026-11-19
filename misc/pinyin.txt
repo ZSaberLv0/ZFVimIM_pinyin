@@ -3657,6 +3657,7 @@ pian 偏 便 片 篇 骗 翩 扁 犏 谝 蹁 骈 缏 胼 囨 媥 平 徧 楄 楩
 pianhao 偏好
 pianren 骗人
 piantou 片头
+pianyi 偏移
 piao 票 漂 飘 瓢 嫖 瞟 骠 嘌 剽 朴 螵 缥 莩 殍 僄 勡 彯 徱 慓 摽 旚 潎 犥 皫 磦 篻 縹 翲 膘 蔈 薸 謤 醥 闝 顠 飃 飄 驃 驫 骉 髟 魒
 piaojia 票价
 piaoju 票据
@@ -3987,7 +3988,7 @@ rangta 让他 让她 让它
 rangwo 让我
 ranhou 然后
 ranrenwu 然任务
-rao 扰 绕 饶 娆 桡 荛 嬈 挠 撓 擾 橈 犪 穘 繚 繞 缭 蕘 蟯 襓 遶 隢 饒
+rao 绕 扰 饶 娆 桡 荛 嬈 挠 撓 擾 橈 犪 穘 繚 繞 缭 蕘 蟯 襓 遶 隢 饒
 raocheng 绕成
 raoguo 绕过
 re 热 惹 喏 偌 捼 渃 熱 若 蹃
@@ -6007,7 +6008,7 @@ yuanchao 远超
 yuancheng 远程
 yuanchuang 原创
 yuandan 元旦
-yuandian 圆点 原点
+yuandian 原点 圆点
 yuanfang 院方
 yuanfen 元分
 yuangong 员工
