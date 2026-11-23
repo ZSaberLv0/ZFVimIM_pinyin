@@ -118,7 +118,7 @@ bujian 2
 bujin 1
 buju 1
 buke 2 2
-bukeyong 9
+bukeyong 10
 buneng 15
 buquan 5
 buque 1
@@ -425,7 +425,7 @@ fangshi 77
 fangwen 9
 fangxiang 3
 fangzhi 4
-fanhui 57
+fanhui 58
 fanhuizhi 3
 fanshe 4
 fanwei 6
@@ -546,7 +546,7 @@ guan 12
 guanbi 23
 guancha 2
 guandian 1
-guanfang 1 1
+guanfang 2 2
 guang 1
 guangbo 16
 guangdian 6
@@ -1232,7 +1232,7 @@ shenzhi 1
 shewei 7
 shexiangtou 1
 shezhi 27
-shi 358 94 35 11
+shi 359 94 35 11
 shibai 22
 shibie 65
 shichang 13 2
