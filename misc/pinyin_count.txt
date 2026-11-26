@@ -818,7 +818,7 @@ kaiguan 10
 kaiji 9
 kailang 2
 kaiqi 33
-kaishi 178
+kaishi 179
 kaixin 1
 kaizhi 1
 kakaishi 2
@@ -1107,7 +1107,7 @@ qiqizhong 1
 qita 48 1
 qiu 4 1
 qiwang 21
-qiyong 33 11
+qiyong 33 12
 qiyu 8
 qizhong 7
 qu 17 2
