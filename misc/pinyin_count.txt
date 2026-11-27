@@ -65,7 +65,7 @@ bianhao 2
 bianhua 46
 bianji 5
 bianli 14
-bianliang 13
+bianliang 14
 bianma 5
 bianpai 4
 bianxie 7
@@ -678,7 +678,7 @@ jian 13 8
 jiance 10
 jiancha 4
 jiandan 2
-jiang 54 2
+jiang 56 2
 jiangdi 9
 jiange 5
 jianghui 1
@@ -1169,7 +1169,7 @@ ru 12 2
 ruan 7
 ruanyingjian 2
 ruguo 21
-ruhe 156
+ruhe 157
 rui 2
 rukou 7
 ruo 98 1
@@ -1446,7 +1446,7 @@ wanzheng 25
 wasm 1
 wawenti 8
 wayixia 1
-wei 197 28 4 2 1
+wei 198 28 4 2 1
 weichi 14
 weici 1
 weigui 5
@@ -1647,7 +1647,7 @@ yiding 5
 yidong 23
 yiduan 2
 yifen 1
-yige 114
+yige 116
 yihuo 3
 yiji 11 7
 yijian 5
@@ -1900,7 +1900,7 @@ zhuangban 1
 zhuangtai 72
 zhuangxiu 1
 zhuanhua 1
-zhuanhuan 27
+zhuanhuan 28
 zhuanjia 2
 zhuanma 11
 zhuanmen 1
@@ -1929,7 +1929,7 @@ zidingyi 14
 zidong 86
 ziduan 112
 zifu 4
-zifuchuan 55
+zifuchuan 56
 ziji 15
 zijie 3
 zimu 1 1
